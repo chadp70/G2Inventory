@@ -1,17 +1,15 @@
-import './App.css';
+import "./css/App.css";
 
-function App() {
+import "bootstrap/dist/css/bootstrap.min.css";
+import Header from "./components/Header";
+import Body from "./components/Body";
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        
-        <p>
-          G-2 Inventory Control
-        </p>
-
-      </header>
+    <div>
+      <Header title="G-2 Inventory Management" />
+      <Body />
     </div>
   );
-}
+};
 
 export default App;
