@@ -1,24 +1,35 @@
 import { Container, Row, Col } from "react-bootstrap";
 import inventoryData from '../api/inventory.json';
-console.log(inventoryData);
-const Inventory = (props) => {
-    {
-        inventoryData.map((inventoryItem, index) => {
-            return (
-                <Row key={index}>
-                    <Col>{inventoryItem.TAMCN}</Col>
-                    <Col>{inventoryItem.AAC}</Col>
-                    <Col>{inventoryItem.SUC}</Col>
-                    <Col>{inventoryItem.Account_Number}</Col>
-                    <Col>{inventoryItem.Nomenclature}</Col>
-                    <Col>{inventoryItem.NIIN}</Col>
-                    <Col>{inventoryItem.Count_of_Serial_Number}</Col>
-                    <Col>{inventoryItem.Sum_of_Quantity}</Col>
-                    <Col>{inventoryItem.Sum_of_Unit_Price}</Col>
-                </Row>
-            );
-        })
-    }
+
+const Inventory = () => {
+    return (
+        // inventoryData.forEach(function (data) {
+        <Row>
+            <Col>Foo</Col>
+            <Col>Foo</Col>
+            <Col>Foo</Col>
+            <Col>Foo</Col>
+            <Col>Foo</Col>
+            <Col>Foo</Col>
+            <Col>Foo</Col>
+            <Col>Foo</Col>
+            <Col>Foo</Col>
+            <Col>Foo</Col>
+        </Row>
+
+        //         <Col>{data.TAMCN}</Col>
+        //         <Col>{data.AAC}</Col>
+        //         <Col>{data.SUC}</Col>
+        //         <Col>{data.Account_Number}</Col>
+        //         <Col>{data.Nomenclature}</Col>
+        //         <Col>{data.NIIN}</Col>
+        //         <Col>{data.Count_of_Serial_Number}</Col>
+        //         <Col>{data.Sum_of_Quantity}</Col>
+        //         <Col>{data.Sum_of_Unit_Price}</Col>             
+        // })
+
+    );
+
 };
 
 export default Inventory;
