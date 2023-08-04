@@ -1,9 +1,8 @@
 import { Container, Row, Col } from "react-bootstrap";
-import inventory from '../api/inventory.json';
-console.log(inventory);
+import Inventory from "./Inventory";
 const Body = (props) => {
   return (
-    <Container>
+    <>
       <Row className="justify-content-md-center">
         <Col className="bg-secondary text-light">TAMCN</Col>
         <Col className="bg-secondary text-light">AAC</Col>
@@ -15,8 +14,8 @@ const Body = (props) => {
         <Col className="bg-secondary text-light">Sum of Quantity</Col>
         <Col className="bg-secondary text-light">Sum of Unit Price</Col>
       </Row>
-
-    </Container>
+      <Inventory />
+    </>
   );
 };
 
