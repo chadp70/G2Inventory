@@ -1,11 +1,11 @@
-import {  Container, Row, Col } from "react-bootstrap";
-import Inventory from "./Inventory";
+import {  Container } from "react-bootstrap";
+import SelectItem from "./SelectItem";
 const Body = (props) => {
   return (
     <>
       <Container>
 
-        <Inventory />
+        <SelectItem />
       </Container>
     </>
   );

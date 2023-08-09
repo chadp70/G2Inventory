@@ -1,1041 +1,4242 @@
 [
-    {"Nomenclature":"ACCESSORY KIT,ANTEN", "NIIN":"16815564"},
-    {"Nomenclature":"ACCESSORY KIT,ELECT", "NIIN":"16629410"},
-    {"Nomenclature":"ACCESSORY KIT,ELECT", "NIIN":"226266776"},
-    {"Nomenclature":"ACCESSORY KIT,ELECT", "NIIN":"16516837"},
-    {"Nomenclature":"ACCESSORY KIT,ELECT", "NIIN":"16629998"},
-    {"Nomenclature":"ACCESSORY KIT,MAST", "NIIN":"16586217"},
-    {"Nomenclature":"ACCESSORY KIT,MAST", "NIIN":"16586434"},
-    {"Nomenclature":"ACCESSORY KIT,PHOTO", "NIIN":"16235693"},
-    {"Nomenclature":"ACCESSORY KIT,PHOTO", "NIIN":"16235761"},
-    {"Nomenclature":"ACCESSORY OUTFIT,FO", "NIIN":"3488652"},
-    {"Nomenclature":"ADAPTER SET,ENGINE", "NIIN":"16892353"},
-    {"Nomenclature":"ADAPTER,POWER SUPPL", "NIIN":"15976193"},
-    {"Nomenclature":"ADAPTER,POWER SUPPL", "NIIN":"16213563"},
-    {"Nomenclature":"ADAPTER,POWER SUPPL", "NIIN":"16586944"},
-    {"Nomenclature":"AIR CONDITIONER", "NIIN":"15812260"},
-    {"Nomenclature":"AIR CONDITIONER", "NIIN":"15811276"},
-    {"Nomenclature":"ALL SOURCE ANALYSIS", "NIIN":"16973617"},
-    {"Nomenclature":"ALL SOURCE ANALYSIS", "NIIN":"16744782"},
-    {"Nomenclature":"AMPLIFIER-CONTROL G", "NIIN":"16592602"},
-    {"Nomenclature":"AMPLIFIER-CONTROL G", "NIIN":"16741992"},
-    {"Nomenclature":"AMPLIFIER-POWER SUP", "NIIN":"16757959"},
-    {"Nomenclature":"AMPLIFIER-POWER SUP", "NIIN":"16570393"},
-    {"Nomenclature":"AMPLIFIER-POWER SUP", "NIIN":"16676475"},
-    {"Nomenclature":"AMPLIFIER-POWER SUP", "NIIN":"16676476"},
-    {"Nomenclature":"AMPLIFIER-POWER SUP", "NIIN":"16895614"},
-    {"Nomenclature":"ANALYZER SET,VEHICU", "NIIN":"15923458"},
-    {"Nomenclature":"ANALYZER SET,VEHICU", "NIIN":"15929766"},
-    {"Nomenclature":"ANALYZER-CHARGER,BA", "NIIN":"15109594"},
-    {"Nomenclature":"ANEMOMETER", "NIIN":"16446757"},
-    {"Nomenclature":"ANTENNA", "NIIN":"1066130"},
-    {"Nomenclature":"ANTENNA", "NIIN":"16567113"},
-    {"Nomenclature":"ANTENNA", "NIIN":"16586205"},
-    {"Nomenclature":"ANTENNA", "NIIN":"16586207"},
-    {"Nomenclature":"ANTENNA", "NIIN":"16586214"},
-    {"Nomenclature":"ANTENNA BOARDBAND", "NIIN":"70001339"},
-    {"Nomenclature":"ANTENNA CONTROL SUB", "NIIN":"16600296"},
-    {"Nomenclature":"ANTENNA ELEVATOR GR", "NIIN":"10631574"},
-    {"Nomenclature":"ANTENNA GROUP", "NIIN":"16750548"},
-    {"Nomenclature":"ANTENNA GROUP", "NIIN":"16752889"},
-    {"Nomenclature":"ANTENNA GROUP,COMMO", "NIIN":"15852696"},
-    {"Nomenclature":"ANTENNA, BROADBAND", "NIIN":"70001340"},
-    {"Nomenclature":"AUTO ACTIVATION DEV", "NIIN":"15986139"},
-    {"Nomenclature":"BAG,CARGO,AERIAL DE", "NIIN":"5873421"},
-    {"Nomenclature":"BATTERY POWER SOURC", "NIIN":"16305375"},
-    {"Nomenclature":"BAYONET-KNIFE", "NIIN":"15216087"},
-    {"Nomenclature":"BEACON SET,RADIO", "NIIN":"16538172"},
-    {"Nomenclature":"BEACON,DISTRESS", "NIIN":"16165705"},
-    {"Nomenclature":"BEACON,DISTRESS", "NIIN":"16174806"},
-    {"Nomenclature":"BEACON,RADIO", "NIIN":"15143549"},
-    {"Nomenclature":"BELT,INDIVIDUAL EQU", "NIIN":"13221965"},
-    {"Nomenclature":"BELT,INDIVIDUAL EQU", "NIIN":"13221966"},
-    {"Nomenclature":"BINOCULAR", "NIIN":"14993547"},
-    {"Nomenclature":"BINOCULAR", "NIIN":"14306944"},
-    {"Nomenclature":"BINOCULAR", "NIIN":"15593648"},
-    {"Nomenclature":"BOAT,LANDING,INFLAT", "NIIN":"15991756"},
-    {"Nomenclature":"BODY ARMOR OUTFIT,E", "NIIN":"16828364"},
-    {"Nomenclature":"BORELIGHT SYSTEM,LA", "NIIN":"14712091"},
-    {"Nomenclature":"BORESCOPE", "NIIN":"15629886"},
-    {"Nomenclature":"BORESCOPE,VIDEO", "NIIN":"16310369"},
-    {"Nomenclature":"BORESIGHT KIT", "NIIN":"15717212"},
-    {"Nomenclature":"BOX,SHIPPING", "NIIN":"13540797"},
-    {"Nomenclature":"BOX,SHIPPING", "NIIN":"14747089"},
-    {"Nomenclature":"BOX,SHIPPING", "NIIN":"13713690"},
-    {"Nomenclature":"BOX,SHIPPING", "NIIN":"11994017"},
-    {"Nomenclature":"BREATHING APPARATUS", "NIIN":"13333495"},
-    {"Nomenclature":"CABINET,TOOL,MOBILE", "NIIN":"15863669"},
-    {"Nomenclature":"CABLE ASSEMBLY,SPEC", "NIIN":"15308289"},
-    {"Nomenclature":"CABLE KIT,RADIO FRE", "NIIN":"15647040"},
-    {"Nomenclature":"CALIPER,DIAL", "NIIN":"10104522"},
-    {"Nomenclature":"CAMERA GROUP,RECONN", "NIIN":"16858880"},
-    {"Nomenclature":"CAMERA SET,MOTION P", "NIIN":"16868539"},
-    {"Nomenclature":"CAMERA SET,STILL PI", "NIIN":"17025157"},
-    {"Nomenclature":"CAMERA SET,STILL PI", "NIIN":"16868540"},
-    {"Nomenclature":"CAMERA SYSTEM,DIGIT", "NIIN":"16186328"},
-    {"Nomenclature":"CAMERA SYSTEM,DIGIT", "NIIN":"16186440"},
-    {"Nomenclature":"CAMERA SYSTEM,RECON", "NIIN":"15997375"},
-    {"Nomenclature":"CAMERA SYSTEM,RECON", "NIIN":"16868355"},
-    {"Nomenclature":"CAMERA SYSTEM,SURVE", "NIIN":"17025726"},
-    {"Nomenclature":"CAMERA SYSTEM,SURVE", "NIIN":"16807147"},
-    {"Nomenclature":"CAMERA,MOTION PICTU", "NIIN":"16166141"},
-    {"Nomenclature":"CAMERA,RECONNAISSAN", "NIIN":"16497974"},
-    {"Nomenclature":"CAMERA,RECONNAISSAN", "NIIN":"15917602"},
-    {"Nomenclature":"CAMERA,TELEVISION", "NIIN":"16839947"},
-    {"Nomenclature":"CAMOUFLAGE NET SYST", "NIIN":"14572956"},
-    {"Nomenclature":"CAN,MILITARY", "NIIN":"13375269"},
-    {"Nomenclature":"CAN,MILITARY", "NIIN":"893827"},
-    {"Nomenclature":"CANOPY,PERSONNEL PA", "NIIN":"15728946"},
-    {"Nomenclature":"CARBINE,5.56 MILLIM", "NIIN":"13820953"},
-    {"Nomenclature":"CARBINE,5.56 MILLIM", "NIIN":"12310973"},
-    {"Nomenclature":"CARRIER,LITTER NO.2", "NIIN":"15049056"},
-    {"Nomenclature":"CARRIER,SWORD SCABB", "NIIN":"3077768"},
-    {"Nomenclature":"CARRIER,SWORD SCABB", "NIIN":"9651674"},
-    {"Nomenclature":"CHARGER,BATTERY", "NIIN":"16184572"},
-    {"Nomenclature":"CHARGER,BATTERY", "NIIN":"15327711"},
-    {"Nomenclature":"CHARGER,BATTERY", "NIIN":"15352718"},
-    {"Nomenclature":"CHARGER,BATTERY", "NIIN":"15649082"},
-    {"Nomenclature":"CHARGER,BATTERY", "NIIN":"14952839"},
-    {"Nomenclature":"CHARGER,BATTERY", "NIIN":"16603696"},
-    {"Nomenclature":"CHARGER,BATTERY", "NIIN":"15003401"},
-    {"Nomenclature":"CHARGER,BATTERY", "NIIN":"14430970"},
-    {"Nomenclature":"CHARGER,BATTERY", "NIIN":"16099818"},
-    {"Nomenclature":"CIHEP TECH SURVEILL", "NIIN":"16573892"},
-    {"Nomenclature":"CODEC,DATA SIGNAL", "NIIN":"16451833"},
-    {"Nomenclature":"CODEC,DATA SIGNAL", "NIIN":"16427842"},
-    {"Nomenclature":"CODEC,DATA SIGNAL", "NIIN":"16872694"},
-    {"Nomenclature":"CODEC,DATA SIGNAL", "NIIN":"16900586"},
-    {"Nomenclature":"CODEC,DATA SIGNAL", "NIIN":"16588079"},
-    {"Nomenclature":"COLLAPSIBLE JMIC 3.", "NIIN":"15881830"},
-    {"Nomenclature":"COLLAPSIBLE JOINT M", "NIIN":"15645795"},
-    {"Nomenclature":"COMBAT CONTROL SYST", "NIIN":"16745202"},
-    {"Nomenclature":"COMBAT SUPPORT SYST", "NIIN":"17008675"},
-    {"Nomenclature":"COMMAND SYSTEM,TACT", "NIIN":"16239480"},
-    {"Nomenclature":"COMMON LASER RANGEF", "NIIN":"15615149"},
-    {"Nomenclature":"COMMUNICATION SET,S", "NIIN":"17025514"},
-    {"Nomenclature":"COMMUNICATION SET,S", "NIIN":"16651929"},
-    {"Nomenclature":"COMMUNICATION SET,S", "NIIN":"16440871"},
-    {"Nomenclature":"COMMUNICATION SUBSY", "NIIN":"15593078"},
-    {"Nomenclature":"COMMUNICATION SUBSY", "NIIN":"16184544"},
-    {"Nomenclature":"COMMUNICATION SYSTE", "NIIN":"16416680"},
-    {"Nomenclature":"COMMUNICATION SYSTE", "NIIN":"16217225"},
-    {"Nomenclature":"COMMUNICATION SYSTE", "NIIN":"16296022"},
-    {"Nomenclature":"COMMUNICATION SYSTE", "NIIN":"16217239"},
-    {"Nomenclature":"COMMUNICATION SYSTE", "NIIN":"16834851"},
-    {"Nomenclature":"COMMUNICATION SYSTE", "NIIN":"16627709"},
-    {"Nomenclature":"COMMUNICATION SYSTE", "NIIN":"16627959"},
-    {"Nomenclature":"COMMUNICATION SYSTE", "NIIN":"16793235"},
-    {"Nomenclature":"COMMUNICATION SYSTE", "NIIN":"16627973"},
-    {"Nomenclature":"COMMUNICATION SYSTE", "NIIN":"16997049"},
-    {"Nomenclature":"COMMUNICATION SYSTE", "NIIN":"16567075"},
-    {"Nomenclature":"COMMUNICATION SYSTE", "NIIN":"16461091"},
-    {"Nomenclature":"COMMUNICATION SYSTE", "NIIN":"16698438"},
-    {"Nomenclature":"COMMUNICATION SYSTE", "NIIN":"15755541"},
-    {"Nomenclature":"COMMUNICATION SYSTE", "NIIN":"16461092"},
-    {"Nomenclature":"COMMUNICATION SYSTE", "NIIN":"16750567"},
-    {"Nomenclature":"COMMUNICATION SYSTE", "NIIN":"15369943"},
-    {"Nomenclature":"COMMUNICATION SYSTE", "NIIN":"15661671"},
-    {"Nomenclature":"COMMUNICATION SYSTE", "NIIN":"16217253"},
-    {"Nomenclature":"COMMUNICATION SYSTE", "NIIN":"16627687"},
-    {"Nomenclature":"COMMUNICATION SYSTE", "NIIN":"16911721"},
-    {"Nomenclature":"COMMUNICATION SYSTE", "NIIN":"17005717"},
-    {"Nomenclature":"COMMUNICATIONS CENT", "NIIN":"16184551"},
-    {"Nomenclature":"COMMUNICATIONS CONT", "NIIN":"16651618"},
-    {"Nomenclature":"COMMUNICATIONS EQUI", "NIIN":"15679875"},
-    {"Nomenclature":"COMPASS,MAGNETIC,UN", "NIIN":"11966971"},
-    {"Nomenclature":"COMPASS,MAGNETIC,UN", "NIIN":"9304260"},
-    {"Nomenclature":"COMPRESSOR UNIT,REC", "NIIN":"16279748"},
-    {"Nomenclature":"COMPRESSOR,SCBA REF", "NIIN":"16328868"},
-    {"Nomenclature":"COMPUTER SET,DIGITA", "NIIN":"16269912"},
-    {"Nomenclature":"COMPUTER SET,DIGITA", "NIIN":"15978829"},
-    {"Nomenclature":"COMPUTER SYSTEM,DIG", "NIIN":"16651619"},
-    {"Nomenclature":"COMPUTER SYSTEM,DIG", "NIIN":"16444027"},
-    {"Nomenclature":"COMPUTER SYSTEM,DIG", "NIIN":"15892117"},
-    {"Nomenclature":"COMPUTER SYSTEM,DIG", "NIIN":"16585849"},
-    {"Nomenclature":"COMPUTER SYSTEM,DIG", "NIIN":"16447863"},
-    {"Nomenclature":"COMPUTER SYSTEM,DIG", "NIIN":"16588262"},
-    {"Nomenclature":"COMPUTER SYSTEM,DIG", "NIIN":"16009722"},
-    {"Nomenclature":"COMPUTER SYSTEM,DIG", "NIIN":"16434109"},
-    {"Nomenclature":"COMPUTER SYSTEM,DIG", "NIIN":"16051983"},
-    {"Nomenclature":"COMPUTER SYSTEM,DIG", "NIIN":"16946342"},
-    {"Nomenclature":"COMPUTER SYSTEM,DIG", "NIIN":"16878772"},
-    {"Nomenclature":"COMPUTER SYSTEM,DIG", "NIIN":"17057787"},
-    {"Nomenclature":"COMPUTER SYSTEM,DIG", "NIIN":"16607415"},
-    {"Nomenclature":"COMPUTER SYSTEM,DIG", "NIIN":"16993161"},
-    {"Nomenclature":"COMPUTER SYSTEM,DIG", "NIIN":"16590082"},
-    {"Nomenclature":"COMPUTER SYSTEM,DIG", "NIIN":"16915754"},
-    {"Nomenclature":"COMPUTER SYSTEM,DIG", "NIIN":"16460580"},
-    {"Nomenclature":"COMPUTER SYSTEM,DIG", "NIIN":"16722623"},
-    {"Nomenclature":"COMPUTER SYSTEM,DIG", "NIIN":"16743557"},
-    {"Nomenclature":"COMPUTER,BALLISTICS", "NIIN":"15540753"},
-    {"Nomenclature":"COMPUTER,DIGITAL", "NIIN":"16678957"},
-    {"Nomenclature":"COMPUTER,DIGITAL", "NIIN":"15746985"},
-    {"Nomenclature":"COMPUTER,DIGITAL", "NIIN":"15622360"},
-    {"Nomenclature":"COMPUTER,DIGITAL", "NIIN":"16655667"},
-    {"Nomenclature":"COMPUTER,DIGITAL", "NIIN":"16319931"},
-    {"Nomenclature":"COMPUTER,DIGITAL", "NIIN":"17007087"},
-    {"Nomenclature":"COMPUTER,DIGITAL", "NIIN":"16919120"},
-    {"Nomenclature":"COMPUTER,DIGITAL", "NIIN":"16627762"},
-    {"Nomenclature":"COMPUTER,DIGITAL", "NIIN":"16757210"},
-    {"Nomenclature":"COMPUTER,DIGITAL", "NIIN":"16757212"},
-    {"Nomenclature":"COMPUTER,DIGITAL", "NIIN":"16919114"},
-    {"Nomenclature":"COMPUTER,DIGITAL", "NIIN":"16627775"},
-    {"Nomenclature":"COMPUTER,DIGITAL", "NIIN":"15622359"},
-    {"Nomenclature":"COMPUTER,DIGITAL", "NIIN":"16891688"},
-    {"Nomenclature":"COMPUTER,DIGITAL", "NIIN":"16793258"},
-    {"Nomenclature":"COMPUTER,DIGITAL", "NIIN":"16919104"},
-    {"Nomenclature":"COMPUTER,DIGITAL", "NIIN":"16933474"},
-    {"Nomenclature":"COMPUTER,DIGITAL", "NIIN":"16919125"},
-    {"Nomenclature":"COMPUTER,DIGITAL", "NIIN":"16544856"},
-    {"Nomenclature":"COMPUTER,DIGITAL", "NIIN":"15751114"},
-    {"Nomenclature":"COMPUTER,NAVIGATION", "NIIN":"16087886"},
-    {"Nomenclature":"COMPUTER,NAVIGATION", "NIIN":"16672943"},
-    {"Nomenclature":"CONTAINER TRAILER,W", "NIIN":"15546009"},
-    {"Nomenclature":"CONTAINER,FOOD", "NIIN":"14848988"},
-    {"Nomenclature":"CONTROL,COMMUNICATI", "NIIN":"16653711"},
-    {"Nomenclature":"CONTROL,RECEIVER", "NIIN":"15301058"},
-    {"Nomenclature":"CONTROLLER,VIDEO DI", "NIIN":"992502637"},
-    {"Nomenclature":"CONVERSION KIT,RIFL", "NIIN":"996709993"},
-    {"Nomenclature":"CONVERTER,FREQUENCY", "NIIN":"17025162"},
-    {"Nomenclature":"COOLING AND REFRIGE", "NIIN":"16751965"},
-    {"Nomenclature":"CORD,ELASTIC,PARACH", "NIIN":"16031021"},
-    {"Nomenclature":"COT,FOLDING", "NIIN":"9350422"},
-    {"Nomenclature":"COUNTER INTEL,HUMAN", "NIIN":"16589563"},
-    {"Nomenclature":"COUNTERMEASURES SET", "NIIN":"16490091"},
-    {"Nomenclature":"CYLINDER ASSEMBLY,O", "NIIN":"16072979"},
-    {"Nomenclature":"DATA DISTRIBUTION S", "NIIN":"16470995"},
-    {"Nomenclature":"DATA DISTRIBUTION S", "NIIN":"16737888"},
-    {"Nomenclature":"DATA DISTRIBUTION S", "NIIN":"15836735"},
-    {"Nomenclature":"DATA DISTRIBUTION S", "NIIN":"16652997"},
-    {"Nomenclature":"DECISION SUPPORT", "NIIN":"16666142"},
-    {"Nomenclature":"DECODER RECEIVER", "NIIN":"16756165"},
-    {"Nomenclature":"DECODER-RECEIVER", "NIIN":"16214960"},
-    {"Nomenclature":"DECODER-RECEIVER", "NIIN":"16844849"},
-    {"Nomenclature":"DEGREASER", "NIIN":"14657124"},
-    {"Nomenclature":"DEMOLITION SET,EXPL", "NIIN":"473751"},
-    {"Nomenclature":"DEMOLITION SYSTEM R", "NIIN":"16722186"},
-    {"Nomenclature":"DESK,FIELD", "NIIN":"15025826"},
-    {"Nomenclature":"DETECTING SYSTEM,CO", "NIIN":"16819287"},
-    {"Nomenclature":"DETECTOR,EXPLOSIVE", "NIIN":"16282484"},
-    {"Nomenclature":"DETECTOR,EXPLOSIVE", "NIIN":"16715432"},
-    {"Nomenclature":"DETECTOR,RADIO FREQ", "NIIN":"15999589"},
-    {"Nomenclature":"DETECTOR,RADIO FREQ", "NIIN":"16103783"},
-    {"Nomenclature":"DEVICE,PURGE", "NIIN":"12466815"},
-    {"Nomenclature":"DIAL BORE GAGE,MODE", "NIIN":"15629944"},
-    {"Nomenclature":"DIGITIZER,DATA ENTR", "NIIN":"16641853"},
-    {"Nomenclature":"DIRECTION FINDER CE", "NIIN":"16810303"},
-    {"Nomenclature":"DIRECTION FINDER CE", "NIIN":"16713792"},
-    {"Nomenclature":"DIRECTION FINDER CE", "NIIN":"16810283"},
-    {"Nomenclature":"DIRECTION FINDER GR", "NIIN":"16095194"},
-    {"Nomenclature":"DIRECTION FINDER GR", "NIIN":"16095197"},
-    {"Nomenclature":"DIRECTION FINDER GR", "NIIN":"16039842"},
-    {"Nomenclature":"DIRECTION FINDER SE", "NIIN":"16086031"},
-    {"Nomenclature":"DIRECTION FINDER SE", "NIIN":"16134519"},
-    {"Nomenclature":"DIRECTION FINDER SE", "NIIN":"16311779"},
-    {"Nomenclature":"DIRECTION FINDER SE", "NIIN":"16112523"},
-    {"Nomenclature":"DIRECTION FINDER SE", "NIIN":"16204645"},
-    {"Nomenclature":"DIRECTION FINDER SE", "NIIN":"16325421"},
-    {"Nomenclature":"DIRECTION FINDER SE", "NIIN":"15836741"},
-    {"Nomenclature":"DIRECTION FINDER SE", "NIIN":"15588729"},
-    {"Nomenclature":"DIRECTION FINDER SE", "NIIN":"16181102"},
-    {"Nomenclature":"DIRECTION FINDER SE", "NIIN":"17071182"},
-    {"Nomenclature":"DISK DRIVE UNIT", "NIIN":"16904579"},
-    {"Nomenclature":"DISK DRIVE UNIT", "NIIN":"16607580"},
-    {"Nomenclature":"DISPENSER,LIQUID,IN", "NIIN":"10937371"},
-    {"Nomenclature":"DISPENSER,LIQUID,IN", "NIIN":"12456937"},
-    {"Nomenclature":"DISPOSABLE ANTI-TAN", "NIIN":"90007519"},
-    {"Nomenclature":"DISPOSAL KIT,EXPLOS", "NIIN":"15594872"},
-    {"Nomenclature":"DIVER PROPULSION DE", "NIIN":"15237085"},
-    {"Nomenclature":"DOME,AIRCRAFT RECON", "NIIN":"16902862"},
-    {"Nomenclature":"ELECTRONIC MAINTENA", "NIIN":"16788512"},
-    {"Nomenclature":"ENCRYPTION-DECRYPTI", "NIIN":"15938026"},
-    {"Nomenclature":"ENCRYPTION-DECRYPTI", "NIIN":"15246615"},
-    {"Nomenclature":"ENCRYPTION-DECRYPTI", "NIIN":"15643364"},
-    {"Nomenclature":"ENCRYPTION-DECRYPTI", "NIIN":"16984413"},
-    {"Nomenclature":"ENCRYPTION-DECRYPTI", "NIIN":"16598807"},
-    {"Nomenclature":"ENCRYPTION-DECRYPTI", "NIIN":"16196583"},
-    {"Nomenclature":"ENCRYPTION-DECRYPTI", "NIIN":"15474520"},
-    {"Nomenclature":"ENCRYPTION-DECRYPTI", "NIIN":"16635347"},
-    {"Nomenclature":"ENCRYPTION-DECRYPTI", "NIIN":"16218615"},
-    {"Nomenclature":"ENCRYPTION-DECRYPTI", "NIIN":"16910775"},
-    {"Nomenclature":"ENHANCED JOINT TERM", "NIIN":"16499528"},
-    {"Nomenclature":"EXP HYP CHMB SYS", "NIIN":"90004449"},
-    {"Nomenclature":"EXTRACTOR,TARGET,IN", "NIIN":"16501358"},
-    {"Nomenclature":"EXTRACTOR,TARGET,IN", "NIIN":"16560229"},
-    {"Nomenclature":"FILTER ASSEMBLY,INF", "NIIN":"16058123"},
-    {"Nomenclature":"FIRING DEVICE,DEMOL", "NIIN":"15335362"},
-    {"Nomenclature":"FIRING KIT,DEMOLITI", "NIIN":"16656840"},
-    {"Nomenclature":"FIRING MECHANISM,CA", "NIIN":"16795089"},
-    {"Nomenclature":"FIRING MECHANISM,RO", "NIIN":"16669220"},
-    {"Nomenclature":"FIRST LOOK", "NIIN":"16724286"},
-    {"Nomenclature":"FIXTURE,CROSSLEVELI", "NIIN":"5085484"},
-    {"Nomenclature":"FIXTURE,MEASURING,T", "NIIN":"6473696"},
-    {"Nomenclature":"FIXTURE,TEST,FIRE C", "NIIN":"7691596"},
-    {"Nomenclature":"FLASHLIGHT", "NIIN":"16178332"},
-    {"Nomenclature":"FOOD TRANSPORTER,IN", "NIIN":"14084911"},
-    {"Nomenclature":"FREQUENCY MEASURING", "NIIN":"16086032"},
-    {"Nomenclature":"FREQUENCY MEASURING", "NIIN":"16299964"},
-    {"Nomenclature":"FREQUENCY MEASURING", "NIIN":"16824039"},
-    {"Nomenclature":"FREQUENCY MEASURING", "NIIN":"16283202"},
-    {"Nomenclature":"FREQUENCY MEASURING", "NIIN":"16311882"},
-    {"Nomenclature":"FREQUENCY MEASURING", "NIIN":"16750700"},
-    {"Nomenclature":"FREQUENCY MEASURING", "NIIN":"16458342"},
-    {"Nomenclature":"FUEL PUMP MODULE AY", "NIIN":"12404579"},
-    {"Nomenclature":"FUEL TANK ASSEMBLY", "NIIN":"12404578"},
-    {"Nomenclature":"FUZE DISASSEMBLY SY", "NIIN":"16223083"},
-    {"Nomenclature":"GAGE KIT,SMALL ARMS", "NIIN":"15921293"},
-    {"Nomenclature":"GAGE KIT,SMALL ARMS", "NIIN":"16933507"},
-    {"Nomenclature":"GAGE KIT,SMALL ARMS", "NIIN":"15929642"},
-    {"Nomenclature":"GAGE,BARREL EROSION", "NIIN":"16770663"},
-    {"Nomenclature":"GAGE,BARREL EROSION", "NIIN":"16770918"},
-    {"Nomenclature":"GAGE,BARREL EROSION", "NIIN":"16814742"},
-    {"Nomenclature":"GAGE,BARREL,EROSION", "NIIN":"10148183"},
-    {"Nomenclature":"GAGE,BREECH BORE,MA", "NIIN":"12593454"},
-    {"Nomenclature":"GAGE,BREECH BORE,MA", "NIIN":"10821714"},
-    {"Nomenclature":"GAGE,FIRING PIN PRO", "NIIN":"15030006"},
-    {"Nomenclature":"GAGE,FIRING PIN PRO", "NIIN":"11414732"},
-    {"Nomenclature":"GAGE,FIRING PIN PRO", "NIIN":"10439450"},
-    {"Nomenclature":"GAGE,FIRING PIN PRO", "NIIN":"707815"},
-    {"Nomenclature":"GAGE,FIRING PIN PRO", "NIIN":"16772408"},
-    {"Nomenclature":"GAGE,FIRING PIN PRO", "NIIN":"16772420"},
-    {"Nomenclature":"GAGE,HEADSPACE", "NIIN":"10438211"},
-    {"Nomenclature":"GAGE,HEADSPACE", "NIIN":"10438212"},
-    {"Nomenclature":"GAGE,HEADSPACE", "NIIN":"11413830"},
-    {"Nomenclature":"GAGE,HEADSPACE", "NIIN":"707814"},
-    {"Nomenclature":"GAGE,HEADSPACE", "NIIN":"16771762"},
-    {"Nomenclature":"GAGE,HEADSPACE", "NIIN":"16771758"},
-    {"Nomenclature":"GAGE,HEADSPACE", "NIIN":"16772948"},
-    {"Nomenclature":"GAGE,MUZZLE AND BRE", "NIIN":"10825564"},
-    {"Nomenclature":"GAGE,PLUG,PLAIN CYL", "NIIN":"10755004"},
-    {"Nomenclature":"GAGE,PLUG,TAPER CYL", "NIIN":"10439473"},
-    {"Nomenclature":"GAGE,PRESSURE,DIAL", "NIIN":"998024"},
-    {"Nomenclature":"GAGE,PROFILE", "NIIN":"16770930"},
-    {"Nomenclature":"GAGE,PROFILE", "NIIN":"14414158"},
-    {"Nomenclature":"GAGE,PROFILE", "NIIN":"16770635"},
-    {"Nomenclature":"GAGE,PROFILE", "NIIN":"16771205"},
-    {"Nomenclature":"GAGE,STRAIGHT", "NIIN":"16773010"},
-    {"Nomenclature":"GAGE,STRAIGHTNESS", "NIIN":"2219391"},
-    {"Nomenclature":"GENERATOR SET,DIESE", "NIIN":"16795442"},
-    {"Nomenclature":"GENERATOR SET,DIESE", "NIIN":"16795596"},
-    {"Nomenclature":"GENERATOR SET,DIESE", "NIIN":"16792558"},
-    {"Nomenclature":"GENERATOR SET,DIESE", "NIIN":"12853012"},
-    {"Nomenclature":"GENERATOR SET,DIESE", "NIIN":"16795145"},
-    {"Nomenclature":"GENERATOR SET,DIESE", "NIIN":"16794747"},
-    {"Nomenclature":"GENERATOR,OXYGEN-NI", "NIIN":"15561083"},
-    {"Nomenclature":"GPS RETRANSMISSION", "NIIN":"15926823"},
-    {"Nomenclature":"GROUND SENSOR AND A", "NIIN":"16407176"},
-    {"Nomenclature":"GROUND SENSOR AND A", "NIIN":"16625291"},
-    {"Nomenclature":"GROUND SENSOR AND A", "NIIN":"16339332"},
-    {"Nomenclature":"GROUND SENSOR AND A", "NIIN":"16414645"},
-    {"Nomenclature":"GROUND SENSOR AND A", "NIIN":"16427886"},
-    {"Nomenclature":"GUN, 12.7X108MM DSH", "NIIN":"90007220"},
-    {"Nomenclature":"GUN, 7.62MM PKM GEN", "NIIN":"90007225"},
-    {"Nomenclature":"GUN, 7.62MM RPD LIG", "NIIN":"90007226"},
-    {"Nomenclature":"GUN,SUBCALIBER,7.62", "NIIN":"13198997"},
-    {"Nomenclature":"HANDSET", "NIIN":"16144615"},
-    {"Nomenclature":"HARDSHELL,OXYGEN MA", "NIIN":"15949294"},
-    {"Nomenclature":"HARNESS SPIE", "NIIN":"10688342"},
-    {"Nomenclature":"HELI VAC FAST ROPE", "NIIN":"15005766"},
-    {"Nomenclature":"HELI-VAC FAST ROPE", "NIIN":"15005765"},
-    {"Nomenclature":"HELI-VAC FAST ROPE", "NIIN":"15005779"},
-    {"Nomenclature":"HOLSTER,PISTOL", "NIIN":"15985722"},
-    {"Nomenclature":"HOLSTER,PISTOL", "NIIN":"15986377"},
-    {"Nomenclature":"HYDRAULIC IN-LINE T", "NIIN":"15915785"},
-    {"Nomenclature":"ILLUMINATOR,INFRARE", "NIIN":"15026414"},
-    {"Nomenclature":"ILLUMINATOR,INFRARE", "NIIN":"15777174"},
-    {"Nomenclature":"ILLUMINATOR,INFRARE", "NIIN":"16864368"},
-    {"Nomenclature":"ILLUMINATOR,INFRARE", "NIIN":"15330555"},
-    {"Nomenclature":"ILLUMINATOR,INTEGRA", "NIIN":"15502780"},
-    {"Nomenclature":"ILLUMINATOR,INTEGRA", "NIIN":"16000486"},
-    {"Nomenclature":"ILLUMINATOR,INTEGRA", "NIIN":"15345931"},
-    {"Nomenclature":"ILLUMINATOR,INTEGRA", "NIIN":"15330996"},
-    {"Nomenclature":"ILLUMINATOR,INTEGRA", "NIIN":"15453659"},
-    {"Nomenclature":"IMAGE INTENSIFIER,N", "NIIN":"14778741"},
-    {"Nomenclature":"INSERTS,ENHANCED SM", "NIIN":"15207370"},
-    {"Nomenclature":"INSTALLATION AND EQ", "NIIN":"16822175"},
-    {"Nomenclature":"INSTALLATION KIT,PH", "NIIN":"16187581"},
-    {"Nomenclature":"INSTALLATION KIT,SH", "NIIN":"16931382"},
-    {"Nomenclature":"INTERFACE UNIT,COMM", "NIIN":"16586023"},
-    {"Nomenclature":"INTERFACE UNIT,COMM", "NIIN":"16586148"},
-    {"Nomenclature":"INTERFACE UNIT,COMM", "NIIN":"16586166"},
-    {"Nomenclature":"INTERFACE UNIT,COMM", "NIIN":"16586025"},
-    {"Nomenclature":"INTERFACE UNIT,COMM", "NIIN":"16586158"},
-    {"Nomenclature":"INVERTER,POWER,STAT", "NIIN":"15526350"},
-    {"Nomenclature":"JACK,DOLLY TYPE,HYD", "NIIN":"5165806"},
-    {"Nomenclature":"JOINT PRECISION AIR", "NIIN":"16090728"},
-    {"Nomenclature":"KIT BAG,FLYER'S", "NIIN":"6068366"},
-    {"Nomenclature":"KIT,EXTRACTION", "NIIN":"16037398"},
-    {"Nomenclature":"KIT,LIGHT SET TENT", "NIIN":"15250794"},
-    {"Nomenclature":"KIT,MEASUREMENT AND", "NIIN":"15879946"},
-    {"Nomenclature":"KIT,RIGGING AIRCRAF", "NIIN":"15881237"},
-    {"Nomenclature":"LAPTOP SERVER", "NIIN":"16922481"},
-    {"Nomenclature":"LASER BORESIGHT SYS", "NIIN":"14662087"},
-    {"Nomenclature":"LASER DETECTING SET", "NIIN":"16653152"},
-    {"Nomenclature":"LASER,DIRECTIONAL A", "NIIN":"16573893"},
-    {"Nomenclature":"LASER,DIRECTIONAL A", "NIIN":"16131742"},
-    {"Nomenclature":"LAUNCH UNIT,COMMAND", "NIIN":"15328900"},
-    {"Nomenclature":"LAUNCHER, RPG-7 ROC", "NIIN":"90007228"},
-    {"Nomenclature":"LAUNCHER,GRENADE", "NIIN":"15572542"},
-    {"Nomenclature":"LAUNCHER,GRENADE", "NIIN":"15840703"},
-    {"Nomenclature":"LAUNCHER,PRACTICE,S", "NIIN":"16994817"},
-    {"Nomenclature":"LAUNCHER,PRACTICE,S", "NIIN":"12072684"},
-    {"Nomenclature":"LAUNCHER,ROCKET", "NIIN":"16191844"},
-    {"Nomenclature":"LAUNCHER,ROCKET,HIG", "NIIN":"16977127"},
-    {"Nomenclature":"LENS SET,LIGHT", "NIIN":"16671080"},
-    {"Nomenclature":"LENS,CAMERA,GENERAL", "NIIN":"16476427"},
-    {"Nomenclature":"LIGHT ARMORED VEHIC", "NIIN":"16626984"},
-    {"Nomenclature":"LIGHT SET,GENERAL I", "NIIN":"14658931"},
-    {"Nomenclature":"LIGHT TACTICAL TRAI", "NIIN":"15435794"},
-    {"Nomenclature":"LIGHT,AIMING POST", "NIIN":"1691934"},
-    {"Nomenclature":"LIGHTWEIGHT MAINTEN", "NIIN":"15074375"},
-    {"Nomenclature":"LOAD BANK,ELECTRICA", "NIIN":"15571304"},
-    {"Nomenclature":"LOADER,SCOOP TYPE", "NIIN":"15497814"},
-    {"Nomenclature":"LUBRICATING UNIT,PO", "NIIN":"15497112"},
-    {"Nomenclature":"MACHINE GUN .338", "NIIN":"16855209"},
-    {"Nomenclature":"MACHINE GUN,5.56 MI", "NIIN":"11277510"},
-    {"Nomenclature":"MACHINE GUN,7.62 MI", "NIIN":"14123129"},
-    {"Nomenclature":"MACHINE GUN,CALIBER", "NIIN":"15111250"},
-    {"Nomenclature":"MACHINE GUN,GRENADE", "NIIN":"14909697"},
-    {"Nomenclature":"MAINTENANCE KIT", "NIIN":"16203116"},
-    {"Nomenclature":"MAINTENANCE KIT,ELE", "NIIN":"16780213"},
-    {"Nomenclature":"MAINTENANCE KIT,GUN", "NIIN":"567106"},
-    {"Nomenclature":"MAINTENANCE KIT,TEL", "NIIN":"15986118"},
-    {"Nomenclature":"MANAGEMENT SYSTEM,B", "NIIN":"15866158"},
-    {"Nomenclature":"MANAGEMENT SYSTEM,B", "NIIN":"16775311"},
-    {"Nomenclature":"MANAGEMENT SYSTEM,B", "NIIN":"16775348"},
-    {"Nomenclature":"MANAGEMENT SYSTEM,B", "NIIN":"16436240"},
-    {"Nomenclature":"MANAGEMENT SYSTEM,B", "NIIN":"16285301"},
-    {"Nomenclature":"MARINE BREACHER KIT", "NIIN":"16418173"},
-    {"Nomenclature":"MARINE BREAKER KIT,", "NIIN":"15311165"},
-    {"Nomenclature":"MARKER,LASER", "NIIN":"15867659"},
-    {"Nomenclature":"MARKER,LASER", "NIIN":"15425675"},
-    {"Nomenclature":"MASK,UNDERWATER", "NIIN":"15612259"},
-    {"Nomenclature":"MC SPEC OPS CMD", "NIIN":"90006458"},
-    {"Nomenclature":"MEDICAL AIRWAY MANA", "NIIN":"16037352"},
-    {"Nomenclature":"MEDIUM HEAVY EQUIPM", "NIIN":"15344570"},
-    {"Nomenclature":"MEMORY UNIT,DATA ST", "NIIN":"16607618"},
-    {"Nomenclature":"METAL DETECTOR", "NIIN":"151952879"},
-    {"Nomenclature":"METEOROLOGICAL MEAS", "NIIN":"15600930"},
-    {"Nomenclature":"MICROPHONE,CRYSTAL", "NIIN":"16559656"},
-    {"Nomenclature":"MK 25 MOD 2 UBA", "NIIN":"14462993"},
-    {"Nomenclature":"MOBILE LASER", "NIIN":"15434606"},
-    {"Nomenclature":"MODEM,COMMUNICATION", "NIIN":"16186195"},
-    {"Nomenclature":"MODEM,COMMUNICATION", "NIIN":"16186247"},
-    {"Nomenclature":"MODEM,COMMUNICATION", "NIIN":"16257505"},
-    {"Nomenclature":"MODEM,COMMUNICATION", "NIIN":"16560266"},
-    {"Nomenclature":"MONOCULAR,STABILIZE", "NIIN":"16499529"},
-    {"Nomenclature":"MORTAR, 82MM 2B14 P", "NIIN":"90007221"},
-    {"Nomenclature":"MORTAR,60 MILLIMETE", "NIIN":"15862874"},
-    {"Nomenclature":"MORTAR,81 MILLIMETE", "NIIN":"16292754"},
-    {"Nomenclature":"MOUNT,GUN", "NIIN":"15027547"},
-    {"Nomenclature":"MOUNT,MACHINE GUN", "NIIN":"15752924"},
-    {"Nomenclature":"MOUNT,TELESCOPE", "NIIN":"13406082"},
-    {"Nomenclature":"MOUNT,TRIPOD,MACHIN", "NIIN":"7105599"},
-    {"Nomenclature":"MOUNT,TRIPOD,MACHIN", "NIIN":"3229716"},
-    {"Nomenclature":"MOUNT,TRIPOD,MACHIN", "NIIN":"14331617"},
-    {"Nomenclature":"MOUNT,TRIPOD,MACHIN", "NIIN":"15223255"},
-    {"Nomenclature":"MULTI MISSION PARAC", "NIIN":"15316383"},
-    {"Nomenclature":"MULTI RADIO POWER A", "NIIN":"15787684"},
-    {"Nomenclature":"MULTIMETER", "NIIN":"13363372"},
-    {"Nomenclature":"MULTIMETER", "NIIN":"13122930"},
-    {"Nomenclature":"NAVIGATION SET,SATE", "NIIN":"16038542"},
-    {"Nomenclature":"NAVIGATION SET,SATE", "NIIN":"15264783"},
-    {"Nomenclature":"NAVIGATION SET,SATE", "NIIN":"16046543"},
-    {"Nomenclature":"NAVIGATION SET,SATE", "NIIN":"16046545"},
-    {"Nomenclature":"NAVIGATION SET,SATE", "NIIN":"16091430"},
-    {"Nomenclature":"NAVIGATION SET,SATE", "NIIN":"16085717"},
-    {"Nomenclature":"NAVIGATION SET,SATE", "NIIN":"16447720"},
-    {"Nomenclature":"NAVIGATION SET,SATE", "NIIN":"16666931"},
-    {"Nomenclature":"NAVIGATION SET,SATE", "NIIN":"16690143"},
-    {"Nomenclature":"NAVIGATION SET,SATE", "NIIN":"16997047"},
-    {"Nomenclature":"NETWORK MANAGEMENT", "NIIN":"15926937"},
-    {"Nomenclature":"NIGHT VISION SIGHT", "NIIN":"14916967"},
-    {"Nomenclature":"NSN NOT PROCURABLE", "NIIN":"11472468"},
-    {"Nomenclature":"OHMMETER", "NIIN":"13776166"},
-    {"Nomenclature":"OPEN WATER SAFETY C", "NIIN":"15938454"},
-    {"Nomenclature":"OPEN WATER SAFETY C", "NIIN":"15433922"},
-    {"Nomenclature":"OPTICAL READER SET,", "NIIN":"15708977"},
-    {"Nomenclature":"OUTBOARD ENG MAIN K", "NIIN":"15780766"},
-    {"Nomenclature":"OUTBOARD ENGINE KIT", "NIIN":"15774786"},
-    {"Nomenclature":"OXYGEN SYSTEM,AIRCR", "NIIN":"15788120"},
-    {"Nomenclature":"PANEL,POWER DISTRIB", "NIIN":"15321821"},
-    {"Nomenclature":"PANEL,POWER DISTRIB", "NIIN":"15321764"},
-    {"Nomenclature":"PANEL,POWER DISTRIB", "NIIN":"15321809"},
-    {"Nomenclature":"PANEL,POWER DISTRIB", "NIIN":"15321794"},
-    {"Nomenclature":"PANEL,POWER DISTRIB", "NIIN":"15321835"},
-    {"Nomenclature":"PARACHUTE SYSTEM 2", "NIIN":"16733985"},
-    {"Nomenclature":"PARACHUTE,CARGO", "NIIN":"15928362"},
-    {"Nomenclature":"PARACHUTE,CARGO", "NIIN":"9992658"},
-    {"Nomenclature":"PARACHUTE,CARGO", "NIIN":"10653755"},
-    {"Nomenclature":"PARACHUTE,CARGO EXT", "NIIN":"10633715"},
-    {"Nomenclature":"PARACHUTE,PERSONNEL", "NIIN":"15277537"},
-    {"Nomenclature":"PARACHUTE,PERSONNEL", "NIIN":"16742912"},
-    {"Nomenclature":"PARTS KIT,DIESEL EN", "NIIN":"16188144"},
-    {"Nomenclature":"PERISCOPE,PORTABLE", "NIIN":"15715004"},
-    {"Nomenclature":"PISTOL,9MM,SEMIAUTO", "NIIN":"16617323"},
-    {"Nomenclature":"PLOTTER SYSTEM,GRAP", "NIIN":"16855016"},
-    {"Nomenclature":"PORTABLE COMPRESSOR", "NIIN":"15009092"},
-    {"Nomenclature":"POUCH,MONOCULAR NIG", "NIIN":"16207014"},
-    {"Nomenclature":"POWER SUPPLY", "NIIN":"17004281"},
-    {"Nomenclature":"POWER SUPPLY", "NIIN":"15939105"},
-    {"Nomenclature":"POWER SUPPLY", "NIIN":"16304700"},
-    {"Nomenclature":"POWER SUPPLY", "NIIN":"15208178"},
-    {"Nomenclature":"POWER SUPPLY", "NIIN":"16510655"},
-    {"Nomenclature":"POWER SUPPLY", "NIIN":"14119306"},
-    {"Nomenclature":"POWER SUPPLY 18-30V", "NIIN":"14754999"},
-    {"Nomenclature":"PRINTER,LASER JET", "NIIN":"90000284"},
-    {"Nomenclature":"PRINTER,THREE-DIMEN", "NIIN":"16657478"},
-    {"Nomenclature":"PROCESSOR,DISPLAY A", "NIIN":"16591350"},
-    {"Nomenclature":"PROCESSOR,GATEWAY", "NIIN":"16607597"},
-    {"Nomenclature":"PROGRAM SET,APPLICA", "NIIN":"16076675"},
-    {"Nomenclature":"PROGRAM SET,APPLICA", "NIIN":"16844039"},
-    {"Nomenclature":"PURGING KIT,FIRE CO", "NIIN":"651110"},
-    {"Nomenclature":"RADIAC SET", "NIIN":"15648534"},
-    {"Nomenclature":"RADIAC SET", "NIIN":"14071237"},
-    {"Nomenclature":"RADIO SET", "NIIN":"15862327"},
-    {"Nomenclature":"RADIO SET", "NIIN":"15419208"},
-    {"Nomenclature":"RADIO SET", "NIIN":"14622484"},
-    {"Nomenclature":"RADIO SET", "NIIN":"16839499"},
-    {"Nomenclature":"RADIO SET", "NIIN":"15681631"},
-    {"Nomenclature":"RADIO SET", "NIIN":"14923628"},
-    {"Nomenclature":"RADIO SET", "NIIN":"15729367"},
-    {"Nomenclature":"RADIO SET", "NIIN":"15961658"},
-    {"Nomenclature":"RADIO SET", "NIIN":"16735467"},
-    {"Nomenclature":"RADIO SET", "NIIN":"15659999"},
-    {"Nomenclature":"RADIO SET", "NIIN":"16876282"},
-    {"Nomenclature":"RADIO SET", "NIIN":"15892203"},
-    {"Nomenclature":"RADIO SET", "NIIN":"16876283"},
-    {"Nomenclature":"RADIO SET", "NIIN":"16872723"},
-    {"Nomenclature":"RADIO SET", "NIIN":"15660746"},
-    {"Nomenclature":"RADIO SET", "NIIN":"16092270"},
-    {"Nomenclature":"RADIO SET", "NIIN":"16283210"},
-    {"Nomenclature":"RANGE FINDER,LASER", "NIIN":"15666510"},
-    {"Nomenclature":"RANGE FINDER,LASER", "NIIN":"16476446"},
-    {"Nomenclature":"RANGE FINDER,LASER", "NIIN":"15751105"},
-    {"Nomenclature":"RANGE FINDER,LASER", "NIIN":"15723753"},
-    {"Nomenclature":"RANGE FINDER-TARGET", "NIIN":"16678204"},
-    {"Nomenclature":"RECEIVE SUITE", "NIIN":"16072338"},
-    {"Nomenclature":"RECEIVE SUITE", "NIIN":"16096273"},
-    {"Nomenclature":"RECEIVE SUITE", "NIIN":"16068590"},
-    {"Nomenclature":"RECEIVER TRANSMITTE", "NIIN":"70001343"},
-    {"Nomenclature":"RECEIVER TRANSMITTE", "NIIN":"70001338"},
-    {"Nomenclature":"RECEIVER,CARTRIDGE", "NIIN":"16476887"},
-    {"Nomenclature":"RECEIVER,CARTRIDGE", "NIIN":"16476884"},
-    {"Nomenclature":"RECEIVER,CARTRIDGE", "NIIN":"16477604"},
-    {"Nomenclature":"RECEIVER,CARTRIDGE", "NIIN":"16476886"},
-    {"Nomenclature":"RECEIVER,COORDINATE", "NIIN":"16030295"},
-    {"Nomenclature":"RECEIVER,DIGITAL DA", "NIIN":"16085815"},
-    {"Nomenclature":"RECEIVER,INSTANTANE", "NIIN":"16414989"},
-    {"Nomenclature":"RECEIVER,INSTANTANE", "NIIN":"16086041"},
-    {"Nomenclature":"RECEIVER,INSTANTANE", "NIIN":"16599791"},
-    {"Nomenclature":"RECEIVER,INSTANTANE", "NIIN":"16305324"},
-    {"Nomenclature":"RECEIVER,INSTANTANE", "NIIN":"16738403"},
-    {"Nomenclature":"RECEIVER,INSTANTANE", "NIIN":"16507742"},
-    {"Nomenclature":"RECEIVER,INSTANTANE", "NIIN":"16789191"},
-    {"Nomenclature":"RECEIVER,INSTANTANE", "NIIN":"17029746"},
-    {"Nomenclature":"RECEIVER,RADIO", "NIIN":"16488440"},
-    {"Nomenclature":"RECEIVER,RADIO", "NIIN":"16605718"},
-    {"Nomenclature":"RECEIVER,RADIO NAVI", "NIIN":"15909534"},
-    {"Nomenclature":"RECEIVER-TRANSMITTE", "NIIN":"17025757"},
-    {"Nomenclature":"RECEIVER-TRANSMITTE", "NIIN":"15666532"},
-    {"Nomenclature":"RECEIVER-TRANSMITTE", "NIIN":"14963523"},
-    {"Nomenclature":"RECEIVER-TRANSMITTE", "NIIN":"15549530"},
-    {"Nomenclature":"RECEIVER-TRANSMITTE", "NIIN":"15961645"},
-    {"Nomenclature":"RECEIVER-TRANSMITTE", "NIIN":"16092313"},
-    {"Nomenclature":"RECEIVER-TRANSMITTE", "NIIN":"16092342"},
-    {"Nomenclature":"RECEIVER-TRANSMITTE", "NIIN":"16691163"},
-    {"Nomenclature":"RECEIVER-TRANSMITTE", "NIIN":"16735471"},
-    {"Nomenclature":"RECEIVING SET,RADIO", "NIIN":"16428057"},
-    {"Nomenclature":"RECEIVING SET,RADIO", "NIIN":"16786845"},
-    {"Nomenclature":"RECEIVING SET,RADIO", "NIIN":"16818409"},
-    {"Nomenclature":"RECEIVING SET,RADIO", "NIIN":"16925084"},
-    {"Nomenclature":"RECEIVING SET,RADIO", "NIIN":"16827404"},
-    {"Nomenclature":"RECEIVING SET,RADIO", "NIIN":"16924814"},
-    {"Nomenclature":"RECEIVING SET,RADIO", "NIIN":"16220226"},
-    {"Nomenclature":"RECEIVING SET,RADIO", "NIIN":"16325426"},
-    {"Nomenclature":"RECEIVING SET,RADIO", "NIIN":"16507745"},
-    {"Nomenclature":"RECEIVING SET,RADIO", "NIIN":"15509741"},
-    {"Nomenclature":"RECEIVING SET,RADIO", "NIIN":"16882894"},
-    {"Nomenclature":"RECEIVING SET,RADIO", "NIIN":"16439563"},
-    {"Nomenclature":"RECON PARA RIG TL K", "NIIN":"90003821"},
-    {"Nomenclature":"RECONNAISSANCE SYST", "NIIN":"16751023"},
-    {"Nomenclature":"RECORDER GROUP", "NIIN":"16165959"},
-    {"Nomenclature":"RECORDER SET,SOUND", "NIIN":"16041882"},
-    {"Nomenclature":"RECORDER SET,SOUND", "NIIN":"16444958"},
-    {"Nomenclature":"RECORDER SET,SOUND", "NIIN":"16815490"},
-    {"Nomenclature":"RECORDER SET,VIDEO", "NIIN":"16087879"},
-    {"Nomenclature":"RECORDER SET,VIDEO", "NIIN":"16560260"},
-    {"Nomenclature":"RECORDER,SOUND", "NIIN":"16181225"},
-    {"Nomenclature":"RECORDER,SOUND", "NIIN":"16181155"},
-    {"Nomenclature":"RECORDER,SOUND", "NIIN":"17061869"},
-    {"Nomenclature":"RECORDER,VIDEO", "NIIN":"16223156"},
-    {"Nomenclature":"RECORDER,VIDEO", "NIIN":"16448424"},
-    {"Nomenclature":"RECORDER,VIDEO", "NIIN":"16124732"},
-    {"Nomenclature":"RECORDER,VIDEO", "NIIN":"16041870"},
-    {"Nomenclature":"RECORDER,VIDEO", "NIIN":"16186466"},
-    {"Nomenclature":"RECORDER,VIDEO", "NIIN":"16448428"},
-    {"Nomenclature":"RECORDER-REPRODUCER", "NIIN":"16517208"},
-    {"Nomenclature":"RELEASE,CARGO PARAC", "NIIN":"10978816"},
-    {"Nomenclature":"REMOTE CONTROL RADI", "NIIN":"15883075"},
-    {"Nomenclature":"REMOTE CONTROL RADI", "NIIN":"16924027"},
-    {"Nomenclature":"REPRODUCER,DISK MED", "NIIN":"16299347"},
-    {"Nomenclature":"RIFLE, 5.45MM AK-74", "NIIN":"90007230"},
-    {"Nomenclature":"RIFLE, 7.62M AK-47", "NIIN":"90007227"},
-    {"Nomenclature":"RIFLE, 7.62MM G3 AS", "NIIN":"90007223"},
-    {"Nomenclature":"RIFLE, 7.62MM SVD S", "NIIN":"90007224"},
-    {"Nomenclature":"RIFLE,5.56 MILLIMET", "NIIN":"13832872"},
-    {"Nomenclature":"RIFLE,7.62 MILLIMET", "NIIN":"15860114"},
-    {"Nomenclature":"RIFLE,7.62 MILLIMET", "NIIN":"90007518"},
-    {"Nomenclature":"RIFLE,7.62 MILLIMET", "NIIN":"2837695"},
-    {"Nomenclature":"RIFLE,RECOILLESS,84", "NIIN":"640001068"},
-    {"Nomenclature":"RIFLE,SNIPER", "NIIN":"16091039"},
-    {"Nomenclature":"RIFLE,SNIPER", "NIIN":"16440045"},
-    {"Nomenclature":"RIFLE,SNIPER", "NIIN":"14692133"},
-    {"Nomenclature":"RIFLE,SNIPER", "NIIN":"16805221"},
-    {"Nomenclature":"RIS-LITE COMM SYSTE", "NIIN":"15595072"},
-    {"Nomenclature":"ROCKET, INERT RPG-7", "NIIN":"90007222"},
-    {"Nomenclature":"ROPE ASSEMBLY,INSER", "NIIN":"10650851"},
-    {"Nomenclature":"ROUGH TERRAIN CONTA", "NIIN":"15227364"},
-    {"Nomenclature":"SATELLITE COMMUNICA", "NIIN":"17008638"},
-    {"Nomenclature":"SATELLITE COMMUNICA", "NIIN":"16689183"},
-    {"Nomenclature":"SATELLITE COMMUNICA", "NIIN":"16478654"},
-    {"Nomenclature":"SATELLITE COMMUNICA", "NIIN":"16815555"},
-    {"Nomenclature":"SATELLITE COMMUNICA", "NIIN":"16959359"},
-    {"Nomenclature":"SCALE,WEIGHING", "NIIN":"13468315"},
-    {"Nomenclature":"SCALE,WEIGHING", "NIIN":"10976167"},
-    {"Nomenclature":"SCALE,WEIGHING", "NIIN":"15187276"},
-    {"Nomenclature":"SCREWDRIVER,TORQUE", "NIIN":"15090862"},
-    {"Nomenclature":"SEAL,HAND IMPRESSIO", "NIIN":"2698773"},
-    {"Nomenclature":"SEALER,STEEL STRAPP", "NIIN":"2238592"},
-    {"Nomenclature":"SEARCHLIGHT", "NIIN":"15902739"},
-    {"Nomenclature":"SECURITY DATA SYSTE", "NIIN":"16741973"},
-    {"Nomenclature":"SECURITY DATA SYSTE", "NIIN":"16990814"},
-    {"Nomenclature":"SECURITY DATA SYSTE", "NIIN":"16557842"},
-    {"Nomenclature":"SECURITY DATA SYSTE", "NIIN":"16739170"},
-    {"Nomenclature":"SECURITY DATA SYSTE", "NIIN":"17003579"},
-    {"Nomenclature":"SENSOR UNIT,ANTI-IN", "NIIN":"16160949"},
-    {"Nomenclature":"SENSOR UNIT,ANTI-IN", "NIIN":"16878137"},
-    {"Nomenclature":"SERVER GROUP,NETWOR", "NIIN":"16565499"},
-    {"Nomenclature":"SERVER GROUP,NETWOR", "NIIN":"16779450"},
-    {"Nomenclature":"SERVER,INTELLIGENCE", "NIIN":"16894838"},
-    {"Nomenclature":"SEWING MACHINE,INDU", "NIIN":"11778589"},
-    {"Nomenclature":"SEWING MACHINE,INDU", "NIIN":"11811420"},
-    {"Nomenclature":"SEWING MACHINE,INDU", "NIIN":"11811421"},
-    {"Nomenclature":"SEWING MACHINE,INDU", "NIIN":"11778588"},
-    {"Nomenclature":"SEWING MACHINE,INDU", "NIIN":"11778590"},
-    {"Nomenclature":"SEWING MACHINE,INDU", "NIIN":"11778591"},
-    {"Nomenclature":"SEWING MACHINE,INDU", "NIIN":"8924636"},
-    {"Nomenclature":"SHELTER,10FT RIGID", "NIIN":"13046123"},
-    {"Nomenclature":"SHELTER,EXPANDABLE", "NIIN":"15870839"},
-    {"Nomenclature":"SHELTER,EXPANDABLE", "NIIN":"16670420"},
-    {"Nomenclature":"SHIPPING AND STORAG", "NIIN":"14653621"},
-    {"Nomenclature":"SHIPPING AND STORAG", "NIIN":"14654187"},
-    {"Nomenclature":"SHIPPING AND STORAG", "NIIN":"15561313"},
-    {"Nomenclature":"SHOP EGUIPMENT,GP N", "NIIN":"15504312"},
-    {"Nomenclature":"SHOP EQPT,GEN PURPO", "NIIN":"15637780"},
-    {"Nomenclature":"SHOP EQUIPMENT,GENE", "NIIN":"15504900"},
-    {"Nomenclature":"SHOP EQUIPMENT,GENE", "NIIN":"15219685"},
-    {"Nomenclature":"SHOP EQUIPMENT,GENE", "NIIN":"15659593"},
-    {"Nomenclature":"SHOP EQUIPMENT,GENE", "NIIN":"15187339"},
-    {"Nomenclature":"SHOTGUN,12 GAGE,RIO", "NIIN":"13715639"},
-    {"Nomenclature":"SHOTGUN,12 GAGE,RIO", "NIIN":"10658989"},
-    {"Nomenclature":"SHOTGUN,COMBAT", "NIIN":"14723147"},
-    {"Nomenclature":"SIGHT UNIT", "NIIN":"15751724"},
-    {"Nomenclature":"SIGHT UNIT", "NIIN":"15780211"},
-    {"Nomenclature":"SIGHT UNIT", "NIIN":"16192962"},
-    {"Nomenclature":"SIGHT UNIT,MECHANIC", "NIIN":"15912226"},
-    {"Nomenclature":"SIGHT UNIT,MECHANIC", "NIIN":"15912160"},
-    {"Nomenclature":"SIGHT,BORE,OPTICAL", "NIIN":"16453117"},
-    {"Nomenclature":"SIGHT,BORE,OPTICAL", "NIIN":"16876809"},
-    {"Nomenclature":"SIGHT,BORE,OPTICAL", "NIIN":"10587460"},
-    {"Nomenclature":"SIGHT,BORE,OPTICAL", "NIIN":"15869839"},
-    {"Nomenclature":"SIGHT,BORE,OPTICAL", "NIIN":"15330939"},
-    {"Nomenclature":"SIGHT,HOLOGRAPHIC", "NIIN":"15597993"},
-    {"Nomenclature":"SIGHT,INFINITY", "NIIN":"15899332"},
-    {"Nomenclature":"SIGHT,NIGHT VISION", "NIIN":"15479489"},
-    {"Nomenclature":"SIGHT,NIGHT VISION", "NIIN":"16308608"},
-    {"Nomenclature":"SIGHT,NIGHT VISION", "NIIN":"15330940"},
-    {"Nomenclature":"SIGHT,NIGHT VISION", "NIIN":"15481555"},
-    {"Nomenclature":"SIGHT,REFLEX", "NIIN":"16785336"},
-    {"Nomenclature":"SIGHT,REFLEX", "NIIN":"16709181"},
-    {"Nomenclature":"SIGHT,REFLEX", "NIIN":"15330941"},
-    {"Nomenclature":"SIGHT,THERMAL", "NIIN":"15629999"},
-    {"Nomenclature":"SIGHT,THERMAL", "NIIN":"15732483"},
-    {"Nomenclature":"SIGHT,THERMAL", "NIIN":"16002717"},
-    {"Nomenclature":"SIGHT,THERMAL", "NIIN":"15244313"},
-    {"Nomenclature":"SIGHT,THERMAL", "NIIN":"15244314"},
-    {"Nomenclature":"SIGHT,THERMAL", "NIIN":"15363532"},
-    {"Nomenclature":"SIGHT,THERMAL", "NIIN":"15597064"},
-    {"Nomenclature":"SIGHT,THERMAL", "NIIN":"15330557"},
-    {"Nomenclature":"SIGHT,UNS,AN,PVS22", "NIIN":"15096871"},
-    {"Nomenclature":"SILENCER,GUN", "NIIN":"15997027"},
-    {"Nomenclature":"SILENCER,GUN", "NIIN":"16140654"},
-    {"Nomenclature":"SILENCER,GUN", "NIIN":"16855199"},
-    {"Nomenclature":"SILENCER,GUN", "NIIN":"16960805"},
-    {"Nomenclature":"SOFTWARE KIT", "NIIN":"16690124"},
-    {"Nomenclature":"SOLAR PORTABLE ALTE", "NIIN":"16196212"},
-    {"Nomenclature":"SPECIAL TOOL KIT,FI", "NIIN":"16759060"},
-    {"Nomenclature":"SPECTACLES,INDUSTRI", "NIIN":"15835742"},
-    {"Nomenclature":"SPOUT,CAN,FLEXIBLE", "NIIN":"1776154"},
-    {"Nomenclature":"STAND,VEHICLE SUPPO", "NIIN":"2620392"},
-    {"Nomenclature":"STOW AND GO KIT COM", "NIIN":"15862770"},
-    {"Nomenclature":"STRAP CUTTER,RESCUE", "NIIN":"15700319"},
-    {"Nomenclature":"SUPPLEMENTARY KIT,E", "NIIN":"16803682"},
-    {"Nomenclature":"SUPPRESSOR,SMALL AR", "NIIN":"14370324"},
-    {"Nomenclature":"SUPPRESSOR,SMALL AR", "NIIN":"15424487"},
-    {"Nomenclature":"SUPPRESSOR,SMALL AR", "NIIN":"15656164"},
-    {"Nomenclature":"SUPPRESSOR,SMALL AR", "NIIN":"16805240"},
-    {"Nomenclature":"SURVEILLANCE SYSTEM", "NIIN":"16746010"},
-    {"Nomenclature":"SURVEILLANCE,THERMA", "NIIN":"16668821"},
-    {"Nomenclature":"SURVEYING SET,FIELD", "NIIN":"10670687"},
-    {"Nomenclature":"SWITCHING UNIT,AUDI", "NIIN":"16083268"},
-    {"Nomenclature":"SWITCHING UNIT,AUDI", "NIIN":"16702082"},
-    {"Nomenclature":"SWORD AND SCABBARD", "NIIN":"9651675"},
-    {"Nomenclature":"SWORD AND SCABBARD", "NIIN":"9651677"},
-    {"Nomenclature":"TABLE,PARACHUTE PAC", "NIIN":"9731961"},
-    {"Nomenclature":"TACTICAL EXPLOITATI", "NIIN":"16652996"},
-    {"Nomenclature":"TACTICAL EXPLOITATI", "NIIN":"16586399"},
-    {"Nomenclature":"TACTICAL EXPLOITATI", "NIIN":"16011275"},
-    {"Nomenclature":"TACTICAL EXPLOITATI", "NIIN":"16100015"},
-    {"Nomenclature":"TACTICAL EXPLOITATI", "NIIN":"16993221"},
-    {"Nomenclature":"TACTICAL EXPLOITATI", "NIIN":"16592595"},
-    {"Nomenclature":"TACTICAL EXPLOITATI", "NIIN":"16820897"},
-    {"Nomenclature":"TACTICAL EXPLOITATI", "NIIN":"16872714"},
-    {"Nomenclature":"TANK AND PUMP UNIT,", "NIIN":"15339826"},
-    {"Nomenclature":"TANK,WATER,MODULE", "NIIN":"12039971"},
-    {"Nomenclature":"TARGET LOCATION,DES", "NIIN":"15716450"},
-    {"Nomenclature":"TELECONFERENCE SYST", "NIIN":"15755534"},
-    {"Nomenclature":"TELEPHONE,CELLULAR", "NIIN":"16230004"},
-    {"Nomenclature":"TELEPHONE,CELLULAR", "NIIN":"16440938"},
-    {"Nomenclature":"TELEPHONE,CELLULAR", "NIIN":"16626245"},
-    {"Nomenclature":"TELEPHONE,CELLULAR", "NIIN":"16717756"},
-    {"Nomenclature":"TELEPHONE,CELLULAR", "NIIN":"16814982"},
-    {"Nomenclature":"TELEPHONE,CELLULAR", "NIIN":"16876492"},
-    {"Nomenclature":"TELEPHONE,CELLULAR", "NIIN":"16968779"},
-    {"Nomenclature":"TELEPHONE,CELLULAR", "NIIN":"17004967"},
-    {"Nomenclature":"TELEPHONE,CELLULAR", "NIIN":"17025169"},
-    {"Nomenclature":"TELEPHONE,CELLULAR", "NIIN":"17074010"},
-    {"Nomenclature":"TELEPHONE,SECURE UN", "NIIN":"15686699"},
-    {"Nomenclature":"TELEPHONE,SECURE UN", "NIIN":"16605095"},
-    {"Nomenclature":"TELEPHONE,SECURE UN", "NIIN":"14596441"},
-    {"Nomenclature":"TELESCOPE,ARTICULAT", "NIIN":"15331854"},
-    {"Nomenclature":"TELESCOPE,ARTICULAT", "NIIN":"15455813"},
-    {"Nomenclature":"TELESCOPE,ELBOW", "NIIN":"13415195"},
-    {"Nomenclature":"TELESCOPE,NON-INVER", "NIIN":"15751011"},
-    {"Nomenclature":"TELESCOPE,STRAIGHT", "NIIN":"15837651"},
-    {"Nomenclature":"TENT", "NIIN":"15455884"},
-    {"Nomenclature":"TENT,COMBAT,TWO MAN", "NIIN":"14525919"},
-    {"Nomenclature":"TEST FIXTURE,TELESC", "NIIN":"5085434"},
-    {"Nomenclature":"TEST SET,ELECTRONIC", "NIIN":"13239584"},
-    {"Nomenclature":"TEST SET,RADIO", "NIIN":"15380285"},
-    {"Nomenclature":"TEST SET,RADIO", "NIIN":"15892414"},
-    {"Nomenclature":"TEST SET,RADIO FREQ", "NIIN":"15134644"},
-    {"Nomenclature":"TEST SET,RADIO FREQ", "NIIN":"15682691"},
-    {"Nomenclature":"TEST SET,TELECOMMUN", "NIIN":"15970700"},
-    {"Nomenclature":"TEST STAND,DEMAND O", "NIIN":"14328925"},
-    {"Nomenclature":"TEST STAND,DEMAND O", "NIIN":"16721296"},
-    {"Nomenclature":"TESTER,AUTOMATIC TR", "NIIN":"15592405"},
-    {"Nomenclature":"TESTER,HYDRAULIC HO", "NIIN":"10908229"},
-    {"Nomenclature":"THEATER MEDICAL INF", "NIIN":"15508375"},
-    {"Nomenclature":"THERMAL IMAGING SYS", "NIIN":"15531162"},
-    {"Nomenclature":"THERMAL IMAGING SYS", "NIIN":"16589872"},
-    {"Nomenclature":"THERMAL IMAGING SYS", "NIIN":"15823974"},
-    {"Nomenclature":"THERMAL IMAGING SYS", "NIIN":"16043925"},
-    {"Nomenclature":"THERMAL IMAGING SYS", "NIIN":"16431435"},
-    {"Nomenclature":"TIE DOWN,CARGO,AIRC", "NIIN":"7251437"},
-    {"Nomenclature":"TIMING GAGE,WEAR LI", "NIIN":"15806602"},
-    {"Nomenclature":"TOOL AND EQUIPMENT", "NIIN":"996952988"},
-    {"Nomenclature":"TOOL AND GAGE SET,I", "NIIN":"11500357"},
-    {"Nomenclature":"TOOL KIT MTVR LVSR", "NIIN":"14772399"},
-    {"Nomenclature":"TOOL KIT,2ND ECHELO", "NIIN":"90002296"},
-    {"Nomenclature":"TOOL KIT,3RD ECHELO", "NIIN":"90002295"},
-    {"Nomenclature":"TOOL KIT,AIR CONDIT", "NIIN":"15414688"},
-    {"Nomenclature":"TOOL KIT,ARTILLERY", "NIIN":"16119267"},
-    {"Nomenclature":"TOOL KIT,BORESIGHT,", "NIIN":"15685726"},
-    {"Nomenclature":"TOOL KIT,CARPENTER'", "NIIN":"15518250"},
-    {"Nomenclature":"TOOL KIT,COMMUNICAT", "NIIN":"14597868"},
-    {"Nomenclature":"TOOL KIT,ELECTRICAL", "NIIN":"16041367"},
-    {"Nomenclature":"TOOL KIT,ELECTRICAL", "NIIN":"16283273"},
-    {"Nomenclature":"TOOL KIT,ELECTRONIC", "NIIN":"15837579"},
-    {"Nomenclature":"TOOL KIT,ELECTRO-OP", "NIIN":"15766593"},
-    {"Nomenclature":"TOOL KIT,EXPLOSIVE", "NIIN":"10299543"},
-    {"Nomenclature":"TOOL KIT,EXPLOSIVE", "NIIN":"13444429"},
-    {"Nomenclature":"TOOL KIT,EXPLOSIVE", "NIIN":"10293190"},
-    {"Nomenclature":"TOOL KIT,GENERAL ME", "NIIN":"15544224"},
-    {"Nomenclature":"TOOL KIT,GENERAL ME", "NIIN":"16055146"},
-    {"Nomenclature":"TOOL KIT,IMPROVISED", "NIIN":"14826168"},
-    {"Nomenclature":"TOOL KIT,LINEMAN'S", "NIIN":"15500145"},
-    {"Nomenclature":"TOOL KIT,LOCKSMITH", "NIIN":"16517219"},
-    {"Nomenclature":"TOOL KIT,LOCKSMITH", "NIIN":"16534151"},
-    {"Nomenclature":"TOOL KIT,ORGANIZATI", "NIIN":"11472467"},
-    {"Nomenclature":"TOOL KIT,PARACHUTE", "NIIN":"16064400"},
-    {"Nomenclature":"TOOL KIT,PARACHUTIS", "NIIN":"15377582"},
-    {"Nomenclature":"TOOL KIT,REFRIGERAT", "NIIN":"15877465"},
-    {"Nomenclature":"TOOL KIT,SMALL ARMS", "NIIN":"16067154"},
-    {"Nomenclature":"TOOL KIT,VEHICLE,TA", "NIIN":"15807176"},
-    {"Nomenclature":"TOOL KIT,VEHICLE,TA", "NIIN":"17017480"},
-    {"Nomenclature":"TOOL KIT,VEHICLE,TA", "NIIN":"16837795"},
-    {"Nomenclature":"TOOL KIT,VEHICLE,TA", "NIIN":"15837685"},
-    {"Nomenclature":"TOOL KIT,VEHICLE,TA", "NIIN":"16836578"},
-    {"Nomenclature":"TOOL SET,DIRECT AND", "NIIN":"7265830"},
-    {"Nomenclature":"TOOL SET,INTERMEDIA", "NIIN":"11439604"},
-    {"Nomenclature":"TOOL SET,ORGANI INT", "NIIN":"14155009"},
-    {"Nomenclature":"TOOL SET,ORGANIZATI", "NIIN":"11439605"},
-    {"Nomenclature":"TOWBAR,MOTOR VEHICL", "NIIN":"14968356"},
-    {"Nomenclature":"TOWBAR,MOTOR VEHICL", "NIIN":"15583533"},
-    {"Nomenclature":"TRAILER,CARGO", "NIIN":"16272944"},
-    {"Nomenclature":"TRAILER,CARGO", "NIIN":"13875426"},
-    {"Nomenclature":"TRAILER,FLAT BED", "NIIN":"15470272"},
-    {"Nomenclature":"TRAILER,TANK", "NIIN":"11087367"},
-    {"Nomenclature":"TRAINING KIT,MARTIA", "NIIN":"15664542"},
-    {"Nomenclature":"TRAINING SET,VOICE", "NIIN":"16099998"},
-    {"Nomenclature":"TRANSFER UNIT,CRYPT", "NIIN":"16444375"},
-    {"Nomenclature":"TRANSFER UNIT,CRYPT", "NIIN":"16082278"},
-    {"Nomenclature":"TRANSFER UNIT,CRYPT", "NIIN":"15173587"},
-    {"Nomenclature":"TRANSFER,PUMP,SYS", "NIIN":"14831266"},
-    {"Nomenclature":"TRANSMITTER,COORDIN", "NIIN":"15588724"},
-    {"Nomenclature":"TRANSMITTER,LASER", "NIIN":"15838057"},
-    {"Nomenclature":"TRANSMITTER,RADIO", "NIIN":"16516863"},
-    {"Nomenclature":"TRANSMITTER,RADIO", "NIIN":"17005531"},
-    {"Nomenclature":"TRANSMITTING SET,RA", "NIIN":"16517420"},
-    {"Nomenclature":"TRANSMITTING SET,RA", "NIIN":"17060185"},
-    {"Nomenclature":"TRK,ARMORED,XLWB CA", "NIIN":"15305681"},
-    {"Nomenclature":"TRUCK TIRE CHANGER", "NIIN":"15430301"},
-    {"Nomenclature":"TRUCK,AMBULANCE", "NIIN":"13808225"},
-    {"Nomenclature":"TRUCK,ARMORED,CARGO", "NIIN":"15305676"},
-    {"Nomenclature":"TRUCK,ARMORED,XLWB", "NIIN":"15522762"},
-    {"Nomenclature":"TRUCK,CARGO", "NIIN":"15427628"},
-    {"Nomenclature":"TRUCK,DUMP,7 TON WI", "NIIN":"14652186"},
-    {"Nomenclature":"TRUCK,LIFT,FORK", "NIIN":"16051984"},
-    {"Nomenclature":"TRUCK,LIFT,FORK", "NIIN":"16417505"},
-    {"Nomenclature":"TRUCK,TRACTOR LVSR", "NIIN":"15429941"},
-    {"Nomenclature":"TRUCK,UTILITY", "NIIN":"16536495"},
-    {"Nomenclature":"TRUCK,UTILITY", "NIIN":"16536516"},
-    {"Nomenclature":"TRUCK,UTILITY", "NIIN":"16627023"},
-    {"Nomenclature":"TRUCK,WRECKER,ARMOR", "NIIN":"15305691"},
-    {"Nomenclature":"TRUCK,WRECKER,LVSR", "NIIN":"15430651"},
-    {"Nomenclature":"UNIT MOVE WORK STAT", "NIIN":"15431630"},
-    {"Nomenclature":"UNMANNED AIRCRAFT", "NIIN":"16598723"},
-    {"Nomenclature":"UNMANNED AIRCRAFT S", "NIIN":"16910162"},
-    {"Nomenclature":"UNMANNED VEHICLE,GR", "NIIN":"16817253"},
-    {"Nomenclature":"UNMANNED VEHICLE,GR", "NIIN":"16033586"},
-    {"Nomenclature":"UTILITY VEHICLE,OFF", "NIIN":"16544105"},
-    {"Nomenclature":"VEST,DIVER'S SUIT", "NIIN":"15847592"},
-    {"Nomenclature":"VIDEO CAMERA SYSTEM", "NIIN":"15750784"},
-    {"Nomenclature":"VIDEO INSPECTION KI", "NIIN":"16770192"},
-    {"Nomenclature":"VIDEO TERMINAL,MULT", "NIIN":"16513323"},
-    {"Nomenclature":"VIDEO TERMINAL,MULT", "NIIN":"16259781"},
-    {"Nomenclature":"VIDEO TERMINAL,MULT", "NIIN":"15989478"},
-    {"Nomenclature":"VIEWER KIT,NIGHT VI", "NIIN":"16087752"},
-    {"Nomenclature":"VIEWER KIT,NIGHT VI", "NIIN":"16188462"},
-    {"Nomenclature":"VIEWER KIT,NIGHT VI", "NIIN":"16085809"},
-    {"Nomenclature":"VIEWER,NIGHT VISION", "NIIN":"15583616"},
-    {"Nomenclature":"VIEWER,NIGHT VISION", "NIIN":"14320524"},
-    {"Nomenclature":"VIEWER,NIGHT VISION", "NIIN":"16657552"},
-    {"Nomenclature":"VIEWER,NIGHT VISION", "NIIN":"16087756"},
-    {"Nomenclature":"WATCH,WRIST", "NIIN":"17004964"},
-    {"Nomenclature":"WEIGHT SET,COMMERCI", "NIIN":"15527386"},
-    {"Nomenclature":"WELDING SHOP,MARINE", "NIIN":"16159020"},
-    {"Nomenclature":"WIRE DETECTION,COMM", "NIIN":"16792990"},
-    {"Nomenclature":"WORKSTATION,GEOSPAT", "NIIN":"16835611"},
-    {"Nomenclature":"WORKSTATION,GEOSPAT", "NIIN":"16963562"},
-    {"Nomenclature":"WORKSTATION,PORTABL", "NIIN":"16678958"},
-    {"Nomenclature":"WORKSTATION,PORTABL", "NIIN":"16607132"},
-    {"Nomenclature":"WRENCH,IMPACT,PNEUM", "NIIN":"8892134"},
-    {"Nomenclature":"WRENCH,IMPACT,PNEUM", "NIIN":"1841427"},
-    {"Nomenclature":"WRENCH,TORQUE", "NIIN":"13551763"},
-    {"Nomenclature":"WRENCH,TORQUE", "NIIN":"13551792"},
-    {"Nomenclature":"WRENCH,TORQUE", "NIIN":"13999051"},
-    {"Nomenclature":"X-RAY APPARATUS,RAD", "NIIN":"16735754"},
-    {"Nomenclature":"1691935", "NIIN":"1691935"},
-    {"Nomenclature":"10438212", "NIIN":"10438212"},
-    {"Nomenclature":"11413830", "NIIN":"11413830"},
-    {"Nomenclature":"11414732", "NIIN":"11414732"},
-    {"Nomenclature":"12593454", "NIIN":"12593454"},
-    {"Nomenclature":"13551792", "NIIN":"13551792"},
-    {"Nomenclature":"14000237", "NIIN":"14000237"},
-    {"Nomenclature":"14394398", "NIIN":"14394398"},
-    {"Nomenclature":"15030006", "NIIN":"15030006"},
-    {"Nomenclature":"15305103", "NIIN":"15305103"},
-    {"Nomenclature":"15335364", "NIIN":"15335364"},
-    {"Nomenclature":"15460567", "NIIN":"15460567"},
-    {"Nomenclature":"15545474", "NIIN":"15545474"},
-    {"Nomenclature":"15789775", "NIIN":"15789775"},
-    {"Nomenclature":"15909283", "NIIN":"15909283"},
-    {"Nomenclature":"15909287", "NIIN":"15909287"},
-    {"Nomenclature":"16046320", "NIIN":"16046320"},
-    {"Nomenclature":"16186376", "NIIN":"16186376"},
-    {"Nomenclature":"16186440", "NIIN":"16186440"},
-    {"Nomenclature":"16186485", "NIIN":"16186485"},
-    {"Nomenclature":"16257505", "NIIN":"16257505"},
-    {"Nomenclature":"16319161", "NIIN":"16319161"},
-    {"Nomenclature":"16427886", "NIIN":"16427886"},
-    {"Nomenclature":"16447692", "NIIN":"16447692"},
-    {"Nomenclature":"16448428", "NIIN":"16448428"},
-    {"Nomenclature":"16476379", "NIIN":"16476379"},
-    {"Nomenclature":"16476886", "NIIN":"16476886"},
-    {"Nomenclature":"16476887", "NIIN":"16476887"},
-    {"Nomenclature":"16477604", "NIIN":"16477604"},
-    {"Nomenclature":"16534151", "NIIN":"16534151"},
-    {"Nomenclature":"16534307", "NIIN":"16534307"},
-    {"Nomenclature":"16559655", "NIIN":"16559655"},
-    {"Nomenclature":"16560266", "NIIN":"16560266"},
-    {"Nomenclature":"16578220", "NIIN":"16578220"},
-    {"Nomenclature":"16586158", "NIIN":"16586158"},
-    {"Nomenclature":"16586207", "NIIN":"16586207"},
-    {"Nomenclature":"16586211", "NIIN":"16586211"},
-    {"Nomenclature":"16586414", "NIIN":"16586414"},
-    {"Nomenclature":"16586434", "NIIN":"16586434"},
-    {"Nomenclature":"16592771", "NIIN":"16592771"},
-    {"Nomenclature":"16597799", "NIIN":"16597799"},
-    {"Nomenclature":"16607622", "NIIN":"16607622"},
-    {"Nomenclature":"16626245", "NIIN":"16626245"},
-    {"Nomenclature":"16629410", "NIIN":"16629410"},
-    {"Nomenclature":"16629460", "NIIN":"16629460"},
-    {"Nomenclature":"16676475", "NIIN":"16676475"},
-    {"Nomenclature":"16676476", "NIIN":"16676476"},
-    {"Nomenclature":"16688118", "NIIN":"16688118"},
-    {"Nomenclature":"16691163", "NIIN":"16691163"},
-    {"Nomenclature":"16693530", "NIIN":"16693530"},
-    {"Nomenclature":"16741973", "NIIN":"16741973"},
-    {"Nomenclature":"16741995", "NIIN":"16741995"},
-    {"Nomenclature":"16741998", "NIIN":"16741998"},
-    {"Nomenclature":"16743555", "NIIN":"16743555"},
-    {"Nomenclature":"16743557", "NIIN":"16743557"},
-    {"Nomenclature":"16743558", "NIIN":"16743558"},
-    {"Nomenclature":"16743560", "NIIN":"16743560"},
-    {"Nomenclature":"16743563", "NIIN":"16743563"},
-    {"Nomenclature":"16743572", "NIIN":"16743572"},
-    {"Nomenclature":"16757220", "NIIN":"16757220"},
-    {"Nomenclature":"16757959", "NIIN":"16757959"},
-    {"Nomenclature":"16769524", "NIIN":"16769524"},
-    {"Nomenclature":"16771052", "NIIN":"16771052"},
-    {"Nomenclature":"16771179", "NIIN":"16771179"},
-    {"Nomenclature":"16771729", "NIIN":"16771729"},
-    {"Nomenclature":"16772399", "NIIN":"16772399"},
-    {"Nomenclature":"16772403", "NIIN":"16772403"},
-    {"Nomenclature":"16772430", "NIIN":"16772430"},
-    {"Nomenclature":"16772851", "NIIN":"16772851"},
-    {"Nomenclature":"16781965", "NIIN":"16781965"},
-    {"Nomenclature":"16781969", "NIIN":"16781969"},
-    {"Nomenclature":"16785336", "NIIN":"16785336"},
-    {"Nomenclature":"16786845", "NIIN":"16786845"},
-    {"Nomenclature":"16802066", "NIIN":"16802066"},
-    {"Nomenclature":"16804191", "NIIN":"16804191"},
-    {"Nomenclature":"16805499", "NIIN":"16805499"},
-    {"Nomenclature":"16806645", "NIIN":"16806645"},
-    {"Nomenclature":"16807249", "NIIN":"16807249"},
-    {"Nomenclature":"16807515", "NIIN":"16807515"},
-    {"Nomenclature":"16807634", "NIIN":"16807634"},
-    {"Nomenclature":"16810360", "NIIN":"16810360"},
-    {"Nomenclature":"16810363", "NIIN":"16810363"},
-    {"Nomenclature":"16810364", "NIIN":"16810364"},
-    {"Nomenclature":"16811538", "NIIN":"16811538"},
-    {"Nomenclature":"16814982", "NIIN":"16814982"},
-    {"Nomenclature":"16815490", "NIIN":"16815490"},
-    {"Nomenclature":"16815555", "NIIN":"16815555"},
-    {"Nomenclature":"16817990", "NIIN":"16817990"},
-    {"Nomenclature":"16835175", "NIIN":"16835175"},
-    {"Nomenclature":"16841370", "NIIN":"16841370"},
-    {"Nomenclature":"16841371", "NIIN":"16841371"},
-    {"Nomenclature":"16841930", "NIIN":"16841930"},
-    {"Nomenclature":"16864368", "NIIN":"16864368"},
-    {"Nomenclature":"16868355", "NIIN":"16868355"},
-    {"Nomenclature":"16872694", "NIIN":"16872694"},
-    {"Nomenclature":"16876491", "NIIN":"16876491"},
-    {"Nomenclature":"16879320", "NIIN":"16879320"},
-    {"Nomenclature":"16882894", "NIIN":"16882894"},
-    {"Nomenclature":"16895614", "NIIN":"16895614"},
-    {"Nomenclature":"16911721", "NIIN":"16911721"},
-    {"Nomenclature":"16919120", "NIIN":"16919120"},
-    {"Nomenclature":"16919125", "NIIN":"16919125"},
-    {"Nomenclature":"16933474", "NIIN":"16933474"},
-    {"Nomenclature":"16960805", "NIIN":"16960805"},
-    {"Nomenclature":"16962827", "NIIN":"16962827"},
-    {"Nomenclature":"16970128", "NIIN":"16970128"},
-    {"Nomenclature":"16973617", "NIIN":"16973617"},
-    {"Nomenclature":"16976128", "NIIN":"16976128"},
-    {"Nomenclature":"16997047", "NIIN":"16997047"},
-    {"Nomenclature":"17003579", "NIIN":"17003579"},
-    {"Nomenclature":"17004965", "NIIN":"17004965"},
-    {"Nomenclature":"17004969", "NIIN":"17004969"},
-    {"Nomenclature":"17005531", "NIIN":"17005531"},
-    {"Nomenclature":"17005717", "NIIN":"17005717"},
-    {"Nomenclature":"17005749", "NIIN":"17005749"},
-    {"Nomenclature":"17005753", "NIIN":"17005753"},
-    {"Nomenclature":"17007087", "NIIN":"17007087"},
-    {"Nomenclature":"17008045", "NIIN":"17008045"},
-    {"Nomenclature":"17008046", "NIIN":"17008046"},
-    {"Nomenclature":"17013439", "NIIN":"17013439"},
-    {"Nomenclature":"17018323", "NIIN":"17018323"},
-    {"Nomenclature":"17025169", "NIIN":"17025169"},
-    {"Nomenclature":"17027547", "NIIN":"17027547"},
-    {"Nomenclature":"17029746", "NIIN":"17029746"},
-    {"Nomenclature":"17057787", "NIIN":"17057787"},
-    {"Nomenclature":"17060185", "NIIN":"17060185"},
-    {"Nomenclature":"17061865", "NIIN":"17061865"},
-    {"Nomenclature":"17074010", "NIIN":"17074010"},
-    {"Nomenclature":"226266776", "NIIN":"226266776"},
-    {"Nomenclature":"226270709", "NIIN":"226270709"},
-    {"Nomenclature":"992165195", "NIIN":"992165195"},
-    {"Nomenclature":"16876283", "NIIN":"16876283"},
-    {"Nomenclature":"16993221", "NIIN":"16993221"},
-    {"Nomenclature":"16886635", "NIIN":"16886635"},
-    {"Nomenclature":"16588262", "NIIN":"16588262"},
-    {"Nomenclature":"16990814", "NIIN":"16990814"},
-    {"Nomenclature":"16605095", "NIIN":"16605095"},
-    {"Nomenclature":"16599037", "NIIN":"16599037"},
-    {"Nomenclature":"16444375", "NIIN":"16444375"},
-    {"Nomenclature":"15938026", "NIIN":"15938026"},
-    {"Nomenclature":"16946342", "NIIN":"16946342"},
-    {"Nomenclature":"15877978", "NIIN":"15877978"},
-    {"Nomenclature":"16308327", "NIIN":"16308327"},
-    {"Nomenclature":"15949295", "NIIN":"15949295"},
-    {"Nomenclature":"15949296", "NIIN":"15949296"},
-    {"Nomenclature":"15949299", "NIIN":"15949299"},
-    {"Nomenclature":"16828849", "NIIN":"16828849"},
-    {"Nomenclature":"16828850", "NIIN":"16828850"},
-    {"Nomenclature":"15207373", "NIIN":"15207373"},
-    {"Nomenclature":"15207385", "NIIN":"15207385"},
-    {"Nomenclature":"15986377", "NIIN":"15986377"},
-    {"Nomenclature":"13540797", "NIIN":"13540797"},
-    {"Nomenclature":"14747089", "NIIN":"14747089"},
-    {"Nomenclature":"16055146", "NIIN":"16055146"},
-    {"Nomenclature":"16817253", "NIIN":"16817253"},
-    {"Nomenclature":"14993547", "NIIN":"14993547"},
-    {"Nomenclature":"14331617", "NIIN":"14331617"},
-    {"Nomenclature":"15223255", "NIIN":"15223255"},
-    {"Nomenclature":"15682691", "NIIN":"15682691"},
-    {"Nomenclature":"9651676", "NIIN":"9651676"},
-    {"Nomenclature":"9651677", "NIIN":"9651677"},
-    {"Nomenclature":"12498373", "NIIN":"12498373"},
-    {"Nomenclature":"14654187", "NIIN":"14654187"},
-    {"Nomenclature":"16793235", "NIIN":"16793235"},
-    {"Nomenclature":"16172324", "NIIN":"16172324"},
-    {"Nomenclature":"16092270", "NIIN":"16092270"},
-    {"Nomenclature":"16092302", "NIIN":"16092302"},
-    {"Nomenclature":"16416680", "NIIN":"16416680"},
-    {"Nomenclature":"16436240", "NIIN":"16436240"},
-    {"Nomenclature":"16188462", "NIIN":"16188462"},
-    {"Nomenclature":"16834851", "NIIN":"16834851"},
-    {"Nomenclature":"16299964", "NIIN":"16299964"},
-    {"Nomenclature":"16458342", "NIIN":"16458342"},
-    {"Nomenclature":"16750700", "NIIN":"16750700"},
-    {"Nomenclature":"16451833", "NIIN":"16451833"},
-    {"Nomenclature":"16769464", "NIIN":"16769464"},
-    {"Nomenclature":"16599791", "NIIN":"16599791"},
-    {"Nomenclature":"16738403", "NIIN":"16738403"},
-    {"Nomenclature":"16984413", "NIIN":"16984413"},
-    {"Nomenclature":"16507742", "NIIN":"16507742"},
-    {"Nomenclature":"70001343", "NIIN":"70001343"},
-    {"Nomenclature":"16713798", "NIIN":"16713798"},
-    {"Nomenclature":"16627973", "NIIN":"16627973"},
-    {"Nomenclature":"16757212", "NIIN":"16757212"},
-    {"Nomenclature":"16919104", "NIIN":"16919104"},
-    {"Nomenclature":"16919114", "NIIN":"16919114"},
-    {"Nomenclature":"16625291", "NIIN":"16625291"},
-    {"Nomenclature":"16655667", "NIIN":"16655667"},
-    {"Nomenclature":"16767875", "NIIN":"16767875"},
-    {"Nomenclature":"16793258", "NIIN":"16793258"},
-    {"Nomenclature":"16891688", "NIIN":"16891688"}
-    ]
+    {
+      "ID": "INV000001",
+      "Nomenclature": "ACCESSORY KIT,ANTEN",
+      "NIIN": "16815564"
+    },
+    {
+      "ID": "INV000002",
+      "Nomenclature": "ACCESSORY KIT,ELECT",
+      "NIIN": "16516837"
+    },
+    {
+      "ID": "INV000003",
+      "Nomenclature": "ACCESSORY KIT,ELECT",
+      "NIIN": "16629410"
+    },
+    {
+      "ID": "INV000004",
+      "Nomenclature": "ACCESSORY KIT,ELECT",
+      "NIIN": "16629998"
+    },
+    {
+      "ID": "INV000005",
+      "Nomenclature": "ACCESSORY KIT,ELECT",
+      "NIIN": "226266776"
+    },
+    {
+      "ID": "INV000006",
+      "Nomenclature": "ACCESSORY KIT,MAST",
+      "NIIN": "16586217"
+    },
+    {
+      "ID": "INV000007",
+      "Nomenclature": "ACCESSORY KIT,MAST",
+      "NIIN": "16586434"
+    },
+    {
+      "ID": "INV000008",
+      "Nomenclature": "ACCESSORY KIT,PHOTO",
+      "NIIN": "16235693"
+    },
+    {
+      "ID": "INV000009",
+      "Nomenclature": "ACCESSORY KIT,PHOTO",
+      "NIIN": "16235761"
+    },
+    {
+      "ID": "INV000010",
+      "Nomenclature": "ACCESSORY OUTFIT,FO",
+      "NIIN": "3488652"
+    },
+    {
+      "ID": "INV000011",
+      "Nomenclature": "ADAPTER SET,ENGINE",
+      "NIIN": "16892353"
+    },
+    {
+      "ID": "INV000012",
+      "Nomenclature": "ADAPTER,POWER SUPPL",
+      "NIIN": "15976193"
+    },
+    {
+      "ID": "INV000013",
+      "Nomenclature": "ADAPTER,POWER SUPPL",
+      "NIIN": "16213563"
+    },
+    {
+      "ID": "INV000014",
+      "Nomenclature": "ADAPTER,POWER SUPPL",
+      "NIIN": "16586944"
+    },
+    {
+      "ID": "INV000015",
+      "Nomenclature": "AIR CONDITIONER",
+      "NIIN": "15811276"
+    },
+    {
+      "ID": "INV000016",
+      "Nomenclature": "AIR CONDITIONER",
+      "NIIN": "15812260"
+    },
+    {
+      "ID": "INV000017",
+      "Nomenclature": "ALL SOURCE ANALYSIS",
+      "NIIN": "16744782"
+    },
+    {
+      "ID": "INV000018",
+      "Nomenclature": "ALL SOURCE ANALYSIS",
+      "NIIN": "16973617"
+    },
+    {
+      "ID": "INV000019",
+      "Nomenclature": "AMPLIFIER-CONTROL G",
+      "NIIN": "16592602"
+    },
+    {
+      "ID": "INV000020",
+      "Nomenclature": "AMPLIFIER-CONTROL G",
+      "NIIN": "16741992"
+    },
+    {
+      "ID": "INV000021",
+      "Nomenclature": "AMPLIFIER-POWER SUP",
+      "NIIN": "16570393"
+    },
+    {
+      "ID": "INV000022",
+      "Nomenclature": "AMPLIFIER-POWER SUP",
+      "NIIN": "16676475"
+    },
+    {
+      "ID": "INV000023",
+      "Nomenclature": "AMPLIFIER-POWER SUP",
+      "NIIN": "16676476"
+    },
+    {
+      "ID": "INV000024",
+      "Nomenclature": "AMPLIFIER-POWER SUP",
+      "NIIN": "16757959"
+    },
+    {
+      "ID": "INV000025",
+      "Nomenclature": "AMPLIFIER-POWER SUP",
+      "NIIN": "16895614"
+    },
+    {
+      "ID": "INV000026",
+      "Nomenclature": "ANALYZER SET,VEHICU",
+      "NIIN": "15923458"
+    },
+    {
+      "ID": "INV000027",
+      "Nomenclature": "ANALYZER SET,VEHICU",
+      "NIIN": "15929766"
+    },
+    {
+      "ID": "INV000028",
+      "Nomenclature": "ANALYZER-CHARGER,BA",
+      "NIIN": "15109594"
+    },
+    {
+      "ID": "INV000029",
+      "Nomenclature": "ANEMOMETER",
+      "NIIN": "16446757"
+    },
+    {
+      "ID": "INV000030",
+      "Nomenclature": "ANTENNA",
+      "NIIN": "1066130"
+    },
+    {
+      "ID": "INV000031",
+      "Nomenclature": "ANTENNA",
+      "NIIN": "16567113"
+    },
+    {
+      "ID": "INV000032",
+      "Nomenclature": "ANTENNA",
+      "NIIN": "16586205"
+    },
+    {
+      "ID": "INV000033",
+      "Nomenclature": "ANTENNA",
+      "NIIN": "16586207"
+    },
+    {
+      "ID": "INV000034",
+      "Nomenclature": "ANTENNA",
+      "NIIN": "16586214"
+    },
+    {
+      "ID": "INV000035",
+      "Nomenclature": "ANTENNA BOARDBAND",
+      "NIIN": "70001339"
+    },
+    {
+      "ID": "INV000036",
+      "Nomenclature": "ANTENNA CONTROL SUB",
+      "NIIN": "16600296"
+    },
+    {
+      "ID": "INV000037",
+      "Nomenclature": "ANTENNA ELEVATOR GR",
+      "NIIN": "10631574"
+    },
+    {
+      "ID": "INV000038",
+      "Nomenclature": "ANTENNA GROUP",
+      "NIIN": "16750548"
+    },
+    {
+      "ID": "INV000039",
+      "Nomenclature": "ANTENNA GROUP",
+      "NIIN": "16752889"
+    },
+    {
+      "ID": "INV000040",
+      "Nomenclature": "ANTENNA GROUP,COMMO",
+      "NIIN": "15852696"
+    },
+    {
+      "ID": "INV000041",
+      "Nomenclature": "ANTENNA, BROADBAND",
+      "NIIN": "70001340"
+    },
+    {
+      "ID": "INV000042",
+      "Nomenclature": "AUTO ACTIVATION DEV",
+      "NIIN": "15986139"
+    },
+    {
+      "ID": "INV000043",
+      "Nomenclature": "BAG,CARGO,AERIAL DE",
+      "NIIN": "5873421"
+    },
+    {
+      "ID": "INV000044",
+      "Nomenclature": "BATTERY POWER SOURC",
+      "NIIN": "16305375"
+    },
+    {
+      "ID": "INV000045",
+      "Nomenclature": "BAYONET-KNIFE",
+      "NIIN": "15216087"
+    },
+    {
+      "ID": "INV000046",
+      "Nomenclature": "BEACON SET,RADIO",
+      "NIIN": "16538172"
+    },
+    {
+      "ID": "INV000047",
+      "Nomenclature": "BEACON,DISTRESS",
+      "NIIN": "16165705"
+    },
+    {
+      "ID": "INV000048",
+      "Nomenclature": "BEACON,DISTRESS",
+      "NIIN": "16174806"
+    },
+    {
+      "ID": "INV000049",
+      "Nomenclature": "BEACON,RADIO",
+      "NIIN": "15143549"
+    },
+    {
+      "ID": "INV000050",
+      "Nomenclature": "BELT,INDIVIDUAL EQU",
+      "NIIN": "13221965"
+    },
+    {
+      "ID": "INV000051",
+      "Nomenclature": "BELT,INDIVIDUAL EQU",
+      "NIIN": "13221966"
+    },
+    {
+      "ID": "INV000052",
+      "Nomenclature": "BINOCULAR",
+      "NIIN": "14306944"
+    },
+    {
+      "ID": "INV000053",
+      "Nomenclature": "BINOCULAR",
+      "NIIN": "14993547"
+    },
+    {
+      "ID": "INV000054",
+      "Nomenclature": "BINOCULAR",
+      "NIIN": "15593648"
+    },
+    {
+      "ID": "INV000055",
+      "Nomenclature": "BOAT,LANDING,INFLAT",
+      "NIIN": "15991756"
+    },
+    {
+      "ID": "INV000056",
+      "Nomenclature": "BODY ARMOR OUTFIT,E",
+      "NIIN": "16828364"
+    },
+    {
+      "ID": "INV000057",
+      "Nomenclature": "BORELIGHT SYSTEM,LA",
+      "NIIN": "14712091"
+    },
+    {
+      "ID": "INV000058",
+      "Nomenclature": "BORESCOPE",
+      "NIIN": "15629886"
+    },
+    {
+      "ID": "INV000059",
+      "Nomenclature": "BORESCOPE,VIDEO",
+      "NIIN": "16310369"
+    },
+    {
+      "ID": "INV000060",
+      "Nomenclature": "BORESIGHT KIT",
+      "NIIN": "15717212"
+    },
+    {
+      "ID": "INV000061",
+      "Nomenclature": "BOX,SHIPPING",
+      "NIIN": "11994017"
+    },
+    {
+      "ID": "INV000062",
+      "Nomenclature": "BOX,SHIPPING",
+      "NIIN": "13540797"
+    },
+    {
+      "ID": "INV000063",
+      "Nomenclature": "BOX,SHIPPING",
+      "NIIN": "13713690"
+    },
+    {
+      "ID": "INV000064",
+      "Nomenclature": "BOX,SHIPPING",
+      "NIIN": "14747089"
+    },
+    {
+      "ID": "INV000065",
+      "Nomenclature": "BREATHING APPARATUS",
+      "NIIN": "13333495"
+    },
+    {
+      "ID": "INV000066",
+      "Nomenclature": "CABINET,TOOL,MOBILE",
+      "NIIN": "15863669"
+    },
+    {
+      "ID": "INV000067",
+      "Nomenclature": "CABLE ASSEMBLY,SPEC",
+      "NIIN": "15308289"
+    },
+    {
+      "ID": "INV000068",
+      "Nomenclature": "CABLE KIT,RADIO FRE",
+      "NIIN": "15647040"
+    },
+    {
+      "ID": "INV000069",
+      "Nomenclature": "CALIPER,DIAL",
+      "NIIN": "10104522"
+    },
+    {
+      "ID": "INV000070",
+      "Nomenclature": "CAMERA GROUP,RECONN",
+      "NIIN": "16858880"
+    },
+    {
+      "ID": "INV000071",
+      "Nomenclature": "CAMERA SET,MOTION P",
+      "NIIN": "16868539"
+    },
+    {
+      "ID": "INV000072",
+      "Nomenclature": "CAMERA SET,STILL PI",
+      "NIIN": "16868540"
+    },
+    {
+      "ID": "INV000073",
+      "Nomenclature": "CAMERA SET,STILL PI",
+      "NIIN": "17025157"
+    },
+    {
+      "ID": "INV000074",
+      "Nomenclature": "CAMERA SYSTEM,DIGIT",
+      "NIIN": "16186328"
+    },
+    {
+      "ID": "INV000075",
+      "Nomenclature": "CAMERA SYSTEM,DIGIT",
+      "NIIN": "16186440"
+    },
+    {
+      "ID": "INV000076",
+      "Nomenclature": "CAMERA SYSTEM,RECON",
+      "NIIN": "15997375"
+    },
+    {
+      "ID": "INV000077",
+      "Nomenclature": "CAMERA SYSTEM,RECON",
+      "NIIN": "16868355"
+    },
+    {
+      "ID": "INV000078",
+      "Nomenclature": "CAMERA SYSTEM,SURVE",
+      "NIIN": "16807147"
+    },
+    {
+      "ID": "INV000079",
+      "Nomenclature": "CAMERA SYSTEM,SURVE",
+      "NIIN": "17025726"
+    },
+    {
+      "ID": "INV000080",
+      "Nomenclature": "CAMERA,MOTION PICTU",
+      "NIIN": "16166141"
+    },
+    {
+      "ID": "INV000081",
+      "Nomenclature": "CAMERA,RECONNAISSAN",
+      "NIIN": "15917602"
+    },
+    {
+      "ID": "INV000082",
+      "Nomenclature": "CAMERA,RECONNAISSAN",
+      "NIIN": "16497974"
+    },
+    {
+      "ID": "INV000083",
+      "Nomenclature": "CAMERA,TELEVISION",
+      "NIIN": "16839947"
+    },
+    {
+      "ID": "INV000084",
+      "Nomenclature": "CAMOUFLAGE NET SYST",
+      "NIIN": "14572956"
+    },
+    {
+      "ID": "INV000085",
+      "Nomenclature": "CAN,MILITARY",
+      "NIIN": "893827"
+    },
+    {
+      "ID": "INV000086",
+      "Nomenclature": "CAN,MILITARY",
+      "NIIN": "13375269"
+    },
+    {
+      "ID": "INV000087",
+      "Nomenclature": "CANOPY,PERSONNEL PA",
+      "NIIN": "15728946"
+    },
+    {
+      "ID": "INV000088",
+      "Nomenclature": "CARBINE,5.56 MILLIM",
+      "NIIN": "12310973"
+    },
+    {
+      "ID": "INV000089",
+      "Nomenclature": "CARBINE,5.56 MILLIM",
+      "NIIN": "13820953"
+    },
+    {
+      "ID": "INV000090",
+      "Nomenclature": "CARRIER,LITTER NO.2",
+      "NIIN": "15049056"
+    },
+    {
+      "ID": "INV000091",
+      "Nomenclature": "CARRIER,SWORD SCABB",
+      "NIIN": "3077768"
+    },
+    {
+      "ID": "INV000092",
+      "Nomenclature": "CARRIER,SWORD SCABB",
+      "NIIN": "9651674"
+    },
+    {
+      "ID": "INV000093",
+      "Nomenclature": "CHARGER,BATTERY",
+      "NIIN": "14430970"
+    },
+    {
+      "ID": "INV000094",
+      "Nomenclature": "CHARGER,BATTERY",
+      "NIIN": "14952839"
+    },
+    {
+      "ID": "INV000095",
+      "Nomenclature": "CHARGER,BATTERY",
+      "NIIN": "15003401"
+    },
+    {
+      "ID": "INV000096",
+      "Nomenclature": "CHARGER,BATTERY",
+      "NIIN": "15327711"
+    },
+    {
+      "ID": "INV000097",
+      "Nomenclature": "CHARGER,BATTERY",
+      "NIIN": "15352718"
+    },
+    {
+      "ID": "INV000098",
+      "Nomenclature": "CHARGER,BATTERY",
+      "NIIN": "15649082"
+    },
+    {
+      "ID": "INV000099",
+      "Nomenclature": "CHARGER,BATTERY",
+      "NIIN": "16099818"
+    },
+    {
+      "ID": "INV000100",
+      "Nomenclature": "CHARGER,BATTERY",
+      "NIIN": "16184572"
+    },
+    {
+      "ID": "INV000101",
+      "Nomenclature": "CHARGER,BATTERY",
+      "NIIN": "16603696"
+    },
+    {
+      "ID": "INV000102",
+      "Nomenclature": "CIHEP TECH SURVEILL",
+      "NIIN": "16573892"
+    },
+    {
+      "ID": "INV000103",
+      "Nomenclature": "CODEC,DATA SIGNAL",
+      "NIIN": "16427842"
+    },
+    {
+      "ID": "INV000104",
+      "Nomenclature": "CODEC,DATA SIGNAL",
+      "NIIN": "16451833"
+    },
+    {
+      "ID": "INV000105",
+      "Nomenclature": "CODEC,DATA SIGNAL",
+      "NIIN": "16588079"
+    },
+    {
+      "ID": "INV000106",
+      "Nomenclature": "CODEC,DATA SIGNAL",
+      "NIIN": "16872694"
+    },
+    {
+      "ID": "INV000107",
+      "Nomenclature": "CODEC,DATA SIGNAL",
+      "NIIN": "16900586"
+    },
+    {
+      "ID": "INV000108",
+      "Nomenclature": "COLLAPSIBLE JMIC 3.",
+      "NIIN": "15881830"
+    },
+    {
+      "ID": "INV000109",
+      "Nomenclature": "COLLAPSIBLE JOINT M",
+      "NIIN": "15645795"
+    },
+    {
+      "ID": "INV000110",
+      "Nomenclature": "COMBAT CONTROL SYST",
+      "NIIN": "16745202"
+    },
+    {
+      "ID": "INV000111",
+      "Nomenclature": "COMBAT SUPPORT SYST",
+      "NIIN": "17008675"
+    },
+    {
+      "ID": "INV000112",
+      "Nomenclature": "COMMAND SYSTEM,TACT",
+      "NIIN": "16239480"
+    },
+    {
+      "ID": "INV000113",
+      "Nomenclature": "COMMON LASER RANGEF",
+      "NIIN": "15615149"
+    },
+    {
+      "ID": "INV000114",
+      "Nomenclature": "COMMUNICATION SET,S",
+      "NIIN": "16440871"
+    },
+    {
+      "ID": "INV000115",
+      "Nomenclature": "COMMUNICATION SET,S",
+      "NIIN": "16651929"
+    },
+    {
+      "ID": "INV000116",
+      "Nomenclature": "COMMUNICATION SET,S",
+      "NIIN": "17025514"
+    },
+    {
+      "ID": "INV000117",
+      "Nomenclature": "COMMUNICATION SUBSY",
+      "NIIN": "15593078"
+    },
+    {
+      "ID": "INV000118",
+      "Nomenclature": "COMMUNICATION SUBSY",
+      "NIIN": "16184544"
+    },
+    {
+      "ID": "INV000119",
+      "Nomenclature": "COMMUNICATION SYSTE",
+      "NIIN": "15369943"
+    },
+    {
+      "ID": "INV000120",
+      "Nomenclature": "COMMUNICATION SYSTE",
+      "NIIN": "15661671"
+    },
+    {
+      "ID": "INV000121",
+      "Nomenclature": "COMMUNICATION SYSTE",
+      "NIIN": "15755541"
+    },
+    {
+      "ID": "INV000122",
+      "Nomenclature": "COMMUNICATION SYSTE",
+      "NIIN": "16217225"
+    },
+    {
+      "ID": "INV000123",
+      "Nomenclature": "COMMUNICATION SYSTE",
+      "NIIN": "16217239"
+    },
+    {
+      "ID": "INV000124",
+      "Nomenclature": "COMMUNICATION SYSTE",
+      "NIIN": "16217253"
+    },
+    {
+      "ID": "INV000125",
+      "Nomenclature": "COMMUNICATION SYSTE",
+      "NIIN": "16296022"
+    },
+    {
+      "ID": "INV000126",
+      "Nomenclature": "COMMUNICATION SYSTE",
+      "NIIN": "16416680"
+    },
+    {
+      "ID": "INV000127",
+      "Nomenclature": "COMMUNICATION SYSTE",
+      "NIIN": "16461091"
+    },
+    {
+      "ID": "INV000128",
+      "Nomenclature": "COMMUNICATION SYSTE",
+      "NIIN": "16461092"
+    },
+    {
+      "ID": "INV000129",
+      "Nomenclature": "COMMUNICATION SYSTE",
+      "NIIN": "16567075"
+    },
+    {
+      "ID": "INV000130",
+      "Nomenclature": "COMMUNICATION SYSTE",
+      "NIIN": "16627687"
+    },
+    {
+      "ID": "INV000131",
+      "Nomenclature": "COMMUNICATION SYSTE",
+      "NIIN": "16627709"
+    },
+    {
+      "ID": "INV000132",
+      "Nomenclature": "COMMUNICATION SYSTE",
+      "NIIN": "16627959"
+    },
+    {
+      "ID": "INV000133",
+      "Nomenclature": "COMMUNICATION SYSTE",
+      "NIIN": "16627973"
+    },
+    {
+      "ID": "INV000134",
+      "Nomenclature": "COMMUNICATION SYSTE",
+      "NIIN": "16698438"
+    },
+    {
+      "ID": "INV000135",
+      "Nomenclature": "COMMUNICATION SYSTE",
+      "NIIN": "16750567"
+    },
+    {
+      "ID": "INV000136",
+      "Nomenclature": "COMMUNICATION SYSTE",
+      "NIIN": "16793235"
+    },
+    {
+      "ID": "INV000137",
+      "Nomenclature": "COMMUNICATION SYSTE",
+      "NIIN": "16834851"
+    },
+    {
+      "ID": "INV000138",
+      "Nomenclature": "COMMUNICATION SYSTE",
+      "NIIN": "16911721"
+    },
+    {
+      "ID": "INV000139",
+      "Nomenclature": "COMMUNICATION SYSTE",
+      "NIIN": "16997049"
+    },
+    {
+      "ID": "INV000140",
+      "Nomenclature": "COMMUNICATION SYSTE",
+      "NIIN": "17005717"
+    },
+    {
+      "ID": "INV000141",
+      "Nomenclature": "COMMUNICATIONS CENT",
+      "NIIN": "16184551"
+    },
+    {
+      "ID": "INV000142",
+      "Nomenclature": "COMMUNICATIONS CONT",
+      "NIIN": "16651618"
+    },
+    {
+      "ID": "INV000143",
+      "Nomenclature": "COMMUNICATIONS EQUI",
+      "NIIN": "15679875"
+    },
+    {
+      "ID": "INV000144",
+      "Nomenclature": "COMPASS,MAGNETIC,UN",
+      "NIIN": "9304260"
+    },
+    {
+      "ID": "INV000145",
+      "Nomenclature": "COMPASS,MAGNETIC,UN",
+      "NIIN": "11966971"
+    },
+    {
+      "ID": "INV000146",
+      "Nomenclature": "COMPRESSOR UNIT,REC",
+      "NIIN": "16279748"
+    },
+    {
+      "ID": "INV000147",
+      "Nomenclature": "COMPRESSOR,SCBA REF",
+      "NIIN": "16328868"
+    },
+    {
+      "ID": "INV000148",
+      "Nomenclature": "COMPUTER SET,DIGITA",
+      "NIIN": "15978829"
+    },
+    {
+      "ID": "INV000149",
+      "Nomenclature": "COMPUTER SET,DIGITA",
+      "NIIN": "16269912"
+    },
+    {
+      "ID": "INV000150",
+      "Nomenclature": "COMPUTER SYSTEM,DIG",
+      "NIIN": "15892117"
+    },
+    {
+      "ID": "INV000151",
+      "Nomenclature": "COMPUTER SYSTEM,DIG",
+      "NIIN": "16009722"
+    },
+    {
+      "ID": "INV000152",
+      "Nomenclature": "COMPUTER SYSTEM,DIG",
+      "NIIN": "16051983"
+    },
+    {
+      "ID": "INV000153",
+      "Nomenclature": "COMPUTER SYSTEM,DIG",
+      "NIIN": "16434109"
+    },
+    {
+      "ID": "INV000154",
+      "Nomenclature": "COMPUTER SYSTEM,DIG",
+      "NIIN": "16444027"
+    },
+    {
+      "ID": "INV000155",
+      "Nomenclature": "COMPUTER SYSTEM,DIG",
+      "NIIN": "16447863"
+    },
+    {
+      "ID": "INV000156",
+      "Nomenclature": "COMPUTER SYSTEM,DIG",
+      "NIIN": "16460580"
+    },
+    {
+      "ID": "INV000157",
+      "Nomenclature": "COMPUTER SYSTEM,DIG",
+      "NIIN": "16585849"
+    },
+    {
+      "ID": "INV000158",
+      "Nomenclature": "COMPUTER SYSTEM,DIG",
+      "NIIN": "16588262"
+    },
+    {
+      "ID": "INV000159",
+      "Nomenclature": "COMPUTER SYSTEM,DIG",
+      "NIIN": "16590082"
+    },
+    {
+      "ID": "INV000160",
+      "Nomenclature": "COMPUTER SYSTEM,DIG",
+      "NIIN": "16607415"
+    },
+    {
+      "ID": "INV000161",
+      "Nomenclature": "COMPUTER SYSTEM,DIG",
+      "NIIN": "16651619"
+    },
+    {
+      "ID": "INV000162",
+      "Nomenclature": "COMPUTER SYSTEM,DIG",
+      "NIIN": "16722623"
+    },
+    {
+      "ID": "INV000163",
+      "Nomenclature": "COMPUTER SYSTEM,DIG",
+      "NIIN": "16743557"
+    },
+    {
+      "ID": "INV000164",
+      "Nomenclature": "COMPUTER SYSTEM,DIG",
+      "NIIN": "16878772"
+    },
+    {
+      "ID": "INV000165",
+      "Nomenclature": "COMPUTER SYSTEM,DIG",
+      "NIIN": "16915754"
+    },
+    {
+      "ID": "INV000166",
+      "Nomenclature": "COMPUTER SYSTEM,DIG",
+      "NIIN": "16946342"
+    },
+    {
+      "ID": "INV000167",
+      "Nomenclature": "COMPUTER SYSTEM,DIG",
+      "NIIN": "16993161"
+    },
+    {
+      "ID": "INV000168",
+      "Nomenclature": "COMPUTER SYSTEM,DIG",
+      "NIIN": "17057787"
+    },
+    {
+      "ID": "INV000169",
+      "Nomenclature": "COMPUTER,BALLISTICS",
+      "NIIN": "15540753"
+    },
+    {
+      "ID": "INV000170",
+      "Nomenclature": "COMPUTER,DIGITAL",
+      "NIIN": "15622359"
+    },
+    {
+      "ID": "INV000171",
+      "Nomenclature": "COMPUTER,DIGITAL",
+      "NIIN": "15622360"
+    },
+    {
+      "ID": "INV000172",
+      "Nomenclature": "COMPUTER,DIGITAL",
+      "NIIN": "15746985"
+    },
+    {
+      "ID": "INV000173",
+      "Nomenclature": "COMPUTER,DIGITAL",
+      "NIIN": "15751114"
+    },
+    {
+      "ID": "INV000174",
+      "Nomenclature": "COMPUTER,DIGITAL",
+      "NIIN": "16319931"
+    },
+    {
+      "ID": "INV000175",
+      "Nomenclature": "COMPUTER,DIGITAL",
+      "NIIN": "16544856"
+    },
+    {
+      "ID": "INV000176",
+      "Nomenclature": "COMPUTER,DIGITAL",
+      "NIIN": "16627762"
+    },
+    {
+      "ID": "INV000177",
+      "Nomenclature": "COMPUTER,DIGITAL",
+      "NIIN": "16627775"
+    },
+    {
+      "ID": "INV000178",
+      "Nomenclature": "COMPUTER,DIGITAL",
+      "NIIN": "16655667"
+    },
+    {
+      "ID": "INV000179",
+      "Nomenclature": "COMPUTER,DIGITAL",
+      "NIIN": "16678957"
+    },
+    {
+      "ID": "INV000180",
+      "Nomenclature": "COMPUTER,DIGITAL",
+      "NIIN": "16757210"
+    },
+    {
+      "ID": "INV000181",
+      "Nomenclature": "COMPUTER,DIGITAL",
+      "NIIN": "16757212"
+    },
+    {
+      "ID": "INV000182",
+      "Nomenclature": "COMPUTER,DIGITAL",
+      "NIIN": "16793258"
+    },
+    {
+      "ID": "INV000183",
+      "Nomenclature": "COMPUTER,DIGITAL",
+      "NIIN": "16891688"
+    },
+    {
+      "ID": "INV000184",
+      "Nomenclature": "COMPUTER,DIGITAL",
+      "NIIN": "16919104"
+    },
+    {
+      "ID": "INV000185",
+      "Nomenclature": "COMPUTER,DIGITAL",
+      "NIIN": "16919114"
+    },
+    {
+      "ID": "INV000186",
+      "Nomenclature": "COMPUTER,DIGITAL",
+      "NIIN": "16919120"
+    },
+    {
+      "ID": "INV000187",
+      "Nomenclature": "COMPUTER,DIGITAL",
+      "NIIN": "16919125"
+    },
+    {
+      "ID": "INV000188",
+      "Nomenclature": "COMPUTER,DIGITAL",
+      "NIIN": "16933474"
+    },
+    {
+      "ID": "INV000189",
+      "Nomenclature": "COMPUTER,DIGITAL",
+      "NIIN": "17007087"
+    },
+    {
+      "ID": "INV000190",
+      "Nomenclature": "COMPUTER,NAVIGATION",
+      "NIIN": "16087886"
+    },
+    {
+      "ID": "INV000191",
+      "Nomenclature": "COMPUTER,NAVIGATION",
+      "NIIN": "16672943"
+    },
+    {
+      "ID": "INV000192",
+      "Nomenclature": "CONTAINER TRAILER,W",
+      "NIIN": "15546009"
+    },
+    {
+      "ID": "INV000193",
+      "Nomenclature": "CONTAINER,FOOD",
+      "NIIN": "14848988"
+    },
+    {
+      "ID": "INV000194",
+      "Nomenclature": "CONTROL,COMMUNICATI",
+      "NIIN": "16653711"
+    },
+    {
+      "ID": "INV000195",
+      "Nomenclature": "CONTROL,RECEIVER",
+      "NIIN": "15301058"
+    },
+    {
+      "ID": "INV000196",
+      "Nomenclature": "CONTROLLER,VIDEO DI",
+      "NIIN": "992502637"
+    },
+    {
+      "ID": "INV000197",
+      "Nomenclature": "CONVERSION KIT,RIFL",
+      "NIIN": "996709993"
+    },
+    {
+      "ID": "INV000198",
+      "Nomenclature": "CONVERTER,FREQUENCY",
+      "NIIN": "17025162"
+    },
+    {
+      "ID": "INV000199",
+      "Nomenclature": "COOLING AND REFRIGE",
+      "NIIN": "16751965"
+    },
+    {
+      "ID": "INV000200",
+      "Nomenclature": "CORD,ELASTIC,PARACH",
+      "NIIN": "16031021"
+    },
+    {
+      "ID": "INV000201",
+      "Nomenclature": "COT,FOLDING",
+      "NIIN": "9350422"
+    },
+    {
+      "ID": "INV000202",
+      "Nomenclature": "COUNTER INTEL,HUMAN",
+      "NIIN": "16589563"
+    },
+    {
+      "ID": "INV000203",
+      "Nomenclature": "COUNTERMEASURES SET",
+      "NIIN": "16490091"
+    },
+    {
+      "ID": "INV000204",
+      "Nomenclature": "CYLINDER ASSEMBLY,O",
+      "NIIN": "16072979"
+    },
+    {
+      "ID": "INV000205",
+      "Nomenclature": "DATA DISTRIBUTION S",
+      "NIIN": "15836735"
+    },
+    {
+      "ID": "INV000206",
+      "Nomenclature": "DATA DISTRIBUTION S",
+      "NIIN": "16470995"
+    },
+    {
+      "ID": "INV000207",
+      "Nomenclature": "DATA DISTRIBUTION S",
+      "NIIN": "16652997"
+    },
+    {
+      "ID": "INV000208",
+      "Nomenclature": "DATA DISTRIBUTION S",
+      "NIIN": "16737888"
+    },
+    {
+      "ID": "INV000209",
+      "Nomenclature": "DECISION SUPPORT",
+      "NIIN": "16666142"
+    },
+    {
+      "ID": "INV000210",
+      "Nomenclature": "DECODER RECEIVER",
+      "NIIN": "16756165"
+    },
+    {
+      "ID": "INV000211",
+      "Nomenclature": "DECODER-RECEIVER",
+      "NIIN": "16214960"
+    },
+    {
+      "ID": "INV000212",
+      "Nomenclature": "DECODER-RECEIVER",
+      "NIIN": "16844849"
+    },
+    {
+      "ID": "INV000213",
+      "Nomenclature": "DEGREASER",
+      "NIIN": "14657124"
+    },
+    {
+      "ID": "INV000214",
+      "Nomenclature": "DEMOLITION SET,EXPL",
+      "NIIN": "473751"
+    },
+    {
+      "ID": "INV000215",
+      "Nomenclature": "DEMOLITION SYSTEM R",
+      "NIIN": "16722186"
+    },
+    {
+      "ID": "INV000216",
+      "Nomenclature": "DESK,FIELD",
+      "NIIN": "15025826"
+    },
+    {
+      "ID": "INV000217",
+      "Nomenclature": "DETECTING SYSTEM,CO",
+      "NIIN": "16819287"
+    },
+    {
+      "ID": "INV000218",
+      "Nomenclature": "DETECTOR,EXPLOSIVE",
+      "NIIN": "16282484"
+    },
+    {
+      "ID": "INV000219",
+      "Nomenclature": "DETECTOR,EXPLOSIVE",
+      "NIIN": "16715432"
+    },
+    {
+      "ID": "INV000220",
+      "Nomenclature": "DETECTOR,RADIO FREQ",
+      "NIIN": "15999589"
+    },
+    {
+      "ID": "INV000221",
+      "Nomenclature": "DETECTOR,RADIO FREQ",
+      "NIIN": "16103783"
+    },
+    {
+      "ID": "INV000222",
+      "Nomenclature": "DEVICE,PURGE",
+      "NIIN": "12466815"
+    },
+    {
+      "ID": "INV000223",
+      "Nomenclature": "DIAL BORE GAGE,MODE",
+      "NIIN": "15629944"
+    },
+    {
+      "ID": "INV000224",
+      "Nomenclature": "DIGITIZER,DATA ENTR",
+      "NIIN": "16641853"
+    },
+    {
+      "ID": "INV000225",
+      "Nomenclature": "DIRECTION FINDER CE",
+      "NIIN": "16713792"
+    },
+    {
+      "ID": "INV000226",
+      "Nomenclature": "DIRECTION FINDER CE",
+      "NIIN": "16810283"
+    },
+    {
+      "ID": "INV000227",
+      "Nomenclature": "DIRECTION FINDER CE",
+      "NIIN": "16810303"
+    },
+    {
+      "ID": "INV000228",
+      "Nomenclature": "DIRECTION FINDER GR",
+      "NIIN": "16039842"
+    },
+    {
+      "ID": "INV000229",
+      "Nomenclature": "DIRECTION FINDER GR",
+      "NIIN": "16095194"
+    },
+    {
+      "ID": "INV000230",
+      "Nomenclature": "DIRECTION FINDER GR",
+      "NIIN": "16095197"
+    },
+    {
+      "ID": "INV000231",
+      "Nomenclature": "DIRECTION FINDER SE",
+      "NIIN": "15588729"
+    },
+    {
+      "ID": "INV000232",
+      "Nomenclature": "DIRECTION FINDER SE",
+      "NIIN": "15836741"
+    },
+    {
+      "ID": "INV000233",
+      "Nomenclature": "DIRECTION FINDER SE",
+      "NIIN": "16086031"
+    },
+    {
+      "ID": "INV000234",
+      "Nomenclature": "DIRECTION FINDER SE",
+      "NIIN": "16112523"
+    },
+    {
+      "ID": "INV000235",
+      "Nomenclature": "DIRECTION FINDER SE",
+      "NIIN": "16134519"
+    },
+    {
+      "ID": "INV000236",
+      "Nomenclature": "DIRECTION FINDER SE",
+      "NIIN": "16181102"
+    },
+    {
+      "ID": "INV000237",
+      "Nomenclature": "DIRECTION FINDER SE",
+      "NIIN": "16204645"
+    },
+    {
+      "ID": "INV000238",
+      "Nomenclature": "DIRECTION FINDER SE",
+      "NIIN": "16311779"
+    },
+    {
+      "ID": "INV000239",
+      "Nomenclature": "DIRECTION FINDER SE",
+      "NIIN": "16325421"
+    },
+    {
+      "ID": "INV000240",
+      "Nomenclature": "DIRECTION FINDER SE",
+      "NIIN": "17071182"
+    },
+    {
+      "ID": "INV000241",
+      "Nomenclature": "DISK DRIVE UNIT",
+      "NIIN": "16607580"
+    },
+    {
+      "ID": "INV000242",
+      "Nomenclature": "DISK DRIVE UNIT",
+      "NIIN": "16904579"
+    },
+    {
+      "ID": "INV000243",
+      "Nomenclature": "DISPENSER,LIQUID,IN",
+      "NIIN": "10937371"
+    },
+    {
+      "ID": "INV000244",
+      "Nomenclature": "DISPENSER,LIQUID,IN",
+      "NIIN": "12456937"
+    },
+    {
+      "ID": "INV000245",
+      "Nomenclature": "DISPOSABLE ANTI-TAN",
+      "NIIN": "90007519"
+    },
+    {
+      "ID": "INV000246",
+      "Nomenclature": "DISPOSAL KIT,EXPLOS",
+      "NIIN": "15594872"
+    },
+    {
+      "ID": "INV000247",
+      "Nomenclature": "DIVER PROPULSION DE",
+      "NIIN": "15237085"
+    },
+    {
+      "ID": "INV000248",
+      "Nomenclature": "DOME,AIRCRAFT RECON",
+      "NIIN": "16902862"
+    },
+    {
+      "ID": "INV000249",
+      "Nomenclature": "ELECTRONIC MAINTENA",
+      "NIIN": "16788512"
+    },
+    {
+      "ID": "INV000250",
+      "Nomenclature": "ENCRYPTION-DECRYPTI",
+      "NIIN": "15246615"
+    },
+    {
+      "ID": "INV000251",
+      "Nomenclature": "ENCRYPTION-DECRYPTI",
+      "NIIN": "15474520"
+    },
+    {
+      "ID": "INV000252",
+      "Nomenclature": "ENCRYPTION-DECRYPTI",
+      "NIIN": "15643364"
+    },
+    {
+      "ID": "INV000253",
+      "Nomenclature": "ENCRYPTION-DECRYPTI",
+      "NIIN": "15938026"
+    },
+    {
+      "ID": "INV000254",
+      "Nomenclature": "ENCRYPTION-DECRYPTI",
+      "NIIN": "16196583"
+    },
+    {
+      "ID": "INV000255",
+      "Nomenclature": "ENCRYPTION-DECRYPTI",
+      "NIIN": "16218615"
+    },
+    {
+      "ID": "INV000256",
+      "Nomenclature": "ENCRYPTION-DECRYPTI",
+      "NIIN": "16598807"
+    },
+    {
+      "ID": "INV000257",
+      "Nomenclature": "ENCRYPTION-DECRYPTI",
+      "NIIN": "16635347"
+    },
+    {
+      "ID": "INV000258",
+      "Nomenclature": "ENCRYPTION-DECRYPTI",
+      "NIIN": "16910775"
+    },
+    {
+      "ID": "INV000259",
+      "Nomenclature": "ENCRYPTION-DECRYPTI",
+      "NIIN": "16984413"
+    },
+    {
+      "ID": "INV000260",
+      "Nomenclature": "ENHANCED JOINT TERM",
+      "NIIN": "16499528"
+    },
+    {
+      "ID": "INV000261",
+      "Nomenclature": "EXP HYP CHMB SYS",
+      "NIIN": "90004449"
+    },
+    {
+      "ID": "INV000262",
+      "Nomenclature": "EXTRACTOR,TARGET,IN",
+      "NIIN": "16501358"
+    },
+    {
+      "ID": "INV000263",
+      "Nomenclature": "EXTRACTOR,TARGET,IN",
+      "NIIN": "16560229"
+    },
+    {
+      "ID": "INV000264",
+      "Nomenclature": "FILTER ASSEMBLY,INF",
+      "NIIN": "16058123"
+    },
+    {
+      "ID": "INV000265",
+      "Nomenclature": "FIRING DEVICE,DEMOL",
+      "NIIN": "15335362"
+    },
+    {
+      "ID": "INV000266",
+      "Nomenclature": "FIRING KIT,DEMOLITI",
+      "NIIN": "16656840"
+    },
+    {
+      "ID": "INV000267",
+      "Nomenclature": "FIRING MECHANISM,CA",
+      "NIIN": "16795089"
+    },
+    {
+      "ID": "INV000268",
+      "Nomenclature": "FIRING MECHANISM,RO",
+      "NIIN": "16669220"
+    },
+    {
+      "ID": "INV000269",
+      "Nomenclature": "FIRST LOOK",
+      "NIIN": "16724286"
+    },
+    {
+      "ID": "INV000270",
+      "Nomenclature": "FIXTURE,CROSSLEVELI",
+      "NIIN": "5085484"
+    },
+    {
+      "ID": "INV000271",
+      "Nomenclature": "FIXTURE,MEASURING,T",
+      "NIIN": "6473696"
+    },
+    {
+      "ID": "INV000272",
+      "Nomenclature": "FIXTURE,TEST,FIRE C",
+      "NIIN": "7691596"
+    },
+    {
+      "ID": "INV000273",
+      "Nomenclature": "FLASHLIGHT",
+      "NIIN": "16178332"
+    },
+    {
+      "ID": "INV000274",
+      "Nomenclature": "FOOD TRANSPORTER,IN",
+      "NIIN": "14084911"
+    },
+    {
+      "ID": "INV000275",
+      "Nomenclature": "FREQUENCY MEASURING",
+      "NIIN": "16086032"
+    },
+    {
+      "ID": "INV000276",
+      "Nomenclature": "FREQUENCY MEASURING",
+      "NIIN": "16283202"
+    },
+    {
+      "ID": "INV000277",
+      "Nomenclature": "FREQUENCY MEASURING",
+      "NIIN": "16299964"
+    },
+    {
+      "ID": "INV000278",
+      "Nomenclature": "FREQUENCY MEASURING",
+      "NIIN": "16311882"
+    },
+    {
+      "ID": "INV000279",
+      "Nomenclature": "FREQUENCY MEASURING",
+      "NIIN": "16458342"
+    },
+    {
+      "ID": "INV000280",
+      "Nomenclature": "FREQUENCY MEASURING",
+      "NIIN": "16750700"
+    },
+    {
+      "ID": "INV000281",
+      "Nomenclature": "FREQUENCY MEASURING",
+      "NIIN": "16824039"
+    },
+    {
+      "ID": "INV000282",
+      "Nomenclature": "FUEL PUMP MODULE AY",
+      "NIIN": "12404579"
+    },
+    {
+      "ID": "INV000283",
+      "Nomenclature": "FUEL TANK ASSEMBLY",
+      "NIIN": "12404578"
+    },
+    {
+      "ID": "INV000284",
+      "Nomenclature": "FUZE DISASSEMBLY SY",
+      "NIIN": "16223083"
+    },
+    {
+      "ID": "INV000285",
+      "Nomenclature": "GAGE KIT,SMALL ARMS",
+      "NIIN": "15921293"
+    },
+    {
+      "ID": "INV000286",
+      "Nomenclature": "GAGE KIT,SMALL ARMS",
+      "NIIN": "15929642"
+    },
+    {
+      "ID": "INV000287",
+      "Nomenclature": "GAGE KIT,SMALL ARMS",
+      "NIIN": "16933507"
+    },
+    {
+      "ID": "INV000288",
+      "Nomenclature": "GAGE,BARREL EROSION",
+      "NIIN": "16770663"
+    },
+    {
+      "ID": "INV000289",
+      "Nomenclature": "GAGE,BARREL EROSION",
+      "NIIN": "16770918"
+    },
+    {
+      "ID": "INV000290",
+      "Nomenclature": "GAGE,BARREL EROSION",
+      "NIIN": "16814742"
+    },
+    {
+      "ID": "INV000291",
+      "Nomenclature": "GAGE,BARREL,EROSION",
+      "NIIN": "10148183"
+    },
+    {
+      "ID": "INV000292",
+      "Nomenclature": "GAGE,BREECH BORE,MA",
+      "NIIN": "10821714"
+    },
+    {
+      "ID": "INV000293",
+      "Nomenclature": "GAGE,BREECH BORE,MA",
+      "NIIN": "12593454"
+    },
+    {
+      "ID": "INV000294",
+      "Nomenclature": "GAGE,FIRING PIN PRO",
+      "NIIN": "707815"
+    },
+    {
+      "ID": "INV000295",
+      "Nomenclature": "GAGE,FIRING PIN PRO",
+      "NIIN": "10439450"
+    },
+    {
+      "ID": "INV000296",
+      "Nomenclature": "GAGE,FIRING PIN PRO",
+      "NIIN": "11414732"
+    },
+    {
+      "ID": "INV000297",
+      "Nomenclature": "GAGE,FIRING PIN PRO",
+      "NIIN": "15030006"
+    },
+    {
+      "ID": "INV000298",
+      "Nomenclature": "GAGE,FIRING PIN PRO",
+      "NIIN": "16772408"
+    },
+    {
+      "ID": "INV000299",
+      "Nomenclature": "GAGE,FIRING PIN PRO",
+      "NIIN": "16772420"
+    },
+    {
+      "ID": "INV000300",
+      "Nomenclature": "GAGE,HEADSPACE",
+      "NIIN": "707814"
+    },
+    {
+      "ID": "INV000301",
+      "Nomenclature": "GAGE,HEADSPACE",
+      "NIIN": "10438211"
+    },
+    {
+      "ID": "INV000302",
+      "Nomenclature": "GAGE,HEADSPACE",
+      "NIIN": "10438212"
+    },
+    {
+      "ID": "INV000303",
+      "Nomenclature": "GAGE,HEADSPACE",
+      "NIIN": "11413830"
+    },
+    {
+      "ID": "INV000304",
+      "Nomenclature": "GAGE,HEADSPACE",
+      "NIIN": "16771758"
+    },
+    {
+      "ID": "INV000305",
+      "Nomenclature": "GAGE,HEADSPACE",
+      "NIIN": "16771762"
+    },
+    {
+      "ID": "INV000306",
+      "Nomenclature": "GAGE,HEADSPACE",
+      "NIIN": "16772948"
+    },
+    {
+      "ID": "INV000307",
+      "Nomenclature": "GAGE,MUZZLE AND BRE",
+      "NIIN": "10825564"
+    },
+    {
+      "ID": "INV000308",
+      "Nomenclature": "GAGE,PLUG,PLAIN CYL",
+      "NIIN": "10755004"
+    },
+    {
+      "ID": "INV000309",
+      "Nomenclature": "GAGE,PLUG,TAPER CYL",
+      "NIIN": "10439473"
+    },
+    {
+      "ID": "INV000310",
+      "Nomenclature": "GAGE,PRESSURE,DIAL",
+      "NIIN": "998024"
+    },
+    {
+      "ID": "INV000311",
+      "Nomenclature": "GAGE,PROFILE",
+      "NIIN": "14414158"
+    },
+    {
+      "ID": "INV000312",
+      "Nomenclature": "GAGE,PROFILE",
+      "NIIN": "16770635"
+    },
+    {
+      "ID": "INV000313",
+      "Nomenclature": "GAGE,PROFILE",
+      "NIIN": "16770930"
+    },
+    {
+      "ID": "INV000314",
+      "Nomenclature": "GAGE,PROFILE",
+      "NIIN": "16771205"
+    },
+    {
+      "ID": "INV000315",
+      "Nomenclature": "GAGE,STRAIGHT",
+      "NIIN": "16773010"
+    },
+    {
+      "ID": "INV000316",
+      "Nomenclature": "GAGE,STRAIGHTNESS",
+      "NIIN": "2219391"
+    },
+    {
+      "ID": "INV000317",
+      "Nomenclature": "GENERATOR SET,DIESE",
+      "NIIN": "12853012"
+    },
+    {
+      "ID": "INV000318",
+      "Nomenclature": "GENERATOR SET,DIESE",
+      "NIIN": "16792558"
+    },
+    {
+      "ID": "INV000319",
+      "Nomenclature": "GENERATOR SET,DIESE",
+      "NIIN": "16794747"
+    },
+    {
+      "ID": "INV000320",
+      "Nomenclature": "GENERATOR SET,DIESE",
+      "NIIN": "16795145"
+    },
+    {
+      "ID": "INV000321",
+      "Nomenclature": "GENERATOR SET,DIESE",
+      "NIIN": "16795442"
+    },
+    {
+      "ID": "INV000322",
+      "Nomenclature": "GENERATOR SET,DIESE",
+      "NIIN": "16795596"
+    },
+    {
+      "ID": "INV000323",
+      "Nomenclature": "GENERATOR,OXYGEN-NI",
+      "NIIN": "15561083"
+    },
+    {
+      "ID": "INV000324",
+      "Nomenclature": "GPS RETRANSMISSION",
+      "NIIN": "15926823"
+    },
+    {
+      "ID": "INV000325",
+      "Nomenclature": "GROUND SENSOR AND A",
+      "NIIN": "16339332"
+    },
+    {
+      "ID": "INV000326",
+      "Nomenclature": "GROUND SENSOR AND A",
+      "NIIN": "16407176"
+    },
+    {
+      "ID": "INV000327",
+      "Nomenclature": "GROUND SENSOR AND A",
+      "NIIN": "16414645"
+    },
+    {
+      "ID": "INV000328",
+      "Nomenclature": "GROUND SENSOR AND A",
+      "NIIN": "16427886"
+    },
+    {
+      "ID": "INV000329",
+      "Nomenclature": "GROUND SENSOR AND A",
+      "NIIN": "16625291"
+    },
+    {
+      "ID": "INV000330",
+      "Nomenclature": "GUN, 12.7X108MM DSH",
+      "NIIN": "90007220"
+    },
+    {
+      "ID": "INV000331",
+      "Nomenclature": "GUN, 7.62MM PKM GEN",
+      "NIIN": "90007225"
+    },
+    {
+      "ID": "INV000332",
+      "Nomenclature": "GUN, 7.62MM RPD LIG",
+      "NIIN": "90007226"
+    },
+    {
+      "ID": "INV000333",
+      "Nomenclature": "GUN,SUBCALIBER,7.62",
+      "NIIN": "13198997"
+    },
+    {
+      "ID": "INV000334",
+      "Nomenclature": "HANDSET",
+      "NIIN": "16144615"
+    },
+    {
+      "ID": "INV000335",
+      "Nomenclature": "HARDSHELL,OXYGEN MA",
+      "NIIN": "15949294"
+    },
+    {
+      "ID": "INV000336",
+      "Nomenclature": "HARNESS SPIE",
+      "NIIN": "10688342"
+    },
+    {
+      "ID": "INV000337",
+      "Nomenclature": "HELI VAC FAST ROPE",
+      "NIIN": "15005766"
+    },
+    {
+      "ID": "INV000338",
+      "Nomenclature": "HELI-VAC FAST ROPE",
+      "NIIN": "15005765"
+    },
+    {
+      "ID": "INV000339",
+      "Nomenclature": "HELI-VAC FAST ROPE",
+      "NIIN": "15005779"
+    },
+    {
+      "ID": "INV000340",
+      "Nomenclature": "HOLSTER,PISTOL",
+      "NIIN": "15985722"
+    },
+    {
+      "ID": "INV000341",
+      "Nomenclature": "HOLSTER,PISTOL",
+      "NIIN": "15986377"
+    },
+    {
+      "ID": "INV000342",
+      "Nomenclature": "HYDRAULIC IN-LINE T",
+      "NIIN": "15915785"
+    },
+    {
+      "ID": "INV000343",
+      "Nomenclature": "ILLUMINATOR,INFRARE",
+      "NIIN": "15026414"
+    },
+    {
+      "ID": "INV000344",
+      "Nomenclature": "ILLUMINATOR,INFRARE",
+      "NIIN": "15330555"
+    },
+    {
+      "ID": "INV000345",
+      "Nomenclature": "ILLUMINATOR,INFRARE",
+      "NIIN": "15777174"
+    },
+    {
+      "ID": "INV000346",
+      "Nomenclature": "ILLUMINATOR,INFRARE",
+      "NIIN": "16864368"
+    },
+    {
+      "ID": "INV000347",
+      "Nomenclature": "ILLUMINATOR,INTEGRA",
+      "NIIN": "15330996"
+    },
+    {
+      "ID": "INV000348",
+      "Nomenclature": "ILLUMINATOR,INTEGRA",
+      "NIIN": "15345931"
+    },
+    {
+      "ID": "INV000349",
+      "Nomenclature": "ILLUMINATOR,INTEGRA",
+      "NIIN": "15453659"
+    },
+    {
+      "ID": "INV000350",
+      "Nomenclature": "ILLUMINATOR,INTEGRA",
+      "NIIN": "15502780"
+    },
+    {
+      "ID": "INV000351",
+      "Nomenclature": "ILLUMINATOR,INTEGRA",
+      "NIIN": "16000486"
+    },
+    {
+      "ID": "INV000352",
+      "Nomenclature": "IMAGE INTENSIFIER,N",
+      "NIIN": "14778741"
+    },
+    {
+      "ID": "INV000353",
+      "Nomenclature": "INSERTS,ENHANCED SM",
+      "NIIN": "15207370"
+    },
+    {
+      "ID": "INV000354",
+      "Nomenclature": "INSTALLATION AND EQ",
+      "NIIN": "16822175"
+    },
+    {
+      "ID": "INV000355",
+      "Nomenclature": "INSTALLATION KIT,PH",
+      "NIIN": "16187581"
+    },
+    {
+      "ID": "INV000356",
+      "Nomenclature": "INSTALLATION KIT,SH",
+      "NIIN": "16931382"
+    },
+    {
+      "ID": "INV000357",
+      "Nomenclature": "INTERFACE UNIT,COMM",
+      "NIIN": "16586023"
+    },
+    {
+      "ID": "INV000358",
+      "Nomenclature": "INTERFACE UNIT,COMM",
+      "NIIN": "16586025"
+    },
+    {
+      "ID": "INV000359",
+      "Nomenclature": "INTERFACE UNIT,COMM",
+      "NIIN": "16586148"
+    },
+    {
+      "ID": "INV000360",
+      "Nomenclature": "INTERFACE UNIT,COMM",
+      "NIIN": "16586158"
+    },
+    {
+      "ID": "INV000361",
+      "Nomenclature": "INTERFACE UNIT,COMM",
+      "NIIN": "16586166"
+    },
+    {
+      "ID": "INV000362",
+      "Nomenclature": "INVERTER,POWER,STAT",
+      "NIIN": "15526350"
+    },
+    {
+      "ID": "INV000363",
+      "Nomenclature": "JACK,DOLLY TYPE,HYD",
+      "NIIN": "5165806"
+    },
+    {
+      "ID": "INV000364",
+      "Nomenclature": "JOINT PRECISION AIR",
+      "NIIN": "16090728"
+    },
+    {
+      "ID": "INV000365",
+      "Nomenclature": "KIT BAG,FLYER'S",
+      "NIIN": "6068366"
+    },
+    {
+      "ID": "INV000366",
+      "Nomenclature": "KIT,EXTRACTION",
+      "NIIN": "16037398"
+    },
+    {
+      "ID": "INV000367",
+      "Nomenclature": "KIT,LIGHT SET TENT",
+      "NIIN": "15250794"
+    },
+    {
+      "ID": "INV000368",
+      "Nomenclature": "KIT,MEASUREMENT AND",
+      "NIIN": "15879946"
+    },
+    {
+      "ID": "INV000369",
+      "Nomenclature": "KIT,RIGGING AIRCRAF",
+      "NIIN": "15881237"
+    },
+    {
+      "ID": "INV000370",
+      "Nomenclature": "LAPTOP SERVER",
+      "NIIN": "16922481"
+    },
+    {
+      "ID": "INV000371",
+      "Nomenclature": "LASER BORESIGHT SYS",
+      "NIIN": "14662087"
+    },
+    {
+      "ID": "INV000372",
+      "Nomenclature": "LASER DETECTING SET",
+      "NIIN": "16653152"
+    },
+    {
+      "ID": "INV000373",
+      "Nomenclature": "LASER,DIRECTIONAL A",
+      "NIIN": "16131742"
+    },
+    {
+      "ID": "INV000374",
+      "Nomenclature": "LASER,DIRECTIONAL A",
+      "NIIN": "16573893"
+    },
+    {
+      "ID": "INV000375",
+      "Nomenclature": "LAUNCH UNIT,COMMAND",
+      "NIIN": "15328900"
+    },
+    {
+      "ID": "INV000376",
+      "Nomenclature": "LAUNCHER, RPG-7 ROC",
+      "NIIN": "90007228"
+    },
+    {
+      "ID": "INV000377",
+      "Nomenclature": "LAUNCHER,GRENADE",
+      "NIIN": "15572542"
+    },
+    {
+      "ID": "INV000378",
+      "Nomenclature": "LAUNCHER,GRENADE",
+      "NIIN": "15840703"
+    },
+    {
+      "ID": "INV000379",
+      "Nomenclature": "LAUNCHER,PRACTICE,S",
+      "NIIN": "12072684"
+    },
+    {
+      "ID": "INV000380",
+      "Nomenclature": "LAUNCHER,PRACTICE,S",
+      "NIIN": "16994817"
+    },
+    {
+      "ID": "INV000381",
+      "Nomenclature": "LAUNCHER,ROCKET",
+      "NIIN": "16191844"
+    },
+    {
+      "ID": "INV000382",
+      "Nomenclature": "LAUNCHER,ROCKET,HIG",
+      "NIIN": "16977127"
+    },
+    {
+      "ID": "INV000383",
+      "Nomenclature": "LENS SET,LIGHT",
+      "NIIN": "16671080"
+    },
+    {
+      "ID": "INV000384",
+      "Nomenclature": "LENS,CAMERA,GENERAL",
+      "NIIN": "16476427"
+    },
+    {
+      "ID": "INV000385",
+      "Nomenclature": "LIGHT ARMORED VEHIC",
+      "NIIN": "16626984"
+    },
+    {
+      "ID": "INV000386",
+      "Nomenclature": "LIGHT SET,GENERAL I",
+      "NIIN": "14658931"
+    },
+    {
+      "ID": "INV000387",
+      "Nomenclature": "LIGHT TACTICAL TRAI",
+      "NIIN": "15435794"
+    },
+    {
+      "ID": "INV000388",
+      "Nomenclature": "LIGHT,AIMING POST",
+      "NIIN": "1691934"
+    },
+    {
+      "ID": "INV000389",
+      "Nomenclature": "LIGHTWEIGHT MAINTEN",
+      "NIIN": "15074375"
+    },
+    {
+      "ID": "INV000390",
+      "Nomenclature": "LOAD BANK,ELECTRICA",
+      "NIIN": "15571304"
+    },
+    {
+      "ID": "INV000391",
+      "Nomenclature": "LOADER,SCOOP TYPE",
+      "NIIN": "15497814"
+    },
+    {
+      "ID": "INV000392",
+      "Nomenclature": "LUBRICATING UNIT,PO",
+      "NIIN": "15497112"
+    },
+    {
+      "ID": "INV000393",
+      "Nomenclature": "MACHINE GUN .338",
+      "NIIN": "16855209"
+    },
+    {
+      "ID": "INV000394",
+      "Nomenclature": "MACHINE GUN,5.56 MI",
+      "NIIN": "11277510"
+    },
+    {
+      "ID": "INV000395",
+      "Nomenclature": "MACHINE GUN,7.62 MI",
+      "NIIN": "14123129"
+    },
+    {
+      "ID": "INV000396",
+      "Nomenclature": "MACHINE GUN,CALIBER",
+      "NIIN": "15111250"
+    },
+    {
+      "ID": "INV000397",
+      "Nomenclature": "MACHINE GUN,GRENADE",
+      "NIIN": "14909697"
+    },
+    {
+      "ID": "INV000398",
+      "Nomenclature": "MAINTENANCE KIT",
+      "NIIN": "16203116"
+    },
+    {
+      "ID": "INV000399",
+      "Nomenclature": "MAINTENANCE KIT,ELE",
+      "NIIN": "16780213"
+    },
+    {
+      "ID": "INV000400",
+      "Nomenclature": "MAINTENANCE KIT,GUN",
+      "NIIN": "567106"
+    },
+    {
+      "ID": "INV000401",
+      "Nomenclature": "MAINTENANCE KIT,TEL",
+      "NIIN": "15986118"
+    },
+    {
+      "ID": "INV000402",
+      "Nomenclature": "MANAGEMENT SYSTEM,B",
+      "NIIN": "15866158"
+    },
+    {
+      "ID": "INV000403",
+      "Nomenclature": "MANAGEMENT SYSTEM,B",
+      "NIIN": "16285301"
+    },
+    {
+      "ID": "INV000404",
+      "Nomenclature": "MANAGEMENT SYSTEM,B",
+      "NIIN": "16436240"
+    },
+    {
+      "ID": "INV000405",
+      "Nomenclature": "MANAGEMENT SYSTEM,B",
+      "NIIN": "16775311"
+    },
+    {
+      "ID": "INV000406",
+      "Nomenclature": "MANAGEMENT SYSTEM,B",
+      "NIIN": "16775348"
+    },
+    {
+      "ID": "INV000407",
+      "Nomenclature": "MARINE BREACHER KIT",
+      "NIIN": "16418173"
+    },
+    {
+      "ID": "INV000408",
+      "Nomenclature": "MARINE BREAKER KIT,",
+      "NIIN": "15311165"
+    },
+    {
+      "ID": "INV000409",
+      "Nomenclature": "MARKER,LASER",
+      "NIIN": "15425675"
+    },
+    {
+      "ID": "INV000410",
+      "Nomenclature": "MARKER,LASER",
+      "NIIN": "15867659"
+    },
+    {
+      "ID": "INV000411",
+      "Nomenclature": "MASK,UNDERWATER",
+      "NIIN": "15612259"
+    },
+    {
+      "ID": "INV000412",
+      "Nomenclature": "MC SPEC OPS CMD",
+      "NIIN": "90006458"
+    },
+    {
+      "ID": "INV000413",
+      "Nomenclature": "MEDICAL AIRWAY MANA",
+      "NIIN": "16037352"
+    },
+    {
+      "ID": "INV000414",
+      "Nomenclature": "MEDIUM HEAVY EQUIPM",
+      "NIIN": "15344570"
+    },
+    {
+      "ID": "INV000415",
+      "Nomenclature": "MEMORY UNIT,DATA ST",
+      "NIIN": "16607618"
+    },
+    {
+      "ID": "INV000416",
+      "Nomenclature": "METAL DETECTOR",
+      "NIIN": "151952879"
+    },
+    {
+      "ID": "INV000417",
+      "Nomenclature": "METEOROLOGICAL MEAS",
+      "NIIN": "15600930"
+    },
+    {
+      "ID": "INV000418",
+      "Nomenclature": "MICROPHONE,CRYSTAL",
+      "NIIN": "16559656"
+    },
+    {
+      "ID": "INV000419",
+      "Nomenclature": "MK 25 MOD 2 UBA",
+      "NIIN": "14462993"
+    },
+    {
+      "ID": "INV000420",
+      "Nomenclature": "MOBILE LASER",
+      "NIIN": "15434606"
+    },
+    {
+      "ID": "INV000421",
+      "Nomenclature": "MODEM,COMMUNICATION",
+      "NIIN": "16186195"
+    },
+    {
+      "ID": "INV000422",
+      "Nomenclature": "MODEM,COMMUNICATION",
+      "NIIN": "16186247"
+    },
+    {
+      "ID": "INV000423",
+      "Nomenclature": "MODEM,COMMUNICATION",
+      "NIIN": "16257505"
+    },
+    {
+      "ID": "INV000424",
+      "Nomenclature": "MODEM,COMMUNICATION",
+      "NIIN": "16560266"
+    },
+    {
+      "ID": "INV000425",
+      "Nomenclature": "MONOCULAR,STABILIZE",
+      "NIIN": "16499529"
+    },
+    {
+      "ID": "INV000426",
+      "Nomenclature": "MORTAR, 82MM 2B14 P",
+      "NIIN": "90007221"
+    },
+    {
+      "ID": "INV000427",
+      "Nomenclature": "MORTAR,60 MILLIMETE",
+      "NIIN": "15862874"
+    },
+    {
+      "ID": "INV000428",
+      "Nomenclature": "MORTAR,81 MILLIMETE",
+      "NIIN": "16292754"
+    },
+    {
+      "ID": "INV000429",
+      "Nomenclature": "MOUNT,GUN",
+      "NIIN": "15027547"
+    },
+    {
+      "ID": "INV000430",
+      "Nomenclature": "MOUNT,MACHINE GUN",
+      "NIIN": "15752924"
+    },
+    {
+      "ID": "INV000431",
+      "Nomenclature": "MOUNT,TELESCOPE",
+      "NIIN": "13406082"
+    },
+    {
+      "ID": "INV000432",
+      "Nomenclature": "MOUNT,TRIPOD,MACHIN",
+      "NIIN": "3229716"
+    },
+    {
+      "ID": "INV000433",
+      "Nomenclature": "MOUNT,TRIPOD,MACHIN",
+      "NIIN": "7105599"
+    },
+    {
+      "ID": "INV000434",
+      "Nomenclature": "MOUNT,TRIPOD,MACHIN",
+      "NIIN": "14331617"
+    },
+    {
+      "ID": "INV000435",
+      "Nomenclature": "MOUNT,TRIPOD,MACHIN",
+      "NIIN": "15223255"
+    },
+    {
+      "ID": "INV000436",
+      "Nomenclature": "MULTI MISSION PARAC",
+      "NIIN": "15316383"
+    },
+    {
+      "ID": "INV000437",
+      "Nomenclature": "MULTI RADIO POWER A",
+      "NIIN": "15787684"
+    },
+    {
+      "ID": "INV000438",
+      "Nomenclature": "MULTIMETER",
+      "NIIN": "13122930"
+    },
+    {
+      "ID": "INV000439",
+      "Nomenclature": "MULTIMETER",
+      "NIIN": "13363372"
+    },
+    {
+      "ID": "INV000440",
+      "Nomenclature": "NAVIGATION SET,SATE",
+      "NIIN": "15264783"
+    },
+    {
+      "ID": "INV000441",
+      "Nomenclature": "NAVIGATION SET,SATE",
+      "NIIN": "16038542"
+    },
+    {
+      "ID": "INV000442",
+      "Nomenclature": "NAVIGATION SET,SATE",
+      "NIIN": "16046543"
+    },
+    {
+      "ID": "INV000443",
+      "Nomenclature": "NAVIGATION SET,SATE",
+      "NIIN": "16046545"
+    },
+    {
+      "ID": "INV000444",
+      "Nomenclature": "NAVIGATION SET,SATE",
+      "NIIN": "16085717"
+    },
+    {
+      "ID": "INV000445",
+      "Nomenclature": "NAVIGATION SET,SATE",
+      "NIIN": "16091430"
+    },
+    {
+      "ID": "INV000446",
+      "Nomenclature": "NAVIGATION SET,SATE",
+      "NIIN": "16447720"
+    },
+    {
+      "ID": "INV000447",
+      "Nomenclature": "NAVIGATION SET,SATE",
+      "NIIN": "16666931"
+    },
+    {
+      "ID": "INV000448",
+      "Nomenclature": "NAVIGATION SET,SATE",
+      "NIIN": "16690143"
+    },
+    {
+      "ID": "INV000449",
+      "Nomenclature": "NAVIGATION SET,SATE",
+      "NIIN": "16997047"
+    },
+    {
+      "ID": "INV000450",
+      "Nomenclature": "NETWORK MANAGEMENT",
+      "NIIN": "15926937"
+    },
+    {
+      "ID": "INV000451",
+      "Nomenclature": "NIGHT VISION SIGHT",
+      "NIIN": "14916967"
+    },
+    {
+      "ID": "INV000452",
+      "Nomenclature": "NSN NOT PROCURABLE",
+      "NIIN": "11472468"
+    },
+    {
+      "ID": "INV000453",
+      "Nomenclature": "OHMMETER",
+      "NIIN": "13776166"
+    },
+    {
+      "ID": "INV000454",
+      "Nomenclature": "OPEN WATER SAFETY C",
+      "NIIN": "15433922"
+    },
+    {
+      "ID": "INV000455",
+      "Nomenclature": "OPEN WATER SAFETY C",
+      "NIIN": "15938454"
+    },
+    {
+      "ID": "INV000456",
+      "Nomenclature": "OPTICAL READER SET,",
+      "NIIN": "15708977"
+    },
+    {
+      "ID": "INV000457",
+      "Nomenclature": "OUTBOARD ENG MAIN K",
+      "NIIN": "15780766"
+    },
+    {
+      "ID": "INV000458",
+      "Nomenclature": "OUTBOARD ENGINE KIT",
+      "NIIN": "15774786"
+    },
+    {
+      "ID": "INV000459",
+      "Nomenclature": "OXYGEN SYSTEM,AIRCR",
+      "NIIN": "15788120"
+    },
+    {
+      "ID": "INV000460",
+      "Nomenclature": "PANEL,POWER DISTRIB",
+      "NIIN": "15321764"
+    },
+    {
+      "ID": "INV000461",
+      "Nomenclature": "PANEL,POWER DISTRIB",
+      "NIIN": "15321794"
+    },
+    {
+      "ID": "INV000462",
+      "Nomenclature": "PANEL,POWER DISTRIB",
+      "NIIN": "15321809"
+    },
+    {
+      "ID": "INV000463",
+      "Nomenclature": "PANEL,POWER DISTRIB",
+      "NIIN": "15321821"
+    },
+    {
+      "ID": "INV000464",
+      "Nomenclature": "PANEL,POWER DISTRIB",
+      "NIIN": "15321835"
+    },
+    {
+      "ID": "INV000465",
+      "Nomenclature": "PARACHUTE SYSTEM 2",
+      "NIIN": "16733985"
+    },
+    {
+      "ID": "INV000466",
+      "Nomenclature": "PARACHUTE,CARGO",
+      "NIIN": "9992658"
+    },
+    {
+      "ID": "INV000467",
+      "Nomenclature": "PARACHUTE,CARGO",
+      "NIIN": "10653755"
+    },
+    {
+      "ID": "INV000468",
+      "Nomenclature": "PARACHUTE,CARGO",
+      "NIIN": "15928362"
+    },
+    {
+      "ID": "INV000469",
+      "Nomenclature": "PARACHUTE,CARGO EXT",
+      "NIIN": "10633715"
+    },
+    {
+      "ID": "INV000470",
+      "Nomenclature": "PARACHUTE,PERSONNEL",
+      "NIIN": "15277537"
+    },
+    {
+      "ID": "INV000471",
+      "Nomenclature": "PARACHUTE,PERSONNEL",
+      "NIIN": "16742912"
+    },
+    {
+      "ID": "INV000472",
+      "Nomenclature": "PARTS KIT,DIESEL EN",
+      "NIIN": "16188144"
+    },
+    {
+      "ID": "INV000473",
+      "Nomenclature": "PERISCOPE,PORTABLE",
+      "NIIN": "15715004"
+    },
+    {
+      "ID": "INV000474",
+      "Nomenclature": "PISTOL,9MM,SEMIAUTO",
+      "NIIN": "16617323"
+    },
+    {
+      "ID": "INV000475",
+      "Nomenclature": "PLOTTER SYSTEM,GRAP",
+      "NIIN": "16855016"
+    },
+    {
+      "ID": "INV000476",
+      "Nomenclature": "PORTABLE COMPRESSOR",
+      "NIIN": "15009092"
+    },
+    {
+      "ID": "INV000477",
+      "Nomenclature": "POUCH,MONOCULAR NIG",
+      "NIIN": "16207014"
+    },
+    {
+      "ID": "INV000478",
+      "Nomenclature": "POWER SUPPLY",
+      "NIIN": "14119306"
+    },
+    {
+      "ID": "INV000479",
+      "Nomenclature": "POWER SUPPLY",
+      "NIIN": "15208178"
+    },
+    {
+      "ID": "INV000480",
+      "Nomenclature": "POWER SUPPLY",
+      "NIIN": "15939105"
+    },
+    {
+      "ID": "INV000481",
+      "Nomenclature": "POWER SUPPLY",
+      "NIIN": "16304700"
+    },
+    {
+      "ID": "INV000482",
+      "Nomenclature": "POWER SUPPLY",
+      "NIIN": "16510655"
+    },
+    {
+      "ID": "INV000483",
+      "Nomenclature": "POWER SUPPLY",
+      "NIIN": "17004281"
+    },
+    {
+      "ID": "INV000484",
+      "Nomenclature": "POWER SUPPLY 18-30V",
+      "NIIN": "14754999"
+    },
+    {
+      "ID": "INV000485",
+      "Nomenclature": "PRINTER,LASER JET",
+      "NIIN": "90000284"
+    },
+    {
+      "ID": "INV000486",
+      "Nomenclature": "PRINTER,THREE-DIMEN",
+      "NIIN": "16657478"
+    },
+    {
+      "ID": "INV000487",
+      "Nomenclature": "PROCESSOR,DISPLAY A",
+      "NIIN": "16591350"
+    },
+    {
+      "ID": "INV000488",
+      "Nomenclature": "PROCESSOR,GATEWAY",
+      "NIIN": "16607597"
+    },
+    {
+      "ID": "INV000489",
+      "Nomenclature": "PROGRAM SET,APPLICA",
+      "NIIN": "16076675"
+    },
+    {
+      "ID": "INV000490",
+      "Nomenclature": "PROGRAM SET,APPLICA",
+      "NIIN": "16844039"
+    },
+    {
+      "ID": "INV000491",
+      "Nomenclature": "PURGING KIT,FIRE CO",
+      "NIIN": "651110"
+    },
+    {
+      "ID": "INV000492",
+      "Nomenclature": "RADIAC SET",
+      "NIIN": "14071237"
+    },
+    {
+      "ID": "INV000493",
+      "Nomenclature": "RADIAC SET",
+      "NIIN": "15648534"
+    },
+    {
+      "ID": "INV000494",
+      "Nomenclature": "RADIO SET",
+      "NIIN": "14622484"
+    },
+    {
+      "ID": "INV000495",
+      "Nomenclature": "RADIO SET",
+      "NIIN": "14923628"
+    },
+    {
+      "ID": "INV000496",
+      "Nomenclature": "RADIO SET",
+      "NIIN": "15419208"
+    },
+    {
+      "ID": "INV000497",
+      "Nomenclature": "RADIO SET",
+      "NIIN": "15659999"
+    },
+    {
+      "ID": "INV000498",
+      "Nomenclature": "RADIO SET",
+      "NIIN": "15660746"
+    },
+    {
+      "ID": "INV000499",
+      "Nomenclature": "RADIO SET",
+      "NIIN": "15681631"
+    },
+    {
+      "ID": "INV000500",
+      "Nomenclature": "RADIO SET",
+      "NIIN": "15729367"
+    },
+    {
+      "ID": "INV000501",
+      "Nomenclature": "RADIO SET",
+      "NIIN": "15862327"
+    },
+    {
+      "ID": "INV000502",
+      "Nomenclature": "RADIO SET",
+      "NIIN": "15892203"
+    },
+    {
+      "ID": "INV000503",
+      "Nomenclature": "RADIO SET",
+      "NIIN": "15961658"
+    },
+    {
+      "ID": "INV000504",
+      "Nomenclature": "RADIO SET",
+      "NIIN": "16092270"
+    },
+    {
+      "ID": "INV000505",
+      "Nomenclature": "RADIO SET",
+      "NIIN": "16283210"
+    },
+    {
+      "ID": "INV000506",
+      "Nomenclature": "RADIO SET",
+      "NIIN": "16735467"
+    },
+    {
+      "ID": "INV000507",
+      "Nomenclature": "RADIO SET",
+      "NIIN": "16839499"
+    },
+    {
+      "ID": "INV000508",
+      "Nomenclature": "RADIO SET",
+      "NIIN": "16872723"
+    },
+    {
+      "ID": "INV000509",
+      "Nomenclature": "RADIO SET",
+      "NIIN": "16876282"
+    },
+    {
+      "ID": "INV000510",
+      "Nomenclature": "RADIO SET",
+      "NIIN": "16876283"
+    },
+    {
+      "ID": "INV000511",
+      "Nomenclature": "RANGE FINDER,LASER",
+      "NIIN": "15666510"
+    },
+    {
+      "ID": "INV000512",
+      "Nomenclature": "RANGE FINDER,LASER",
+      "NIIN": "15723753"
+    },
+    {
+      "ID": "INV000513",
+      "Nomenclature": "RANGE FINDER,LASER",
+      "NIIN": "15751105"
+    },
+    {
+      "ID": "INV000514",
+      "Nomenclature": "RANGE FINDER,LASER",
+      "NIIN": "16476446"
+    },
+    {
+      "ID": "INV000515",
+      "Nomenclature": "RANGE FINDER-TARGET",
+      "NIIN": "16678204"
+    },
+    {
+      "ID": "INV000516",
+      "Nomenclature": "RECEIVE SUITE",
+      "NIIN": "16068590"
+    },
+    {
+      "ID": "INV000517",
+      "Nomenclature": "RECEIVE SUITE",
+      "NIIN": "16072338"
+    },
+    {
+      "ID": "INV000518",
+      "Nomenclature": "RECEIVE SUITE",
+      "NIIN": "16096273"
+    },
+    {
+      "ID": "INV000519",
+      "Nomenclature": "RECEIVER TRANSMITTE",
+      "NIIN": "70001338"
+    },
+    {
+      "ID": "INV000520",
+      "Nomenclature": "RECEIVER TRANSMITTE",
+      "NIIN": "70001343"
+    },
+    {
+      "ID": "INV000521",
+      "Nomenclature": "RECEIVER,CARTRIDGE",
+      "NIIN": "16476884"
+    },
+    {
+      "ID": "INV000522",
+      "Nomenclature": "RECEIVER,CARTRIDGE",
+      "NIIN": "16476886"
+    },
+    {
+      "ID": "INV000523",
+      "Nomenclature": "RECEIVER,CARTRIDGE",
+      "NIIN": "16476887"
+    },
+    {
+      "ID": "INV000524",
+      "Nomenclature": "RECEIVER,CARTRIDGE",
+      "NIIN": "16477604"
+    },
+    {
+      "ID": "INV000525",
+      "Nomenclature": "RECEIVER,COORDINATE",
+      "NIIN": "16030295"
+    },
+    {
+      "ID": "INV000526",
+      "Nomenclature": "RECEIVER,DIGITAL DA",
+      "NIIN": "16085815"
+    },
+    {
+      "ID": "INV000527",
+      "Nomenclature": "RECEIVER,INSTANTANE",
+      "NIIN": "16086041"
+    },
+    {
+      "ID": "INV000528",
+      "Nomenclature": "RECEIVER,INSTANTANE",
+      "NIIN": "16305324"
+    },
+    {
+      "ID": "INV000529",
+      "Nomenclature": "RECEIVER,INSTANTANE",
+      "NIIN": "16414989"
+    },
+    {
+      "ID": "INV000530",
+      "Nomenclature": "RECEIVER,INSTANTANE",
+      "NIIN": "16507742"
+    },
+    {
+      "ID": "INV000531",
+      "Nomenclature": "RECEIVER,INSTANTANE",
+      "NIIN": "16599791"
+    },
+    {
+      "ID": "INV000532",
+      "Nomenclature": "RECEIVER,INSTANTANE",
+      "NIIN": "16738403"
+    },
+    {
+      "ID": "INV000533",
+      "Nomenclature": "RECEIVER,INSTANTANE",
+      "NIIN": "16789191"
+    },
+    {
+      "ID": "INV000534",
+      "Nomenclature": "RECEIVER,INSTANTANE",
+      "NIIN": "17029746"
+    },
+    {
+      "ID": "INV000535",
+      "Nomenclature": "RECEIVER,RADIO",
+      "NIIN": "16488440"
+    },
+    {
+      "ID": "INV000536",
+      "Nomenclature": "RECEIVER,RADIO",
+      "NIIN": "16605718"
+    },
+    {
+      "ID": "INV000537",
+      "Nomenclature": "RECEIVER,RADIO NAVI",
+      "NIIN": "15909534"
+    },
+    {
+      "ID": "INV000538",
+      "Nomenclature": "RECEIVER-TRANSMITTE",
+      "NIIN": "14963523"
+    },
+    {
+      "ID": "INV000539",
+      "Nomenclature": "RECEIVER-TRANSMITTE",
+      "NIIN": "15549530"
+    },
+    {
+      "ID": "INV000540",
+      "Nomenclature": "RECEIVER-TRANSMITTE",
+      "NIIN": "15666532"
+    },
+    {
+      "ID": "INV000541",
+      "Nomenclature": "RECEIVER-TRANSMITTE",
+      "NIIN": "15961645"
+    },
+    {
+      "ID": "INV000542",
+      "Nomenclature": "RECEIVER-TRANSMITTE",
+      "NIIN": "16092313"
+    },
+    {
+      "ID": "INV000543",
+      "Nomenclature": "RECEIVER-TRANSMITTE",
+      "NIIN": "16092342"
+    },
+    {
+      "ID": "INV000544",
+      "Nomenclature": "RECEIVER-TRANSMITTE",
+      "NIIN": "16691163"
+    },
+    {
+      "ID": "INV000545",
+      "Nomenclature": "RECEIVER-TRANSMITTE",
+      "NIIN": "16735471"
+    },
+    {
+      "ID": "INV000546",
+      "Nomenclature": "RECEIVER-TRANSMITTE",
+      "NIIN": "17025757"
+    },
+    {
+      "ID": "INV000547",
+      "Nomenclature": "RECEIVING SET,RADIO",
+      "NIIN": "15509741"
+    },
+    {
+      "ID": "INV000548",
+      "Nomenclature": "RECEIVING SET,RADIO",
+      "NIIN": "16220226"
+    },
+    {
+      "ID": "INV000549",
+      "Nomenclature": "RECEIVING SET,RADIO",
+      "NIIN": "16325426"
+    },
+    {
+      "ID": "INV000550",
+      "Nomenclature": "RECEIVING SET,RADIO",
+      "NIIN": "16428057"
+    },
+    {
+      "ID": "INV000551",
+      "Nomenclature": "RECEIVING SET,RADIO",
+      "NIIN": "16439563"
+    },
+    {
+      "ID": "INV000552",
+      "Nomenclature": "RECEIVING SET,RADIO",
+      "NIIN": "16507745"
+    },
+    {
+      "ID": "INV000553",
+      "Nomenclature": "RECEIVING SET,RADIO",
+      "NIIN": "16786845"
+    },
+    {
+      "ID": "INV000554",
+      "Nomenclature": "RECEIVING SET,RADIO",
+      "NIIN": "16818409"
+    },
+    {
+      "ID": "INV000555",
+      "Nomenclature": "RECEIVING SET,RADIO",
+      "NIIN": "16827404"
+    },
+    {
+      "ID": "INV000556",
+      "Nomenclature": "RECEIVING SET,RADIO",
+      "NIIN": "16882894"
+    },
+    {
+      "ID": "INV000557",
+      "Nomenclature": "RECEIVING SET,RADIO",
+      "NIIN": "16924814"
+    },
+    {
+      "ID": "INV000558",
+      "Nomenclature": "RECEIVING SET,RADIO",
+      "NIIN": "16925084"
+    },
+    {
+      "ID": "INV000559",
+      "Nomenclature": "RECON PARA RIG TL K",
+      "NIIN": "90003821"
+    },
+    {
+      "ID": "INV000560",
+      "Nomenclature": "RECONNAISSANCE SYST",
+      "NIIN": "16751023"
+    },
+    {
+      "ID": "INV000561",
+      "Nomenclature": "RECORDER GROUP",
+      "NIIN": "16165959"
+    },
+    {
+      "ID": "INV000562",
+      "Nomenclature": "RECORDER SET,SOUND",
+      "NIIN": "16041882"
+    },
+    {
+      "ID": "INV000563",
+      "Nomenclature": "RECORDER SET,SOUND",
+      "NIIN": "16444958"
+    },
+    {
+      "ID": "INV000564",
+      "Nomenclature": "RECORDER SET,SOUND",
+      "NIIN": "16815490"
+    },
+    {
+      "ID": "INV000565",
+      "Nomenclature": "RECORDER SET,VIDEO",
+      "NIIN": "16087879"
+    },
+    {
+      "ID": "INV000566",
+      "Nomenclature": "RECORDER SET,VIDEO",
+      "NIIN": "16560260"
+    },
+    {
+      "ID": "INV000567",
+      "Nomenclature": "RECORDER,SOUND",
+      "NIIN": "16181155"
+    },
+    {
+      "ID": "INV000568",
+      "Nomenclature": "RECORDER,SOUND",
+      "NIIN": "16181225"
+    },
+    {
+      "ID": "INV000569",
+      "Nomenclature": "RECORDER,SOUND",
+      "NIIN": "17061869"
+    },
+    {
+      "ID": "INV000570",
+      "Nomenclature": "RECORDER,VIDEO",
+      "NIIN": "16041870"
+    },
+    {
+      "ID": "INV000571",
+      "Nomenclature": "RECORDER,VIDEO",
+      "NIIN": "16124732"
+    },
+    {
+      "ID": "INV000572",
+      "Nomenclature": "RECORDER,VIDEO",
+      "NIIN": "16186466"
+    },
+    {
+      "ID": "INV000573",
+      "Nomenclature": "RECORDER,VIDEO",
+      "NIIN": "16223156"
+    },
+    {
+      "ID": "INV000574",
+      "Nomenclature": "RECORDER,VIDEO",
+      "NIIN": "16448424"
+    },
+    {
+      "ID": "INV000575",
+      "Nomenclature": "RECORDER,VIDEO",
+      "NIIN": "16448428"
+    },
+    {
+      "ID": "INV000576",
+      "Nomenclature": "RECORDER-REPRODUCER",
+      "NIIN": "16517208"
+    },
+    {
+      "ID": "INV000577",
+      "Nomenclature": "RELEASE,CARGO PARAC",
+      "NIIN": "10978816"
+    },
+    {
+      "ID": "INV000578",
+      "Nomenclature": "REMOTE CONTROL RADI",
+      "NIIN": "15883075"
+    },
+    {
+      "ID": "INV000579",
+      "Nomenclature": "REMOTE CONTROL RADI",
+      "NIIN": "16924027"
+    },
+    {
+      "ID": "INV000580",
+      "Nomenclature": "REPRODUCER,DISK MED",
+      "NIIN": "16299347"
+    },
+    {
+      "ID": "INV000581",
+      "Nomenclature": "RIFLE, 5.45MM AK-74",
+      "NIIN": "90007230"
+    },
+    {
+      "ID": "INV000582",
+      "Nomenclature": "RIFLE, 7.62M AK-47",
+      "NIIN": "90007227"
+    },
+    {
+      "ID": "INV000583",
+      "Nomenclature": "RIFLE, 7.62MM G3 AS",
+      "NIIN": "90007223"
+    },
+    {
+      "ID": "INV000584",
+      "Nomenclature": "RIFLE, 7.62MM SVD S",
+      "NIIN": "90007224"
+    },
+    {
+      "ID": "INV000585",
+      "Nomenclature": "RIFLE,5.56 MILLIMET",
+      "NIIN": "13832872"
+    },
+    {
+      "ID": "INV000586",
+      "Nomenclature": "RIFLE,7.62 MILLIMET",
+      "NIIN": "2837695"
+    },
+    {
+      "ID": "INV000587",
+      "Nomenclature": "RIFLE,7.62 MILLIMET",
+      "NIIN": "15860114"
+    },
+    {
+      "ID": "INV000588",
+      "Nomenclature": "RIFLE,7.62 MILLIMET",
+      "NIIN": "90007518"
+    },
+    {
+      "ID": "INV000589",
+      "Nomenclature": "RIFLE,RECOILLESS,84",
+      "NIIN": "640001068"
+    },
+    {
+      "ID": "INV000590",
+      "Nomenclature": "RIFLE,SNIPER",
+      "NIIN": "14692133"
+    },
+    {
+      "ID": "INV000591",
+      "Nomenclature": "RIFLE,SNIPER",
+      "NIIN": "16091039"
+    },
+    {
+      "ID": "INV000592",
+      "Nomenclature": "RIFLE,SNIPER",
+      "NIIN": "16440045"
+    },
+    {
+      "ID": "INV000593",
+      "Nomenclature": "RIFLE,SNIPER",
+      "NIIN": "16805221"
+    },
+    {
+      "ID": "INV000594",
+      "Nomenclature": "RIS-LITE COMM SYSTE",
+      "NIIN": "15595072"
+    },
+    {
+      "ID": "INV000595",
+      "Nomenclature": "ROCKET, INERT RPG-7",
+      "NIIN": "90007222"
+    },
+    {
+      "ID": "INV000596",
+      "Nomenclature": "ROPE ASSEMBLY,INSER",
+      "NIIN": "10650851"
+    },
+    {
+      "ID": "INV000597",
+      "Nomenclature": "ROUGH TERRAIN CONTA",
+      "NIIN": "15227364"
+    },
+    {
+      "ID": "INV000598",
+      "Nomenclature": "SATELLITE COMMUNICA",
+      "NIIN": "16478654"
+    },
+    {
+      "ID": "INV000599",
+      "Nomenclature": "SATELLITE COMMUNICA",
+      "NIIN": "16689183"
+    },
+    {
+      "ID": "INV000600",
+      "Nomenclature": "SATELLITE COMMUNICA",
+      "NIIN": "16815555"
+    },
+    {
+      "ID": "INV000601",
+      "Nomenclature": "SATELLITE COMMUNICA",
+      "NIIN": "16959359"
+    },
+    {
+      "ID": "INV000602",
+      "Nomenclature": "SATELLITE COMMUNICA",
+      "NIIN": "17008638"
+    },
+    {
+      "ID": "INV000603",
+      "Nomenclature": "SCALE,WEIGHING",
+      "NIIN": "10976167"
+    },
+    {
+      "ID": "INV000604",
+      "Nomenclature": "SCALE,WEIGHING",
+      "NIIN": "13468315"
+    },
+    {
+      "ID": "INV000605",
+      "Nomenclature": "SCALE,WEIGHING",
+      "NIIN": "15187276"
+    },
+    {
+      "ID": "INV000606",
+      "Nomenclature": "SCREWDRIVER,TORQUE",
+      "NIIN": "15090862"
+    },
+    {
+      "ID": "INV000607",
+      "Nomenclature": "SEAL,HAND IMPRESSIO",
+      "NIIN": "2698773"
+    },
+    {
+      "ID": "INV000608",
+      "Nomenclature": "SEALER,STEEL STRAPP",
+      "NIIN": "2238592"
+    },
+    {
+      "ID": "INV000609",
+      "Nomenclature": "SEARCHLIGHT",
+      "NIIN": "15902739"
+    },
+    {
+      "ID": "INV000610",
+      "Nomenclature": "SECURITY DATA SYSTE",
+      "NIIN": "16557842"
+    },
+    {
+      "ID": "INV000611",
+      "Nomenclature": "SECURITY DATA SYSTE",
+      "NIIN": "16739170"
+    },
+    {
+      "ID": "INV000612",
+      "Nomenclature": "SECURITY DATA SYSTE",
+      "NIIN": "16741973"
+    },
+    {
+      "ID": "INV000613",
+      "Nomenclature": "SECURITY DATA SYSTE",
+      "NIIN": "16990814"
+    },
+    {
+      "ID": "INV000614",
+      "Nomenclature": "SECURITY DATA SYSTE",
+      "NIIN": "17003579"
+    },
+    {
+      "ID": "INV000615",
+      "Nomenclature": "SENSOR UNIT,ANTI-IN",
+      "NIIN": "16160949"
+    },
+    {
+      "ID": "INV000616",
+      "Nomenclature": "SENSOR UNIT,ANTI-IN",
+      "NIIN": "16878137"
+    },
+    {
+      "ID": "INV000617",
+      "Nomenclature": "SERVER GROUP,NETWOR",
+      "NIIN": "16565499"
+    },
+    {
+      "ID": "INV000618",
+      "Nomenclature": "SERVER GROUP,NETWOR",
+      "NIIN": "16779450"
+    },
+    {
+      "ID": "INV000619",
+      "Nomenclature": "SERVER,INTELLIGENCE",
+      "NIIN": "16894838"
+    },
+    {
+      "ID": "INV000620",
+      "Nomenclature": "SEWING MACHINE,INDU",
+      "NIIN": "8924636"
+    },
+    {
+      "ID": "INV000621",
+      "Nomenclature": "SEWING MACHINE,INDU",
+      "NIIN": "11778588"
+    },
+    {
+      "ID": "INV000622",
+      "Nomenclature": "SEWING MACHINE,INDU",
+      "NIIN": "11778589"
+    },
+    {
+      "ID": "INV000623",
+      "Nomenclature": "SEWING MACHINE,INDU",
+      "NIIN": "11778590"
+    },
+    {
+      "ID": "INV000624",
+      "Nomenclature": "SEWING MACHINE,INDU",
+      "NIIN": "11778591"
+    },
+    {
+      "ID": "INV000625",
+      "Nomenclature": "SEWING MACHINE,INDU",
+      "NIIN": "11811420"
+    },
+    {
+      "ID": "INV000626",
+      "Nomenclature": "SEWING MACHINE,INDU",
+      "NIIN": "11811421"
+    },
+    {
+      "ID": "INV000627",
+      "Nomenclature": "SHELTER,10FT RIGID",
+      "NIIN": "13046123"
+    },
+    {
+      "ID": "INV000628",
+      "Nomenclature": "SHELTER,EXPANDABLE",
+      "NIIN": "15870839"
+    },
+    {
+      "ID": "INV000629",
+      "Nomenclature": "SHELTER,EXPANDABLE",
+      "NIIN": "16670420"
+    },
+    {
+      "ID": "INV000630",
+      "Nomenclature": "SHIPPING AND STORAG",
+      "NIIN": "14653621"
+    },
+    {
+      "ID": "INV000631",
+      "Nomenclature": "SHIPPING AND STORAG",
+      "NIIN": "14654187"
+    },
+    {
+      "ID": "INV000632",
+      "Nomenclature": "SHIPPING AND STORAG",
+      "NIIN": "15561313"
+    },
+    {
+      "ID": "INV000633",
+      "Nomenclature": "SHOP EGUIPMENT,GP N",
+      "NIIN": "15504312"
+    },
+    {
+      "ID": "INV000634",
+      "Nomenclature": "SHOP EQPT,GEN PURPO",
+      "NIIN": "15637780"
+    },
+    {
+      "ID": "INV000635",
+      "Nomenclature": "SHOP EQUIPMENT,GENE",
+      "NIIN": "15187339"
+    },
+    {
+      "ID": "INV000636",
+      "Nomenclature": "SHOP EQUIPMENT,GENE",
+      "NIIN": "15219685"
+    },
+    {
+      "ID": "INV000637",
+      "Nomenclature": "SHOP EQUIPMENT,GENE",
+      "NIIN": "15504900"
+    },
+    {
+      "ID": "INV000638",
+      "Nomenclature": "SHOP EQUIPMENT,GENE",
+      "NIIN": "15659593"
+    },
+    {
+      "ID": "INV000639",
+      "Nomenclature": "SHOTGUN,12 GAGE,RIO",
+      "NIIN": "10658989"
+    },
+    {
+      "ID": "INV000640",
+      "Nomenclature": "SHOTGUN,12 GAGE,RIO",
+      "NIIN": "13715639"
+    },
+    {
+      "ID": "INV000641",
+      "Nomenclature": "SHOTGUN,COMBAT",
+      "NIIN": "14723147"
+    },
+    {
+      "ID": "INV000642",
+      "Nomenclature": "SIGHT UNIT",
+      "NIIN": "15751724"
+    },
+    {
+      "ID": "INV000643",
+      "Nomenclature": "SIGHT UNIT",
+      "NIIN": "15780211"
+    },
+    {
+      "ID": "INV000644",
+      "Nomenclature": "SIGHT UNIT",
+      "NIIN": "16192962"
+    },
+    {
+      "ID": "INV000645",
+      "Nomenclature": "SIGHT UNIT,MECHANIC",
+      "NIIN": "15912160"
+    },
+    {
+      "ID": "INV000646",
+      "Nomenclature": "SIGHT UNIT,MECHANIC",
+      "NIIN": "15912226"
+    },
+    {
+      "ID": "INV000647",
+      "Nomenclature": "SIGHT,BORE,OPTICAL",
+      "NIIN": "10587460"
+    },
+    {
+      "ID": "INV000648",
+      "Nomenclature": "SIGHT,BORE,OPTICAL",
+      "NIIN": "15330939"
+    },
+    {
+      "ID": "INV000649",
+      "Nomenclature": "SIGHT,BORE,OPTICAL",
+      "NIIN": "15869839"
+    },
+    {
+      "ID": "INV000650",
+      "Nomenclature": "SIGHT,BORE,OPTICAL",
+      "NIIN": "16453117"
+    },
+    {
+      "ID": "INV000651",
+      "Nomenclature": "SIGHT,BORE,OPTICAL",
+      "NIIN": "16876809"
+    },
+    {
+      "ID": "INV000652",
+      "Nomenclature": "SIGHT,HOLOGRAPHIC",
+      "NIIN": "15597993"
+    },
+    {
+      "ID": "INV000653",
+      "Nomenclature": "SIGHT,INFINITY",
+      "NIIN": "15899332"
+    },
+    {
+      "ID": "INV000654",
+      "Nomenclature": "SIGHT,NIGHT VISION",
+      "NIIN": "15330940"
+    },
+    {
+      "ID": "INV000655",
+      "Nomenclature": "SIGHT,NIGHT VISION",
+      "NIIN": "15479489"
+    },
+    {
+      "ID": "INV000656",
+      "Nomenclature": "SIGHT,NIGHT VISION",
+      "NIIN": "15481555"
+    },
+    {
+      "ID": "INV000657",
+      "Nomenclature": "SIGHT,NIGHT VISION",
+      "NIIN": "16308608"
+    },
+    {
+      "ID": "INV000658",
+      "Nomenclature": "SIGHT,REFLEX",
+      "NIIN": "15330941"
+    },
+    {
+      "ID": "INV000659",
+      "Nomenclature": "SIGHT,REFLEX",
+      "NIIN": "16709181"
+    },
+    {
+      "ID": "INV000660",
+      "Nomenclature": "SIGHT,REFLEX",
+      "NIIN": "16785336"
+    },
+    {
+      "ID": "INV000661",
+      "Nomenclature": "SIGHT,THERMAL",
+      "NIIN": "15244313"
+    },
+    {
+      "ID": "INV000662",
+      "Nomenclature": "SIGHT,THERMAL",
+      "NIIN": "15244314"
+    },
+    {
+      "ID": "INV000663",
+      "Nomenclature": "SIGHT,THERMAL",
+      "NIIN": "15330557"
+    },
+    {
+      "ID": "INV000664",
+      "Nomenclature": "SIGHT,THERMAL",
+      "NIIN": "15363532"
+    },
+    {
+      "ID": "INV000665",
+      "Nomenclature": "SIGHT,THERMAL",
+      "NIIN": "15597064"
+    },
+    {
+      "ID": "INV000666",
+      "Nomenclature": "SIGHT,THERMAL",
+      "NIIN": "15629999"
+    },
+    {
+      "ID": "INV000667",
+      "Nomenclature": "SIGHT,THERMAL",
+      "NIIN": "15732483"
+    },
+    {
+      "ID": "INV000668",
+      "Nomenclature": "SIGHT,THERMAL",
+      "NIIN": "16002717"
+    },
+    {
+      "ID": "INV000669",
+      "Nomenclature": "SIGHT,UNS,AN,PVS22",
+      "NIIN": "15096871"
+    },
+    {
+      "ID": "INV000670",
+      "Nomenclature": "SILENCER,GUN",
+      "NIIN": "15997027"
+    },
+    {
+      "ID": "INV000671",
+      "Nomenclature": "SILENCER,GUN",
+      "NIIN": "16140654"
+    },
+    {
+      "ID": "INV000672",
+      "Nomenclature": "SILENCER,GUN",
+      "NIIN": "16855199"
+    },
+    {
+      "ID": "INV000673",
+      "Nomenclature": "SILENCER,GUN",
+      "NIIN": "16960805"
+    },
+    {
+      "ID": "INV000674",
+      "Nomenclature": "SOFTWARE KIT",
+      "NIIN": "16690124"
+    },
+    {
+      "ID": "INV000675",
+      "Nomenclature": "SOLAR PORTABLE ALTE",
+      "NIIN": "16196212"
+    },
+    {
+      "ID": "INV000676",
+      "Nomenclature": "SPECIAL TOOL KIT,FI",
+      "NIIN": "16759060"
+    },
+    {
+      "ID": "INV000677",
+      "Nomenclature": "SPECTACLES,INDUSTRI",
+      "NIIN": "15835742"
+    },
+    {
+      "ID": "INV000678",
+      "Nomenclature": "SPOUT,CAN,FLEXIBLE",
+      "NIIN": "1776154"
+    },
+    {
+      "ID": "INV000679",
+      "Nomenclature": "STAND,VEHICLE SUPPO",
+      "NIIN": "2620392"
+    },
+    {
+      "ID": "INV000680",
+      "Nomenclature": "STOW AND GO KIT COM",
+      "NIIN": "15862770"
+    },
+    {
+      "ID": "INV000681",
+      "Nomenclature": "STRAP CUTTER,RESCUE",
+      "NIIN": "15700319"
+    },
+    {
+      "ID": "INV000682",
+      "Nomenclature": "SUPPLEMENTARY KIT,E",
+      "NIIN": "16803682"
+    },
+    {
+      "ID": "INV000683",
+      "Nomenclature": "SUPPRESSOR,SMALL AR",
+      "NIIN": "14370324"
+    },
+    {
+      "ID": "INV000684",
+      "Nomenclature": "SUPPRESSOR,SMALL AR",
+      "NIIN": "15424487"
+    },
+    {
+      "ID": "INV000685",
+      "Nomenclature": "SUPPRESSOR,SMALL AR",
+      "NIIN": "15656164"
+    },
+    {
+      "ID": "INV000686",
+      "Nomenclature": "SUPPRESSOR,SMALL AR",
+      "NIIN": "16805240"
+    },
+    {
+      "ID": "INV000687",
+      "Nomenclature": "SURVEILLANCE SYSTEM",
+      "NIIN": "16746010"
+    },
+    {
+      "ID": "INV000688",
+      "Nomenclature": "SURVEILLANCE,THERMA",
+      "NIIN": "16668821"
+    },
+    {
+      "ID": "INV000689",
+      "Nomenclature": "SURVEYING SET,FIELD",
+      "NIIN": "10670687"
+    },
+    {
+      "ID": "INV000690",
+      "Nomenclature": "SWITCHING UNIT,AUDI",
+      "NIIN": "16083268"
+    },
+    {
+      "ID": "INV000691",
+      "Nomenclature": "SWITCHING UNIT,AUDI",
+      "NIIN": "16702082"
+    },
+    {
+      "ID": "INV000692",
+      "Nomenclature": "SWORD AND SCABBARD",
+      "NIIN": "9651675"
+    },
+    {
+      "ID": "INV000693",
+      "Nomenclature": "SWORD AND SCABBARD",
+      "NIIN": "9651677"
+    },
+    {
+      "ID": "INV000694",
+      "Nomenclature": "TABLE,PARACHUTE PAC",
+      "NIIN": "9731961"
+    },
+    {
+      "ID": "INV000695",
+      "Nomenclature": "TACTICAL EXPLOITATI",
+      "NIIN": "16011275"
+    },
+    {
+      "ID": "INV000696",
+      "Nomenclature": "TACTICAL EXPLOITATI",
+      "NIIN": "16100015"
+    },
+    {
+      "ID": "INV000697",
+      "Nomenclature": "TACTICAL EXPLOITATI",
+      "NIIN": "16586399"
+    },
+    {
+      "ID": "INV000698",
+      "Nomenclature": "TACTICAL EXPLOITATI",
+      "NIIN": "16592595"
+    },
+    {
+      "ID": "INV000699",
+      "Nomenclature": "TACTICAL EXPLOITATI",
+      "NIIN": "16652996"
+    },
+    {
+      "ID": "INV000700",
+      "Nomenclature": "TACTICAL EXPLOITATI",
+      "NIIN": "16820897"
+    },
+    {
+      "ID": "INV000701",
+      "Nomenclature": "TACTICAL EXPLOITATI",
+      "NIIN": "16872714"
+    },
+    {
+      "ID": "INV000702",
+      "Nomenclature": "TACTICAL EXPLOITATI",
+      "NIIN": "16993221"
+    },
+    {
+      "ID": "INV000703",
+      "Nomenclature": "TANK AND PUMP UNIT,",
+      "NIIN": "15339826"
+    },
+    {
+      "ID": "INV000704",
+      "Nomenclature": "TANK,WATER,MODULE",
+      "NIIN": "12039971"
+    },
+    {
+      "ID": "INV000705",
+      "Nomenclature": "TARGET LOCATION,DES",
+      "NIIN": "15716450"
+    },
+    {
+      "ID": "INV000706",
+      "Nomenclature": "TELECONFERENCE SYST",
+      "NIIN": "15755534"
+    },
+    {
+      "ID": "INV000707",
+      "Nomenclature": "TELEPHONE,CELLULAR",
+      "NIIN": "16230004"
+    },
+    {
+      "ID": "INV000708",
+      "Nomenclature": "TELEPHONE,CELLULAR",
+      "NIIN": "16440938"
+    },
+    {
+      "ID": "INV000709",
+      "Nomenclature": "TELEPHONE,CELLULAR",
+      "NIIN": "16626245"
+    },
+    {
+      "ID": "INV000710",
+      "Nomenclature": "TELEPHONE,CELLULAR",
+      "NIIN": "16717756"
+    },
+    {
+      "ID": "INV000711",
+      "Nomenclature": "TELEPHONE,CELLULAR",
+      "NIIN": "16814982"
+    },
+    {
+      "ID": "INV000712",
+      "Nomenclature": "TELEPHONE,CELLULAR",
+      "NIIN": "16876492"
+    },
+    {
+      "ID": "INV000713",
+      "Nomenclature": "TELEPHONE,CELLULAR",
+      "NIIN": "16968779"
+    },
+    {
+      "ID": "INV000714",
+      "Nomenclature": "TELEPHONE,CELLULAR",
+      "NIIN": "17004967"
+    },
+    {
+      "ID": "INV000715",
+      "Nomenclature": "TELEPHONE,CELLULAR",
+      "NIIN": "17025169"
+    },
+    {
+      "ID": "INV000716",
+      "Nomenclature": "TELEPHONE,CELLULAR",
+      "NIIN": "17074010"
+    },
+    {
+      "ID": "INV000717",
+      "Nomenclature": "TELEPHONE,SECURE UN",
+      "NIIN": "14596441"
+    },
+    {
+      "ID": "INV000718",
+      "Nomenclature": "TELEPHONE,SECURE UN",
+      "NIIN": "15686699"
+    },
+    {
+      "ID": "INV000719",
+      "Nomenclature": "TELEPHONE,SECURE UN",
+      "NIIN": "16605095"
+    },
+    {
+      "ID": "INV000720",
+      "Nomenclature": "TELESCOPE,ARTICULAT",
+      "NIIN": "15331854"
+    },
+    {
+      "ID": "INV000721",
+      "Nomenclature": "TELESCOPE,ARTICULAT",
+      "NIIN": "15455813"
+    },
+    {
+      "ID": "INV000722",
+      "Nomenclature": "TELESCOPE,ELBOW",
+      "NIIN": "13415195"
+    },
+    {
+      "ID": "INV000723",
+      "Nomenclature": "TELESCOPE,NON-INVER",
+      "NIIN": "15751011"
+    },
+    {
+      "ID": "INV000724",
+      "Nomenclature": "TELESCOPE,STRAIGHT",
+      "NIIN": "15837651"
+    },
+    {
+      "ID": "INV000725",
+      "Nomenclature": "TENT",
+      "NIIN": "15455884"
+    },
+    {
+      "ID": "INV000726",
+      "Nomenclature": "TENT,COMBAT,TWO MAN",
+      "NIIN": "14525919"
+    },
+    {
+      "ID": "INV000727",
+      "Nomenclature": "TEST FIXTURE,TELESC",
+      "NIIN": "5085434"
+    },
+    {
+      "ID": "INV000728",
+      "Nomenclature": "TEST SET,ELECTRONIC",
+      "NIIN": "13239584"
+    },
+    {
+      "ID": "INV000729",
+      "Nomenclature": "TEST SET,RADIO",
+      "NIIN": "15380285"
+    },
+    {
+      "ID": "INV000730",
+      "Nomenclature": "TEST SET,RADIO",
+      "NIIN": "15892414"
+    },
+    {
+      "ID": "INV000731",
+      "Nomenclature": "TEST SET,RADIO FREQ",
+      "NIIN": "15134644"
+    },
+    {
+      "ID": "INV000732",
+      "Nomenclature": "TEST SET,RADIO FREQ",
+      "NIIN": "15682691"
+    },
+    {
+      "ID": "INV000733",
+      "Nomenclature": "TEST SET,TELECOMMUN",
+      "NIIN": "15970700"
+    },
+    {
+      "ID": "INV000734",
+      "Nomenclature": "TEST STAND,DEMAND O",
+      "NIIN": "14328925"
+    },
+    {
+      "ID": "INV000735",
+      "Nomenclature": "TEST STAND,DEMAND O",
+      "NIIN": "16721296"
+    },
+    {
+      "ID": "INV000736",
+      "Nomenclature": "TESTER,AUTOMATIC TR",
+      "NIIN": "15592405"
+    },
+    {
+      "ID": "INV000737",
+      "Nomenclature": "TESTER,HYDRAULIC HO",
+      "NIIN": "10908229"
+    },
+    {
+      "ID": "INV000738",
+      "Nomenclature": "THEATER MEDICAL INF",
+      "NIIN": "15508375"
+    },
+    {
+      "ID": "INV000739",
+      "Nomenclature": "THERMAL IMAGING SYS",
+      "NIIN": "15531162"
+    },
+    {
+      "ID": "INV000740",
+      "Nomenclature": "THERMAL IMAGING SYS",
+      "NIIN": "15823974"
+    },
+    {
+      "ID": "INV000741",
+      "Nomenclature": "THERMAL IMAGING SYS",
+      "NIIN": "16043925"
+    },
+    {
+      "ID": "INV000742",
+      "Nomenclature": "THERMAL IMAGING SYS",
+      "NIIN": "16431435"
+    },
+    {
+      "ID": "INV000743",
+      "Nomenclature": "THERMAL IMAGING SYS",
+      "NIIN": "16589872"
+    },
+    {
+      "ID": "INV000744",
+      "Nomenclature": "TIE DOWN,CARGO,AIRC",
+      "NIIN": "7251437"
+    },
+    {
+      "ID": "INV000745",
+      "Nomenclature": "TIMING GAGE,WEAR LI",
+      "NIIN": "15806602"
+    },
+    {
+      "ID": "INV000746",
+      "Nomenclature": "TOOL AND EQUIPMENT",
+      "NIIN": "996952988"
+    },
+    {
+      "ID": "INV000747",
+      "Nomenclature": "TOOL AND GAGE SET,I",
+      "NIIN": "11500357"
+    },
+    {
+      "ID": "INV000748",
+      "Nomenclature": "TOOL KIT MTVR LVSR",
+      "NIIN": "14772399"
+    },
+    {
+      "ID": "INV000749",
+      "Nomenclature": "TOOL KIT,2ND ECHELO",
+      "NIIN": "90002296"
+    },
+    {
+      "ID": "INV000750",
+      "Nomenclature": "TOOL KIT,3RD ECHELO",
+      "NIIN": "90002295"
+    },
+    {
+      "ID": "INV000751",
+      "Nomenclature": "TOOL KIT,AIR CONDIT",
+      "NIIN": "15414688"
+    },
+    {
+      "ID": "INV000752",
+      "Nomenclature": "TOOL KIT,ARTILLERY",
+      "NIIN": "16119267"
+    },
+    {
+      "ID": "INV000753",
+      "Nomenclature": "TOOL KIT,BORESIGHT,",
+      "NIIN": "15685726"
+    },
+    {
+      "ID": "INV000754",
+      "Nomenclature": "TOOL KIT,CARPENTER'",
+      "NIIN": "15518250"
+    },
+    {
+      "ID": "INV000755",
+      "Nomenclature": "TOOL KIT,COMMUNICAT",
+      "NIIN": "14597868"
+    },
+    {
+      "ID": "INV000756",
+      "Nomenclature": "TOOL KIT,ELECTRICAL",
+      "NIIN": "16041367"
+    },
+    {
+      "ID": "INV000757",
+      "Nomenclature": "TOOL KIT,ELECTRICAL",
+      "NIIN": "16283273"
+    },
+    {
+      "ID": "INV000758",
+      "Nomenclature": "TOOL KIT,ELECTRONIC",
+      "NIIN": "15837579"
+    },
+    {
+      "ID": "INV000759",
+      "Nomenclature": "TOOL KIT,ELECTRO-OP",
+      "NIIN": "15766593"
+    },
+    {
+      "ID": "INV000760",
+      "Nomenclature": "TOOL KIT,EXPLOSIVE",
+      "NIIN": "10293190"
+    },
+    {
+      "ID": "INV000761",
+      "Nomenclature": "TOOL KIT,EXPLOSIVE",
+      "NIIN": "10299543"
+    },
+    {
+      "ID": "INV000762",
+      "Nomenclature": "TOOL KIT,EXPLOSIVE",
+      "NIIN": "13444429"
+    },
+    {
+      "ID": "INV000763",
+      "Nomenclature": "TOOL KIT,GENERAL ME",
+      "NIIN": "15544224"
+    },
+    {
+      "ID": "INV000764",
+      "Nomenclature": "TOOL KIT,GENERAL ME",
+      "NIIN": "16055146"
+    },
+    {
+      "ID": "INV000765",
+      "Nomenclature": "TOOL KIT,IMPROVISED",
+      "NIIN": "14826168"
+    },
+    {
+      "ID": "INV000766",
+      "Nomenclature": "TOOL KIT,LINEMAN'S",
+      "NIIN": "15500145"
+    },
+    {
+      "ID": "INV000767",
+      "Nomenclature": "TOOL KIT,LOCKSMITH",
+      "NIIN": "16517219"
+    },
+    {
+      "ID": "INV000768",
+      "Nomenclature": "TOOL KIT,LOCKSMITH",
+      "NIIN": "16534151"
+    },
+    {
+      "ID": "INV000769",
+      "Nomenclature": "TOOL KIT,ORGANIZATI",
+      "NIIN": "11472467"
+    },
+    {
+      "ID": "INV000770",
+      "Nomenclature": "TOOL KIT,PARACHUTE",
+      "NIIN": "16064400"
+    },
+    {
+      "ID": "INV000771",
+      "Nomenclature": "TOOL KIT,PARACHUTIS",
+      "NIIN": "15377582"
+    },
+    {
+      "ID": "INV000772",
+      "Nomenclature": "TOOL KIT,REFRIGERAT",
+      "NIIN": "15877465"
+    },
+    {
+      "ID": "INV000773",
+      "Nomenclature": "TOOL KIT,SMALL ARMS",
+      "NIIN": "16067154"
+    },
+    {
+      "ID": "INV000774",
+      "Nomenclature": "TOOL KIT,VEHICLE,TA",
+      "NIIN": "15807176"
+    },
+    {
+      "ID": "INV000775",
+      "Nomenclature": "TOOL KIT,VEHICLE,TA",
+      "NIIN": "15837685"
+    },
+    {
+      "ID": "INV000776",
+      "Nomenclature": "TOOL KIT,VEHICLE,TA",
+      "NIIN": "16836578"
+    },
+    {
+      "ID": "INV000777",
+      "Nomenclature": "TOOL KIT,VEHICLE,TA",
+      "NIIN": "16837795"
+    },
+    {
+      "ID": "INV000778",
+      "Nomenclature": "TOOL KIT,VEHICLE,TA",
+      "NIIN": "17017480"
+    },
+    {
+      "ID": "INV000779",
+      "Nomenclature": "TOOL SET,DIRECT AND",
+      "NIIN": "7265830"
+    },
+    {
+      "ID": "INV000780",
+      "Nomenclature": "TOOL SET,INTERMEDIA",
+      "NIIN": "11439604"
+    },
+    {
+      "ID": "INV000781",
+      "Nomenclature": "TOOL SET,ORGANI INT",
+      "NIIN": "14155009"
+    },
+    {
+      "ID": "INV000782",
+      "Nomenclature": "TOOL SET,ORGANIZATI",
+      "NIIN": "11439605"
+    },
+    {
+      "ID": "INV000783",
+      "Nomenclature": "TOWBAR,MOTOR VEHICL",
+      "NIIN": "14968356"
+    },
+    {
+      "ID": "INV000784",
+      "Nomenclature": "TOWBAR,MOTOR VEHICL",
+      "NIIN": "15583533"
+    },
+    {
+      "ID": "INV000785",
+      "Nomenclature": "TRAILER,CARGO",
+      "NIIN": "13875426"
+    },
+    {
+      "ID": "INV000786",
+      "Nomenclature": "TRAILER,CARGO",
+      "NIIN": "16272944"
+    },
+    {
+      "ID": "INV000787",
+      "Nomenclature": "TRAILER,FLAT BED",
+      "NIIN": "15470272"
+    },
+    {
+      "ID": "INV000788",
+      "Nomenclature": "TRAILER,TANK",
+      "NIIN": "11087367"
+    },
+    {
+      "ID": "INV000789",
+      "Nomenclature": "TRAINING KIT,MARTIA",
+      "NIIN": "15664542"
+    },
+    {
+      "ID": "INV000790",
+      "Nomenclature": "TRAINING SET,VOICE",
+      "NIIN": "16099998"
+    },
+    {
+      "ID": "INV000791",
+      "Nomenclature": "TRANSFER UNIT,CRYPT",
+      "NIIN": "15173587"
+    },
+    {
+      "ID": "INV000792",
+      "Nomenclature": "TRANSFER UNIT,CRYPT",
+      "NIIN": "16082278"
+    },
+    {
+      "ID": "INV000793",
+      "Nomenclature": "TRANSFER UNIT,CRYPT",
+      "NIIN": "16444375"
+    },
+    {
+      "ID": "INV000794",
+      "Nomenclature": "TRANSFER,PUMP,SYS",
+      "NIIN": "14831266"
+    },
+    {
+      "ID": "INV000795",
+      "Nomenclature": "TRANSMITTER,COORDIN",
+      "NIIN": "15588724"
+    },
+    {
+      "ID": "INV000796",
+      "Nomenclature": "TRANSMITTER,LASER",
+      "NIIN": "15838057"
+    },
+    {
+      "ID": "INV000797",
+      "Nomenclature": "TRANSMITTER,RADIO",
+      "NIIN": "16516863"
+    },
+    {
+      "ID": "INV000798",
+      "Nomenclature": "TRANSMITTER,RADIO",
+      "NIIN": "17005531"
+    },
+    {
+      "ID": "INV000799",
+      "Nomenclature": "TRANSMITTING SET,RA",
+      "NIIN": "16517420"
+    },
+    {
+      "ID": "INV000800",
+      "Nomenclature": "TRANSMITTING SET,RA",
+      "NIIN": "17060185"
+    },
+    {
+      "ID": "INV000801",
+      "Nomenclature": "TRK,ARMORED,XLWB CA",
+      "NIIN": "15305681"
+    },
+    {
+      "ID": "INV000802",
+      "Nomenclature": "TRUCK TIRE CHANGER",
+      "NIIN": "15430301"
+    },
+    {
+      "ID": "INV000803",
+      "Nomenclature": "TRUCK,AMBULANCE",
+      "NIIN": "13808225"
+    },
+    {
+      "ID": "INV000804",
+      "Nomenclature": "TRUCK,ARMORED,CARGO",
+      "NIIN": "15305676"
+    },
+    {
+      "ID": "INV000805",
+      "Nomenclature": "TRUCK,ARMORED,XLWB",
+      "NIIN": "15522762"
+    },
+    {
+      "ID": "INV000806",
+      "Nomenclature": "TRUCK,CARGO",
+      "NIIN": "15427628"
+    },
+    {
+      "ID": "INV000807",
+      "Nomenclature": "TRUCK,DUMP,7 TON WI",
+      "NIIN": "14652186"
+    },
+    {
+      "ID": "INV000808",
+      "Nomenclature": "TRUCK,LIFT,FORK",
+      "NIIN": "16051984"
+    },
+    {
+      "ID": "INV000809",
+      "Nomenclature": "TRUCK,LIFT,FORK",
+      "NIIN": "16417505"
+    },
+    {
+      "ID": "INV000810",
+      "Nomenclature": "TRUCK,TRACTOR LVSR",
+      "NIIN": "15429941"
+    },
+    {
+      "ID": "INV000811",
+      "Nomenclature": "TRUCK,UTILITY",
+      "NIIN": "16536495"
+    },
+    {
+      "ID": "INV000812",
+      "Nomenclature": "TRUCK,UTILITY",
+      "NIIN": "16536516"
+    },
+    {
+      "ID": "INV000813",
+      "Nomenclature": "TRUCK,UTILITY",
+      "NIIN": "16627023"
+    },
+    {
+      "ID": "INV000814",
+      "Nomenclature": "TRUCK,WRECKER,ARMOR",
+      "NIIN": "15305691"
+    },
+    {
+      "ID": "INV000815",
+      "Nomenclature": "TRUCK,WRECKER,LVSR",
+      "NIIN": "15430651"
+    },
+    {
+      "ID": "INV000816",
+      "Nomenclature": "UNIT MOVE WORK STAT",
+      "NIIN": "15431630"
+    },
+    {
+      "ID": "INV000817",
+      "Nomenclature": "UNMANNED AIRCRAFT",
+      "NIIN": "16598723"
+    },
+    {
+      "ID": "INV000818",
+      "Nomenclature": "UNMANNED AIRCRAFT S",
+      "NIIN": "16910162"
+    },
+    {
+      "ID": "INV000819",
+      "Nomenclature": "UNMANNED VEHICLE,GR",
+      "NIIN": "16033586"
+    },
+    {
+      "ID": "INV000820",
+      "Nomenclature": "UNMANNED VEHICLE,GR",
+      "NIIN": "16817253"
+    },
+    {
+      "ID": "INV000821",
+      "Nomenclature": "UTILITY VEHICLE,OFF",
+      "NIIN": "16544105"
+    },
+    {
+      "ID": "INV000822",
+      "Nomenclature": "VEST,DIVER'S SUIT",
+      "NIIN": "15847592"
+    },
+    {
+      "ID": "INV000823",
+      "Nomenclature": "VIDEO CAMERA SYSTEM",
+      "NIIN": "15750784"
+    },
+    {
+      "ID": "INV000824",
+      "Nomenclature": "VIDEO INSPECTION KI",
+      "NIIN": "16770192"
+    },
+    {
+      "ID": "INV000825",
+      "Nomenclature": "VIDEO TERMINAL,MULT",
+      "NIIN": "15989478"
+    },
+    {
+      "ID": "INV000826",
+      "Nomenclature": "VIDEO TERMINAL,MULT",
+      "NIIN": "16259781"
+    },
+    {
+      "ID": "INV000827",
+      "Nomenclature": "VIDEO TERMINAL,MULT",
+      "NIIN": "16513323"
+    },
+    {
+      "ID": "INV000828",
+      "Nomenclature": "VIEWER KIT,NIGHT VI",
+      "NIIN": "16085809"
+    },
+    {
+      "ID": "INV000829",
+      "Nomenclature": "VIEWER KIT,NIGHT VI",
+      "NIIN": "16087752"
+    },
+    {
+      "ID": "INV000830",
+      "Nomenclature": "VIEWER KIT,NIGHT VI",
+      "NIIN": "16188462"
+    },
+    {
+      "ID": "INV000831",
+      "Nomenclature": "VIEWER,NIGHT VISION",
+      "NIIN": "14320524"
+    },
+    {
+      "ID": "INV000832",
+      "Nomenclature": "VIEWER,NIGHT VISION",
+      "NIIN": "15583616"
+    },
+    {
+      "ID": "INV000833",
+      "Nomenclature": "VIEWER,NIGHT VISION",
+      "NIIN": "16087756"
+    },
+    {
+      "ID": "INV000834",
+      "Nomenclature": "VIEWER,NIGHT VISION",
+      "NIIN": "16657552"
+    },
+    {
+      "ID": "INV000835",
+      "Nomenclature": "WATCH,WRIST",
+      "NIIN": "17004964"
+    },
+    {
+      "ID": "INV000836",
+      "Nomenclature": "WEIGHT SET,COMMERCI",
+      "NIIN": "15527386"
+    },
+    {
+      "ID": "INV000837",
+      "Nomenclature": "WELDING SHOP,MARINE",
+      "NIIN": "16159020"
+    },
+    {
+      "ID": "INV000838",
+      "Nomenclature": "WIRE DETECTION,COMM",
+      "NIIN": "16792990"
+    },
+    {
+      "ID": "INV000839",
+      "Nomenclature": "WORKSTATION,GEOSPAT",
+      "NIIN": "16835611"
+    },
+    {
+      "ID": "INV000840",
+      "Nomenclature": "WORKSTATION,GEOSPAT",
+      "NIIN": "16963562"
+    },
+    {
+      "ID": "INV000841",
+      "Nomenclature": "WORKSTATION,PORTABL",
+      "NIIN": "16607132"
+    },
+    {
+      "ID": "INV000842",
+      "Nomenclature": "WORKSTATION,PORTABL",
+      "NIIN": "16678958"
+    },
+    {
+      "ID": "INV000843",
+      "Nomenclature": "WRENCH,IMPACT,PNEUM",
+      "NIIN": "1841427"
+    },
+    {
+      "ID": "INV000844",
+      "Nomenclature": "WRENCH,IMPACT,PNEUM",
+      "NIIN": "8892134"
+    },
+    {
+      "ID": "INV000845",
+      "Nomenclature": "WRENCH,TORQUE",
+      "NIIN": "13551763"
+    },
+    {
+      "ID": "INV000846",
+      "Nomenclature": "WRENCH,TORQUE",
+      "NIIN": "13551792"
+    },
+    {
+      "ID": "INV000847",
+      "Nomenclature": "WRENCH,TORQUE",
+      "NIIN": "13999051"
+    },
+    {
+      "ID": "INV000848",
+      "Nomenclature": "X-RAY APPARATUS,RAD",
+      "NIIN": "16735754"
+    }
+  ]
