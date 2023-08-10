@@ -1,0 +1,1774 @@
+[
+    {
+      "ID": "INV00001",
+      "Nomenclature": "ACCESSORY KIT,ANTEN"
+    },
+    {
+      "ID": "INV00002",
+      "Nomenclature": "ACCESSORY KIT,ELECT"
+    },
+    {
+      "ID": "INV00003",
+      "Nomenclature": "ACCESSORY KIT,MAST"
+    },
+    {
+      "ID": "INV00004",
+      "Nomenclature": "ACCESSORY KIT,PHOTO"
+    },
+    {
+      "ID": "INV00005",
+      "Nomenclature": "ACCESSORY OUTFIT,FO"
+    },
+    {
+      "ID": "INV00006",
+      "Nomenclature": "ADAPTER SET,ENGINE"
+    },
+    {
+      "ID": "INV00007",
+      "Nomenclature": "ADAPTER,POWER SUPPL"
+    },
+    {
+      "ID": "INV00008",
+      "Nomenclature": "AIR CONDITIONER"
+    },
+    {
+      "ID": "INV00009",
+      "Nomenclature": "ALL SOURCE ANALYSIS"
+    },
+    {
+      "ID": "INV00010",
+      "Nomenclature": "AMPLIFIER-CONTROL G"
+    },
+    {
+      "ID": "INV00011",
+      "Nomenclature": "AMPLIFIER-POWER SUP"
+    },
+    {
+      "ID": "INV00012",
+      "Nomenclature": "ANALYZER SET,VEHICU"
+    },
+    {
+      "ID": "INV00013",
+      "Nomenclature": "ANALYZER-CHARGER,BA"
+    },
+    {
+      "ID": "INV00014",
+      "Nomenclature": "ANEMOMETER"
+    },
+    {
+      "ID": "INV00015",
+      "Nomenclature": "ANTENNA"
+    },
+    {
+      "ID": "INV00016",
+      "Nomenclature": "ANTENNA BOARDBAND"
+    },
+    {
+      "ID": "INV00017",
+      "Nomenclature": "ANTENNA CONTROL SUB"
+    },
+    {
+      "ID": "INV00018",
+      "Nomenclature": "ANTENNA ELEVATOR GR"
+    },
+    {
+      "ID": "INV00019",
+      "Nomenclature": "ANTENNA GROUP"
+    },
+    {
+      "ID": "INV00020",
+      "Nomenclature": "ANTENNA GROUP,COMMO"
+    },
+    {
+      "ID": "INV00021",
+      "Nomenclature": "ANTENNA, BROADBAND"
+    },
+    {
+      "ID": "INV00022",
+      "Nomenclature": "AUTO ACTIVATION DEV"
+    },
+    {
+      "ID": "INV00023",
+      "Nomenclature": "BAG,CARGO,AERIAL DE"
+    },
+    {
+      "ID": "INV00024",
+      "Nomenclature": "BATTERY POWER SOURC"
+    },
+    {
+      "ID": "INV00025",
+      "Nomenclature": "BAYONET-KNIFE"
+    },
+    {
+      "ID": "INV00026",
+      "Nomenclature": "BEACON SET,RADIO"
+    },
+    {
+      "ID": "INV00027",
+      "Nomenclature": "BEACON,DISTRESS"
+    },
+    {
+      "ID": "INV00028",
+      "Nomenclature": "BEACON,RADIO"
+    },
+    {
+      "ID": "INV00029",
+      "Nomenclature": "BELT,INDIVIDUAL EQU"
+    },
+    {
+      "ID": "INV00030",
+      "Nomenclature": "BINOCULAR"
+    },
+    {
+      "ID": "INV00031",
+      "Nomenclature": "BOAT,LANDING,INFLAT"
+    },
+    {
+      "ID": "INV00032",
+      "Nomenclature": "BODY ARMOR OUTFIT,E"
+    },
+    {
+      "ID": "INV00033",
+      "Nomenclature": "BORELIGHT SYSTEM,LA"
+    },
+    {
+      "ID": "INV00034",
+      "Nomenclature": "BORESCOPE"
+    },
+    {
+      "ID": "INV00035",
+      "Nomenclature": "BORESCOPE,VIDEO"
+    },
+    {
+      "ID": "INV00036",
+      "Nomenclature": "BORESIGHT KIT"
+    },
+    {
+      "ID": "INV00037",
+      "Nomenclature": "BOX,SHIPPING"
+    },
+    {
+      "ID": "INV00038",
+      "Nomenclature": "BREATHING APPARATUS"
+    },
+    {
+      "ID": "INV00039",
+      "Nomenclature": "CABINET,TOOL,MOBILE"
+    },
+    {
+      "ID": "INV00040",
+      "Nomenclature": "CABLE ASSEMBLY,SPEC"
+    },
+    {
+      "ID": "INV00041",
+      "Nomenclature": "CABLE KIT,RADIO FRE"
+    },
+    {
+      "ID": "INV00042",
+      "Nomenclature": "CALIPER,DIAL"
+    },
+    {
+      "ID": "INV00043",
+      "Nomenclature": "CAMERA GROUP,RECONN"
+    },
+    {
+      "ID": "INV00044",
+      "Nomenclature": "CAMERA SET,MOTION P"
+    },
+    {
+      "ID": "INV00045",
+      "Nomenclature": "CAMERA SET,STILL PI"
+    },
+    {
+      "ID": "INV00046",
+      "Nomenclature": "CAMERA SYSTEM,DIGIT"
+    },
+    {
+      "ID": "INV00047",
+      "Nomenclature": "CAMERA SYSTEM,RECON"
+    },
+    {
+      "ID": "INV00048",
+      "Nomenclature": "CAMERA SYSTEM,SURVE"
+    },
+    {
+      "ID": "INV00049",
+      "Nomenclature": "CAMERA,MOTION PICTU"
+    },
+    {
+      "ID": "INV00050",
+      "Nomenclature": "CAMERA,RECONNAISSAN"
+    },
+    {
+      "ID": "INV00051",
+      "Nomenclature": "CAMERA,TELEVISION"
+    },
+    {
+      "ID": "INV00052",
+      "Nomenclature": "CAMOUFLAGE NET SYST"
+    },
+    {
+      "ID": "INV00053",
+      "Nomenclature": "CAN,MILITARY"
+    },
+    {
+      "ID": "INV00054",
+      "Nomenclature": "CANOPY,PERSONNEL PA"
+    },
+    {
+      "ID": "INV00055",
+      "Nomenclature": "CARBINE,5.56 MILLIM"
+    },
+    {
+      "ID": "INV00056",
+      "Nomenclature": "CARRIER,LITTER NO.2"
+    },
+    {
+      "ID": "INV00057",
+      "Nomenclature": "CARRIER,SWORD SCABB"
+    },
+    {
+      "ID": "INV00058",
+      "Nomenclature": "CHARGER,BATTERY"
+    },
+    {
+      "ID": "INV00059",
+      "Nomenclature": "CIHEP TECH SURVEILL"
+    },
+    {
+      "ID": "INV00060",
+      "Nomenclature": "CODEC,DATA SIGNAL"
+    },
+    {
+      "ID": "INV00061",
+      "Nomenclature": "COLLAPSIBLE JMIC 3."
+    },
+    {
+      "ID": "INV00062",
+      "Nomenclature": "COLLAPSIBLE JOINT M"
+    },
+    {
+      "ID": "INV00063",
+      "Nomenclature": "COMBAT CONTROL SYST"
+    },
+    {
+      "ID": "INV00064",
+      "Nomenclature": "COMBAT SUPPORT SYST"
+    },
+    {
+      "ID": "INV00065",
+      "Nomenclature": "COMMAND SYSTEM,TACT"
+    },
+    {
+      "ID": "INV00066",
+      "Nomenclature": "COMMON LASER RANGEF"
+    },
+    {
+      "ID": "INV00067",
+      "Nomenclature": "COMMUNICATION SET,S"
+    },
+    {
+      "ID": "INV00068",
+      "Nomenclature": "COMMUNICATION SUBSY"
+    },
+    {
+      "ID": "INV00069",
+      "Nomenclature": "COMMUNICATION SYSTE"
+    },
+    {
+      "ID": "INV00070",
+      "Nomenclature": "COMMUNICATIONS CENT"
+    },
+    {
+      "ID": "INV00071",
+      "Nomenclature": "COMMUNICATIONS CONT"
+    },
+    {
+      "ID": "INV00072",
+      "Nomenclature": "COMMUNICATIONS EQUI"
+    },
+    {
+      "ID": "INV00073",
+      "Nomenclature": "COMPASS,MAGNETIC,UN"
+    },
+    {
+      "ID": "INV00074",
+      "Nomenclature": "COMPRESSOR UNIT,REC"
+    },
+    {
+      "ID": "INV00075",
+      "Nomenclature": "COMPRESSOR,SCBA REF"
+    },
+    {
+      "ID": "INV00076",
+      "Nomenclature": "COMPUTER SET,DIGITA"
+    },
+    {
+      "ID": "INV00077",
+      "Nomenclature": "COMPUTER SYSTEM,DIG"
+    },
+    {
+      "ID": "INV00078",
+      "Nomenclature": "COMPUTER,BALLISTICS"
+    },
+    {
+      "ID": "INV00079",
+      "Nomenclature": "COMPUTER,DIGITAL"
+    },
+    {
+      "ID": "INV00080",
+      "Nomenclature": "COMPUTER,NAVIGATION"
+    },
+    {
+      "ID": "INV00081",
+      "Nomenclature": "CONTAINER TRAILER,W"
+    },
+    {
+      "ID": "INV00082",
+      "Nomenclature": "CONTAINER,FOOD"
+    },
+    {
+      "ID": "INV00083",
+      "Nomenclature": "CONTROL,COMMUNICATI"
+    },
+    {
+      "ID": "INV00084",
+      "Nomenclature": "CONTROL,RECEIVER"
+    },
+    {
+      "ID": "INV00085",
+      "Nomenclature": "CONTROLLER,VIDEO DI"
+    },
+    {
+      "ID": "INV00086",
+      "Nomenclature": "CONVERSION KIT,RIFL"
+    },
+    {
+      "ID": "INV00087",
+      "Nomenclature": "CONVERTER,FREQUENCY"
+    },
+    {
+      "ID": "INV00088",
+      "Nomenclature": "COOLING AND REFRIGE"
+    },
+    {
+      "ID": "INV00089",
+      "Nomenclature": "CORD,ELASTIC,PARACH"
+    },
+    {
+      "ID": "INV00090",
+      "Nomenclature": "COT,FOLDING"
+    },
+    {
+      "ID": "INV00091",
+      "Nomenclature": "COUNTER INTEL,HUMAN"
+    },
+    {
+      "ID": "INV00092",
+      "Nomenclature": "COUNTERMEASURES SET"
+    },
+    {
+      "ID": "INV00093",
+      "Nomenclature": "CYLINDER ASSEMBLY,O"
+    },
+    {
+      "ID": "INV00094",
+      "Nomenclature": "DATA DISTRIBUTION S"
+    },
+    {
+      "ID": "INV00095",
+      "Nomenclature": "DECISION SUPPORT"
+    },
+    {
+      "ID": "INV00096",
+      "Nomenclature": "DECODER RECEIVER"
+    },
+    {
+      "ID": "INV00097",
+      "Nomenclature": "DECODER-RECEIVER"
+    },
+    {
+      "ID": "INV00098",
+      "Nomenclature": "DEGREASER"
+    },
+    {
+      "ID": "INV00099",
+      "Nomenclature": "DEMOLITION SET,EXPL"
+    },
+    {
+      "ID": "INV00100",
+      "Nomenclature": "DEMOLITION SYSTEM R"
+    },
+    {
+      "ID": "INV00101",
+      "Nomenclature": "DESK,FIELD"
+    },
+    {
+      "ID": "INV00102",
+      "Nomenclature": "DETECTING SYSTEM,CO"
+    },
+    {
+      "ID": "INV00103",
+      "Nomenclature": "DETECTOR,EXPLOSIVE"
+    },
+    {
+      "ID": "INV00104",
+      "Nomenclature": "DETECTOR,RADIO FREQ"
+    },
+    {
+      "ID": "INV00105",
+      "Nomenclature": "DEVICE,PURGE"
+    },
+    {
+      "ID": "INV00106",
+      "Nomenclature": "DIAL BORE GAGE,MODE"
+    },
+    {
+      "ID": "INV00107",
+      "Nomenclature": "DIGITIZER,DATA ENTR"
+    },
+    {
+      "ID": "INV00108",
+      "Nomenclature": "DIRECTION FINDER CE"
+    },
+    {
+      "ID": "INV00109",
+      "Nomenclature": "DIRECTION FINDER GR"
+    },
+    {
+      "ID": "INV00110",
+      "Nomenclature": "DIRECTION FINDER SE"
+    },
+    {
+      "ID": "INV00111",
+      "Nomenclature": "DISK DRIVE UNIT"
+    },
+    {
+      "ID": "INV00112",
+      "Nomenclature": "DISPENSER,LIQUID,IN"
+    },
+    {
+      "ID": "INV00113",
+      "Nomenclature": "DISPOSABLE ANTI-TAN"
+    },
+    {
+      "ID": "INV00114",
+      "Nomenclature": "DISPOSAL KIT,EXPLOS"
+    },
+    {
+      "ID": "INV00115",
+      "Nomenclature": "DIVER PROPULSION DE"
+    },
+    {
+      "ID": "INV00116",
+      "Nomenclature": "DOME,AIRCRAFT RECON"
+    },
+    {
+      "ID": "INV00117",
+      "Nomenclature": "ELECTRONIC MAINTENA"
+    },
+    {
+      "ID": "INV00118",
+      "Nomenclature": "ENCRYPTION-DECRYPTI"
+    },
+    {
+      "ID": "INV00119",
+      "Nomenclature": "ENHANCED JOINT TERM"
+    },
+    {
+      "ID": "INV00120",
+      "Nomenclature": "EXP HYP CHMB SYS"
+    },
+    {
+      "ID": "INV00121",
+      "Nomenclature": "EXTRACTOR,TARGET,IN"
+    },
+    {
+      "ID": "INV00122",
+      "Nomenclature": "FILTER ASSEMBLY,INF"
+    },
+    {
+      "ID": "INV00123",
+      "Nomenclature": "FIRING DEVICE,DEMOL"
+    },
+    {
+      "ID": "INV00124",
+      "Nomenclature": "FIRING KIT,DEMOLITI"
+    },
+    {
+      "ID": "INV00125",
+      "Nomenclature": "FIRING MECHANISM,CA"
+    },
+    {
+      "ID": "INV00126",
+      "Nomenclature": "FIRING MECHANISM,RO"
+    },
+    {
+      "ID": "INV00127",
+      "Nomenclature": "FIRST LOOK"
+    },
+    {
+      "ID": "INV00128",
+      "Nomenclature": "FIXTURE,CROSSLEVELI"
+    },
+    {
+      "ID": "INV00129",
+      "Nomenclature": "FIXTURE,MEASURING,T"
+    },
+    {
+      "ID": "INV00130",
+      "Nomenclature": "FIXTURE,TEST,FIRE C"
+    },
+    {
+      "ID": "INV00131",
+      "Nomenclature": "FLASHLIGHT"
+    },
+    {
+      "ID": "INV00132",
+      "Nomenclature": "FOOD TRANSPORTER,IN"
+    },
+    {
+      "ID": "INV00133",
+      "Nomenclature": "FREQUENCY MEASURING"
+    },
+    {
+      "ID": "INV00134",
+      "Nomenclature": "FUEL PUMP MODULE AY"
+    },
+    {
+      "ID": "INV00135",
+      "Nomenclature": "FUEL TANK ASSEMBLY"
+    },
+    {
+      "ID": "INV00136",
+      "Nomenclature": "FUZE DISASSEMBLY SY"
+    },
+    {
+      "ID": "INV00137",
+      "Nomenclature": "GAGE KIT,SMALL ARMS"
+    },
+    {
+      "ID": "INV00138",
+      "Nomenclature": "GAGE,BARREL EROSION"
+    },
+    {
+      "ID": "INV00139",
+      "Nomenclature": "GAGE,BARREL,EROSION"
+    },
+    {
+      "ID": "INV00140",
+      "Nomenclature": "GAGE,BREECH BORE,MA"
+    },
+    {
+      "ID": "INV00141",
+      "Nomenclature": "GAGE,FIRING PIN PRO"
+    },
+    {
+      "ID": "INV00142",
+      "Nomenclature": "GAGE,HEADSPACE"
+    },
+    {
+      "ID": "INV00143",
+      "Nomenclature": "GAGE,MUZZLE AND BRE"
+    },
+    {
+      "ID": "INV00144",
+      "Nomenclature": "GAGE,PLUG,PLAIN CYL"
+    },
+    {
+      "ID": "INV00145",
+      "Nomenclature": "GAGE,PLUG,TAPER CYL"
+    },
+    {
+      "ID": "INV00146",
+      "Nomenclature": "GAGE,PRESSURE,DIAL"
+    },
+    {
+      "ID": "INV00147",
+      "Nomenclature": "GAGE,PROFILE"
+    },
+    {
+      "ID": "INV00148",
+      "Nomenclature": "GAGE,STRAIGHT"
+    },
+    {
+      "ID": "INV00149",
+      "Nomenclature": "GAGE,STRAIGHTNESS"
+    },
+    {
+      "ID": "INV00150",
+      "Nomenclature": "GENERATOR SET,DIESE"
+    },
+    {
+      "ID": "INV00151",
+      "Nomenclature": "GENERATOR,OXYGEN-NI"
+    },
+    {
+      "ID": "INV00152",
+      "Nomenclature": "GPS RETRANSMISSION"
+    },
+    {
+      "ID": "INV00153",
+      "Nomenclature": "GROUND SENSOR AND A"
+    },
+    {
+      "ID": "INV00154",
+      "Nomenclature": "GUN, 12.7X108MM DSH"
+    },
+    {
+      "ID": "INV00155",
+      "Nomenclature": "GUN, 7.62MM PKM GEN"
+    },
+    {
+      "ID": "INV00156",
+      "Nomenclature": "GUN, 7.62MM RPD LIG"
+    },
+    {
+      "ID": "INV00157",
+      "Nomenclature": "GUN,SUBCALIBER,7.62"
+    },
+    {
+      "ID": "INV00158",
+      "Nomenclature": "HANDSET"
+    },
+    {
+      "ID": "INV00159",
+      "Nomenclature": "HARDSHELL,OXYGEN MA"
+    },
+    {
+      "ID": "INV00160",
+      "Nomenclature": "HARNESS SPIE"
+    },
+    {
+      "ID": "INV00161",
+      "Nomenclature": "HELI VAC FAST ROPE"
+    },
+    {
+      "ID": "INV00162",
+      "Nomenclature": "HELI-VAC FAST ROPE"
+    },
+    {
+      "ID": "INV00163",
+      "Nomenclature": "HOLSTER,PISTOL"
+    },
+    {
+      "ID": "INV00164",
+      "Nomenclature": "HYDRAULIC IN-LINE T"
+    },
+    {
+      "ID": "INV00165",
+      "Nomenclature": "ILLUMINATOR,INFRARE"
+    },
+    {
+      "ID": "INV00166",
+      "Nomenclature": "ILLUMINATOR,INTEGRA"
+    },
+    {
+      "ID": "INV00167",
+      "Nomenclature": "IMAGE INTENSIFIER,N"
+    },
+    {
+      "ID": "INV00168",
+      "Nomenclature": "INSERTS,ENHANCED SM"
+    },
+    {
+      "ID": "INV00169",
+      "Nomenclature": "INSTALLATION AND EQ"
+    },
+    {
+      "ID": "INV00170",
+      "Nomenclature": "INSTALLATION KIT,PH"
+    },
+    {
+      "ID": "INV00171",
+      "Nomenclature": "INSTALLATION KIT,SH"
+    },
+    {
+      "ID": "INV00172",
+      "Nomenclature": "INTERFACE UNIT,COMM"
+    },
+    {
+      "ID": "INV00173",
+      "Nomenclature": "INVERTER,POWER,STAT"
+    },
+    {
+      "ID": "INV00174",
+      "Nomenclature": "JACK,DOLLY TYPE,HYD"
+    },
+    {
+      "ID": "INV00175",
+      "Nomenclature": "JOINT PRECISION AIR"
+    },
+    {
+      "ID": "INV00176",
+      "Nomenclature": "KIT BAG,FLYER'S"
+    },
+    {
+      "ID": "INV00177",
+      "Nomenclature": "KIT,EXTRACTION"
+    },
+    {
+      "ID": "INV00178",
+      "Nomenclature": "KIT,LIGHT SET TENT"
+    },
+    {
+      "ID": "INV00179",
+      "Nomenclature": "KIT,MEASUREMENT AND"
+    },
+    {
+      "ID": "INV00180",
+      "Nomenclature": "KIT,RIGGING AIRCRAF"
+    },
+    {
+      "ID": "INV00181",
+      "Nomenclature": "LAPTOP SERVER"
+    },
+    {
+      "ID": "INV00182",
+      "Nomenclature": "LASER BORESIGHT SYS"
+    },
+    {
+      "ID": "INV00183",
+      "Nomenclature": "LASER DETECTING SET"
+    },
+    {
+      "ID": "INV00184",
+      "Nomenclature": "LASER,DIRECTIONAL A"
+    },
+    {
+      "ID": "INV00185",
+      "Nomenclature": "LAUNCH UNIT,COMMAND"
+    },
+    {
+      "ID": "INV00186",
+      "Nomenclature": "LAUNCHER, RPG-7 ROC"
+    },
+    {
+      "ID": "INV00187",
+      "Nomenclature": "LAUNCHER,GRENADE"
+    },
+    {
+      "ID": "INV00188",
+      "Nomenclature": "LAUNCHER,PRACTICE,S"
+    },
+    {
+      "ID": "INV00189",
+      "Nomenclature": "LAUNCHER,ROCKET"
+    },
+    {
+      "ID": "INV00190",
+      "Nomenclature": "LAUNCHER,ROCKET,HIG"
+    },
+    {
+      "ID": "INV00191",
+      "Nomenclature": "LENS SET,LIGHT"
+    },
+    {
+      "ID": "INV00192",
+      "Nomenclature": "LENS,CAMERA,GENERAL"
+    },
+    {
+      "ID": "INV00193",
+      "Nomenclature": "LIGHT ARMORED VEHIC"
+    },
+    {
+      "ID": "INV00194",
+      "Nomenclature": "LIGHT SET,GENERAL I"
+    },
+    {
+      "ID": "INV00195",
+      "Nomenclature": "LIGHT TACTICAL TRAI"
+    },
+    {
+      "ID": "INV00196",
+      "Nomenclature": "LIGHT,AIMING POST"
+    },
+    {
+      "ID": "INV00197",
+      "Nomenclature": "LIGHTWEIGHT MAINTEN"
+    },
+    {
+      "ID": "INV00198",
+      "Nomenclature": "LOAD BANK,ELECTRICA"
+    },
+    {
+      "ID": "INV00199",
+      "Nomenclature": "LOADER,SCOOP TYPE"
+    },
+    {
+      "ID": "INV00200",
+      "Nomenclature": "LUBRICATING UNIT,PO"
+    },
+    {
+      "ID": "INV00201",
+      "Nomenclature": "MACHINE GUN .338"
+    },
+    {
+      "ID": "INV00202",
+      "Nomenclature": "MACHINE GUN,5.56 MI"
+    },
+    {
+      "ID": "INV00203",
+      "Nomenclature": "MACHINE GUN,7.62 MI"
+    },
+    {
+      "ID": "INV00204",
+      "Nomenclature": "MACHINE GUN,CALIBER"
+    },
+    {
+      "ID": "INV00205",
+      "Nomenclature": "MACHINE GUN,GRENADE"
+    },
+    {
+      "ID": "INV00206",
+      "Nomenclature": "MAINTENANCE KIT"
+    },
+    {
+      "ID": "INV00207",
+      "Nomenclature": "MAINTENANCE KIT,ELE"
+    },
+    {
+      "ID": "INV00208",
+      "Nomenclature": "MAINTENANCE KIT,GUN"
+    },
+    {
+      "ID": "INV00209",
+      "Nomenclature": "MAINTENANCE KIT,TEL"
+    },
+    {
+      "ID": "INV00210",
+      "Nomenclature": "MANAGEMENT SYSTEM,B"
+    },
+    {
+      "ID": "INV00211",
+      "Nomenclature": "MARINE BREACHER KIT"
+    },
+    {
+      "ID": "INV00212",
+      "Nomenclature": "MARINE BREAKER KIT,"
+    },
+    {
+      "ID": "INV00213",
+      "Nomenclature": "MARKER,LASER"
+    },
+    {
+      "ID": "INV00214",
+      "Nomenclature": "MASK,UNDERWATER"
+    },
+    {
+      "ID": "INV00215",
+      "Nomenclature": "MC SPEC OPS CMD"
+    },
+    {
+      "ID": "INV00216",
+      "Nomenclature": "MEDICAL AIRWAY MANA"
+    },
+    {
+      "ID": "INV00217",
+      "Nomenclature": "MEDIUM HEAVY EQUIPM"
+    },
+    {
+      "ID": "INV00218",
+      "Nomenclature": "MEMORY UNIT,DATA ST"
+    },
+    {
+      "ID": "INV00219",
+      "Nomenclature": "METAL DETECTOR"
+    },
+    {
+      "ID": "INV00220",
+      "Nomenclature": "METEOROLOGICAL MEAS"
+    },
+    {
+      "ID": "INV00221",
+      "Nomenclature": "MICROPHONE,CRYSTAL"
+    },
+    {
+      "ID": "INV00222",
+      "Nomenclature": "MK 25 MOD 2 UBA"
+    },
+    {
+      "ID": "INV00223",
+      "Nomenclature": "MOBILE LASER"
+    },
+    {
+      "ID": "INV00224",
+      "Nomenclature": "MODEM,COMMUNICATION"
+    },
+    {
+      "ID": "INV00225",
+      "Nomenclature": "MONOCULAR,STABILIZE"
+    },
+    {
+      "ID": "INV00226",
+      "Nomenclature": "MORTAR, 82MM 2B14 P"
+    },
+    {
+      "ID": "INV00227",
+      "Nomenclature": "MORTAR,60 MILLIMETE"
+    },
+    {
+      "ID": "INV00228",
+      "Nomenclature": "MORTAR,81 MILLIMETE"
+    },
+    {
+      "ID": "INV00229",
+      "Nomenclature": "MOUNT,GUN"
+    },
+    {
+      "ID": "INV00230",
+      "Nomenclature": "MOUNT,MACHINE GUN"
+    },
+    {
+      "ID": "INV00231",
+      "Nomenclature": "MOUNT,TELESCOPE"
+    },
+    {
+      "ID": "INV00232",
+      "Nomenclature": "MOUNT,TRIPOD,MACHIN"
+    },
+    {
+      "ID": "INV00233",
+      "Nomenclature": "MULTI MISSION PARAC"
+    },
+    {
+      "ID": "INV00234",
+      "Nomenclature": "MULTI RADIO POWER A"
+    },
+    {
+      "ID": "INV00235",
+      "Nomenclature": "MULTIMETER"
+    },
+    {
+      "ID": "INV00236",
+      "Nomenclature": "NAVIGATION SET,SATE"
+    },
+    {
+      "ID": "INV00237",
+      "Nomenclature": "NETWORK MANAGEMENT"
+    },
+    {
+      "ID": "INV00238",
+      "Nomenclature": "NIGHT VISION SIGHT"
+    },
+    {
+      "ID": "INV00239",
+      "Nomenclature": "NSN NOT PROCURABLE"
+    },
+    {
+      "ID": "INV00240",
+      "Nomenclature": "OHMMETER"
+    },
+    {
+      "ID": "INV00241",
+      "Nomenclature": "OPEN WATER SAFETY C"
+    },
+    {
+      "ID": "INV00242",
+      "Nomenclature": "OPTICAL READER SET,"
+    },
+    {
+      "ID": "INV00243",
+      "Nomenclature": "OUTBOARD ENG MAIN K"
+    },
+    {
+      "ID": "INV00244",
+      "Nomenclature": "OUTBOARD ENGINE KIT"
+    },
+    {
+      "ID": "INV00245",
+      "Nomenclature": "OXYGEN SYSTEM,AIRCR"
+    },
+    {
+      "ID": "INV00246",
+      "Nomenclature": "PANEL,POWER DISTRIB"
+    },
+    {
+      "ID": "INV00247",
+      "Nomenclature": "PARACHUTE SYSTEM 2"
+    },
+    {
+      "ID": "INV00248",
+      "Nomenclature": "PARACHUTE,CARGO"
+    },
+    {
+      "ID": "INV00249",
+      "Nomenclature": "PARACHUTE,CARGO EXT"
+    },
+    {
+      "ID": "INV00250",
+      "Nomenclature": "PARACHUTE,PERSONNEL"
+    },
+    {
+      "ID": "INV00251",
+      "Nomenclature": "PARTS KIT,DIESEL EN"
+    },
+    {
+      "ID": "INV00252",
+      "Nomenclature": "PERISCOPE,PORTABLE"
+    },
+    {
+      "ID": "INV00253",
+      "Nomenclature": "PISTOL,9MM,SEMIAUTO"
+    },
+    {
+      "ID": "INV00254",
+      "Nomenclature": "PLOTTER SYSTEM,GRAP"
+    },
+    {
+      "ID": "INV00255",
+      "Nomenclature": "PORTABLE COMPRESSOR"
+    },
+    {
+      "ID": "INV00256",
+      "Nomenclature": "POUCH,MONOCULAR NIG"
+    },
+    {
+      "ID": "INV00257",
+      "Nomenclature": "POWER SUPPLY"
+    },
+    {
+      "ID": "INV00258",
+      "Nomenclature": "POWER SUPPLY 18-30V"
+    },
+    {
+      "ID": "INV00259",
+      "Nomenclature": "PRINTER,LASER JET"
+    },
+    {
+      "ID": "INV00260",
+      "Nomenclature": "PRINTER,THREE-DIMEN"
+    },
+    {
+      "ID": "INV00261",
+      "Nomenclature": "PROCESSOR,DISPLAY A"
+    },
+    {
+      "ID": "INV00262",
+      "Nomenclature": "PROCESSOR,GATEWAY"
+    },
+    {
+      "ID": "INV00263",
+      "Nomenclature": "PROGRAM SET,APPLICA"
+    },
+    {
+      "ID": "INV00264",
+      "Nomenclature": "PURGING KIT,FIRE CO"
+    },
+    {
+      "ID": "INV00265",
+      "Nomenclature": "RADIAC SET"
+    },
+    {
+      "ID": "INV00266",
+      "Nomenclature": "RADIO SET"
+    },
+    {
+      "ID": "INV00267",
+      "Nomenclature": "RANGE FINDER,LASER"
+    },
+    {
+      "ID": "INV00268",
+      "Nomenclature": "RANGE FINDER-TARGET"
+    },
+    {
+      "ID": "INV00269",
+      "Nomenclature": "RECEIVE SUITE"
+    },
+    {
+      "ID": "INV00270",
+      "Nomenclature": "RECEIVER TRANSMITTE"
+    },
+    {
+      "ID": "INV00271",
+      "Nomenclature": "RECEIVER,CARTRIDGE"
+    },
+    {
+      "ID": "INV00272",
+      "Nomenclature": "RECEIVER,COORDINATE"
+    },
+    {
+      "ID": "INV00273",
+      "Nomenclature": "RECEIVER,DIGITAL DA"
+    },
+    {
+      "ID": "INV00274",
+      "Nomenclature": "RECEIVER,INSTANTANE"
+    },
+    {
+      "ID": "INV00275",
+      "Nomenclature": "RECEIVER,RADIO"
+    },
+    {
+      "ID": "INV00276",
+      "Nomenclature": "RECEIVER,RADIO NAVI"
+    },
+    {
+      "ID": "INV00277",
+      "Nomenclature": "RECEIVER-TRANSMITTE"
+    },
+    {
+      "ID": "INV00278",
+      "Nomenclature": "RECEIVING SET,RADIO"
+    },
+    {
+      "ID": "INV00279",
+      "Nomenclature": "RECON PARA RIG TL K"
+    },
+    {
+      "ID": "INV00280",
+      "Nomenclature": "RECONNAISSANCE SYST"
+    },
+    {
+      "ID": "INV00281",
+      "Nomenclature": "RECORDER GROUP"
+    },
+    {
+      "ID": "INV00282",
+      "Nomenclature": "RECORDER SET,SOUND"
+    },
+    {
+      "ID": "INV00283",
+      "Nomenclature": "RECORDER SET,VIDEO"
+    },
+    {
+      "ID": "INV00284",
+      "Nomenclature": "RECORDER,SOUND"
+    },
+    {
+      "ID": "INV00285",
+      "Nomenclature": "RECORDER,VIDEO"
+    },
+    {
+      "ID": "INV00286",
+      "Nomenclature": "RECORDER-REPRODUCER"
+    },
+    {
+      "ID": "INV00287",
+      "Nomenclature": "RELEASE,CARGO PARAC"
+    },
+    {
+      "ID": "INV00288",
+      "Nomenclature": "REMOTE CONTROL RADI"
+    },
+    {
+      "ID": "INV00289",
+      "Nomenclature": "REPRODUCER,DISK MED"
+    },
+    {
+      "ID": "INV00290",
+      "Nomenclature": "RIFLE, 5.45MM AK-74"
+    },
+    {
+      "ID": "INV00291",
+      "Nomenclature": "RIFLE, 7.62M AK-47"
+    },
+    {
+      "ID": "INV00292",
+      "Nomenclature": "RIFLE, 7.62MM G3 AS"
+    },
+    {
+      "ID": "INV00293",
+      "Nomenclature": "RIFLE, 7.62MM SVD S"
+    },
+    {
+      "ID": "INV00294",
+      "Nomenclature": "RIFLE,5.56 MILLIMET"
+    },
+    {
+      "ID": "INV00295",
+      "Nomenclature": "RIFLE,7.62 MILLIMET"
+    },
+    {
+      "ID": "INV00296",
+      "Nomenclature": "RIFLE,RECOILLESS,84"
+    },
+    {
+      "ID": "INV00297",
+      "Nomenclature": "RIFLE,SNIPER"
+    },
+    {
+      "ID": "INV00298",
+      "Nomenclature": "RIS-LITE COMM SYSTE"
+    },
+    {
+      "ID": "INV00299",
+      "Nomenclature": "ROCKET, INERT RPG-7"
+    },
+    {
+      "ID": "INV00300",
+      "Nomenclature": "ROPE ASSEMBLY,INSER"
+    },
+    {
+      "ID": "INV00301",
+      "Nomenclature": "ROUGH TERRAIN CONTA"
+    },
+    {
+      "ID": "INV00302",
+      "Nomenclature": "SATELLITE COMMUNICA"
+    },
+    {
+      "ID": "INV00303",
+      "Nomenclature": "SCALE,WEIGHING"
+    },
+    {
+      "ID": "INV00304",
+      "Nomenclature": "SCREWDRIVER,TORQUE"
+    },
+    {
+      "ID": "INV00305",
+      "Nomenclature": "SEAL,HAND IMPRESSIO"
+    },
+    {
+      "ID": "INV00306",
+      "Nomenclature": "SEALER,STEEL STRAPP"
+    },
+    {
+      "ID": "INV00307",
+      "Nomenclature": "SEARCHLIGHT"
+    },
+    {
+      "ID": "INV00308",
+      "Nomenclature": "SECURITY DATA SYSTE"
+    },
+    {
+      "ID": "INV00309",
+      "Nomenclature": "SENSOR UNIT,ANTI-IN"
+    },
+    {
+      "ID": "INV00310",
+      "Nomenclature": "SERVER GROUP,NETWOR"
+    },
+    {
+      "ID": "INV00311",
+      "Nomenclature": "SERVER,INTELLIGENCE"
+    },
+    {
+      "ID": "INV00312",
+      "Nomenclature": "SEWING MACHINE,INDU"
+    },
+    {
+      "ID": "INV00313",
+      "Nomenclature": "SHELTER,10FT RIGID"
+    },
+    {
+      "ID": "INV00314",
+      "Nomenclature": "SHELTER,EXPANDABLE"
+    },
+    {
+      "ID": "INV00315",
+      "Nomenclature": "SHIPPING AND STORAG"
+    },
+    {
+      "ID": "INV00316",
+      "Nomenclature": "SHOP EGUIPMENT,GP N"
+    },
+    {
+      "ID": "INV00317",
+      "Nomenclature": "SHOP EQPT,GEN PURPO"
+    },
+    {
+      "ID": "INV00318",
+      "Nomenclature": "SHOP EQUIPMENT,GENE"
+    },
+    {
+      "ID": "INV00319",
+      "Nomenclature": "SHOTGUN,12 GAGE,RIO"
+    },
+    {
+      "ID": "INV00320",
+      "Nomenclature": "SHOTGUN,COMBAT"
+    },
+    {
+      "ID": "INV00321",
+      "Nomenclature": "SIGHT UNIT"
+    },
+    {
+      "ID": "INV00322",
+      "Nomenclature": "SIGHT UNIT,MECHANIC"
+    },
+    {
+      "ID": "INV00323",
+      "Nomenclature": "SIGHT,BORE,OPTICAL"
+    },
+    {
+      "ID": "INV00324",
+      "Nomenclature": "SIGHT,HOLOGRAPHIC"
+    },
+    {
+      "ID": "INV00325",
+      "Nomenclature": "SIGHT,INFINITY"
+    },
+    {
+      "ID": "INV00326",
+      "Nomenclature": "SIGHT,NIGHT VISION"
+    },
+    {
+      "ID": "INV00327",
+      "Nomenclature": "SIGHT,REFLEX"
+    },
+    {
+      "ID": "INV00328",
+      "Nomenclature": "SIGHT,THERMAL"
+    },
+    {
+      "ID": "INV00329",
+      "Nomenclature": "SIGHT,UNS,AN,PVS22"
+    },
+    {
+      "ID": "INV00330",
+      "Nomenclature": "SILENCER,GUN"
+    },
+    {
+      "ID": "INV00331",
+      "Nomenclature": "SOFTWARE KIT"
+    },
+    {
+      "ID": "INV00332",
+      "Nomenclature": "SOLAR PORTABLE ALTE"
+    },
+    {
+      "ID": "INV00333",
+      "Nomenclature": "SPECIAL TOOL KIT,FI"
+    },
+    {
+      "ID": "INV00334",
+      "Nomenclature": "SPECTACLES,INDUSTRI"
+    },
+    {
+      "ID": "INV00335",
+      "Nomenclature": "SPOUT,CAN,FLEXIBLE"
+    },
+    {
+      "ID": "INV00336",
+      "Nomenclature": "STAND,VEHICLE SUPPO"
+    },
+    {
+      "ID": "INV00337",
+      "Nomenclature": "STOW AND GO KIT COM"
+    },
+    {
+      "ID": "INV00338",
+      "Nomenclature": "STRAP CUTTER,RESCUE"
+    },
+    {
+      "ID": "INV00339",
+      "Nomenclature": "SUPPLEMENTARY KIT,E"
+    },
+    {
+      "ID": "INV00340",
+      "Nomenclature": "SUPPRESSOR,SMALL AR"
+    },
+    {
+      "ID": "INV00341",
+      "Nomenclature": "SURVEILLANCE SYSTEM"
+    },
+    {
+      "ID": "INV00342",
+      "Nomenclature": "SURVEILLANCE,THERMA"
+    },
+    {
+      "ID": "INV00343",
+      "Nomenclature": "SURVEYING SET,FIELD"
+    },
+    {
+      "ID": "INV00344",
+      "Nomenclature": "SWITCHING UNIT,AUDI"
+    },
+    {
+      "ID": "INV00345",
+      "Nomenclature": "SWORD AND SCABBARD"
+    },
+    {
+      "ID": "INV00346",
+      "Nomenclature": "TABLE,PARACHUTE PAC"
+    },
+    {
+      "ID": "INV00347",
+      "Nomenclature": "TACTICAL EXPLOITATI"
+    },
+    {
+      "ID": "INV00348",
+      "Nomenclature": "TANK AND PUMP UNIT,"
+    },
+    {
+      "ID": "INV00349",
+      "Nomenclature": "TANK,WATER,MODULE"
+    },
+    {
+      "ID": "INV00350",
+      "Nomenclature": "TARGET LOCATION,DES"
+    },
+    {
+      "ID": "INV00351",
+      "Nomenclature": "TELECONFERENCE SYST"
+    },
+    {
+      "ID": "INV00352",
+      "Nomenclature": "TELEPHONE,CELLULAR"
+    },
+    {
+      "ID": "INV00353",
+      "Nomenclature": "TELEPHONE,SECURE UN"
+    },
+    {
+      "ID": "INV00354",
+      "Nomenclature": "TELESCOPE,ARTICULAT"
+    },
+    {
+      "ID": "INV00355",
+      "Nomenclature": "TELESCOPE,ELBOW"
+    },
+    {
+      "ID": "INV00356",
+      "Nomenclature": "TELESCOPE,NON-INVER"
+    },
+    {
+      "ID": "INV00357",
+      "Nomenclature": "TELESCOPE,STRAIGHT"
+    },
+    {
+      "ID": "INV00358",
+      "Nomenclature": "TENT"
+    },
+    {
+      "ID": "INV00359",
+      "Nomenclature": "TENT,COMBAT,TWO MAN"
+    },
+    {
+      "ID": "INV00360",
+      "Nomenclature": "TEST FIXTURE,TELESC"
+    },
+    {
+      "ID": "INV00361",
+      "Nomenclature": "TEST SET,ELECTRONIC"
+    },
+    {
+      "ID": "INV00362",
+      "Nomenclature": "TEST SET,RADIO"
+    },
+    {
+      "ID": "INV00363",
+      "Nomenclature": "TEST SET,RADIO FREQ"
+    },
+    {
+      "ID": "INV00364",
+      "Nomenclature": "TEST SET,TELECOMMUN"
+    },
+    {
+      "ID": "INV00365",
+      "Nomenclature": "TEST STAND,DEMAND O"
+    },
+    {
+      "ID": "INV00366",
+      "Nomenclature": "TESTER,AUTOMATIC TR"
+    },
+    {
+      "ID": "INV00367",
+      "Nomenclature": "TESTER,HYDRAULIC HO"
+    },
+    {
+      "ID": "INV00368",
+      "Nomenclature": "THEATER MEDICAL INF"
+    },
+    {
+      "ID": "INV00369",
+      "Nomenclature": "THERMAL IMAGING SYS"
+    },
+    {
+      "ID": "INV00370",
+      "Nomenclature": "TIE DOWN,CARGO,AIRC"
+    },
+    {
+      "ID": "INV00371",
+      "Nomenclature": "TIMING GAGE,WEAR LI"
+    },
+    {
+      "ID": "INV00372",
+      "Nomenclature": "TOOL AND EQUIPMENT"
+    },
+    {
+      "ID": "INV00373",
+      "Nomenclature": "TOOL AND GAGE SET,I"
+    },
+    {
+      "ID": "INV00374",
+      "Nomenclature": "TOOL KIT MTVR LVSR"
+    },
+    {
+      "ID": "INV00375",
+      "Nomenclature": "TOOL KIT,2ND ECHELO"
+    },
+    {
+      "ID": "INV00376",
+      "Nomenclature": "TOOL KIT,3RD ECHELO"
+    },
+    {
+      "ID": "INV00377",
+      "Nomenclature": "TOOL KIT,AIR CONDIT"
+    },
+    {
+      "ID": "INV00378",
+      "Nomenclature": "TOOL KIT,ARTILLERY"
+    },
+    {
+      "ID": "INV00379",
+      "Nomenclature": "TOOL KIT,BORESIGHT,"
+    },
+    {
+      "ID": "INV00380",
+      "Nomenclature": "TOOL KIT,CARPENTER'"
+    },
+    {
+      "ID": "INV00381",
+      "Nomenclature": "TOOL KIT,COMMUNICAT"
+    },
+    {
+      "ID": "INV00382",
+      "Nomenclature": "TOOL KIT,ELECTRICAL"
+    },
+    {
+      "ID": "INV00383",
+      "Nomenclature": "TOOL KIT,ELECTRONIC"
+    },
+    {
+      "ID": "INV00384",
+      "Nomenclature": "TOOL KIT,ELECTRO-OP"
+    },
+    {
+      "ID": "INV00385",
+      "Nomenclature": "TOOL KIT,EXPLOSIVE"
+    },
+    {
+      "ID": "INV00386",
+      "Nomenclature": "TOOL KIT,GENERAL ME"
+    },
+    {
+      "ID": "INV00387",
+      "Nomenclature": "TOOL KIT,IMPROVISED"
+    },
+    {
+      "ID": "INV00388",
+      "Nomenclature": "TOOL KIT,LINEMAN'S"
+    },
+    {
+      "ID": "INV00389",
+      "Nomenclature": "TOOL KIT,LOCKSMITH"
+    },
+    {
+      "ID": "INV00390",
+      "Nomenclature": "TOOL KIT,ORGANIZATI"
+    },
+    {
+      "ID": "INV00391",
+      "Nomenclature": "TOOL KIT,PARACHUTE"
+    },
+    {
+      "ID": "INV00392",
+      "Nomenclature": "TOOL KIT,PARACHUTIS"
+    },
+    {
+      "ID": "INV00393",
+      "Nomenclature": "TOOL KIT,REFRIGERAT"
+    },
+    {
+      "ID": "INV00394",
+      "Nomenclature": "TOOL KIT,SMALL ARMS"
+    },
+    {
+      "ID": "INV00395",
+      "Nomenclature": "TOOL KIT,VEHICLE,TA"
+    },
+    {
+      "ID": "INV00396",
+      "Nomenclature": "TOOL SET,DIRECT AND"
+    },
+    {
+      "ID": "INV00397",
+      "Nomenclature": "TOOL SET,INTERMEDIA"
+    },
+    {
+      "ID": "INV00398",
+      "Nomenclature": "TOOL SET,ORGANI INT"
+    },
+    {
+      "ID": "INV00399",
+      "Nomenclature": "TOOL SET,ORGANIZATI"
+    },
+    {
+      "ID": "INV00400",
+      "Nomenclature": "TOWBAR,MOTOR VEHICL"
+    },
+    {
+      "ID": "INV00401",
+      "Nomenclature": "TRAILER,CARGO"
+    },
+    {
+      "ID": "INV00402",
+      "Nomenclature": "TRAILER,FLAT BED"
+    },
+    {
+      "ID": "INV00403",
+      "Nomenclature": "TRAILER,TANK"
+    },
+    {
+      "ID": "INV00404",
+      "Nomenclature": "TRAINING KIT,MARTIA"
+    },
+    {
+      "ID": "INV00405",
+      "Nomenclature": "TRAINING SET,VOICE"
+    },
+    {
+      "ID": "INV00406",
+      "Nomenclature": "TRANSFER UNIT,CRYPT"
+    },
+    {
+      "ID": "INV00407",
+      "Nomenclature": "TRANSFER,PUMP,SYS"
+    },
+    {
+      "ID": "INV00408",
+      "Nomenclature": "TRANSMITTER,COORDIN"
+    },
+    {
+      "ID": "INV00409",
+      "Nomenclature": "TRANSMITTER,LASER"
+    },
+    {
+      "ID": "INV00410",
+      "Nomenclature": "TRANSMITTER,RADIO"
+    },
+    {
+      "ID": "INV00411",
+      "Nomenclature": "TRANSMITTING SET,RA"
+    },
+    {
+      "ID": "INV00412",
+      "Nomenclature": "TRK,ARMORED,XLWB CA"
+    },
+    {
+      "ID": "INV00413",
+      "Nomenclature": "TRUCK TIRE CHANGER"
+    },
+    {
+      "ID": "INV00414",
+      "Nomenclature": "TRUCK,AMBULANCE"
+    },
+    {
+      "ID": "INV00415",
+      "Nomenclature": "TRUCK,ARMORED,CARGO"
+    },
+    {
+      "ID": "INV00416",
+      "Nomenclature": "TRUCK,ARMORED,XLWB"
+    },
+    {
+      "ID": "INV00417",
+      "Nomenclature": "TRUCK,CARGO"
+    },
+    {
+      "ID": "INV00418",
+      "Nomenclature": "TRUCK,DUMP,7 TON WI"
+    },
+    {
+      "ID": "INV00419",
+      "Nomenclature": "TRUCK,LIFT,FORK"
+    },
+    {
+      "ID": "INV00420",
+      "Nomenclature": "TRUCK,TRACTOR LVSR"
+    },
+    {
+      "ID": "INV00421",
+      "Nomenclature": "TRUCK,UTILITY"
+    },
+    {
+      "ID": "INV00422",
+      "Nomenclature": "TRUCK,WRECKER,ARMOR"
+    },
+    {
+      "ID": "INV00423",
+      "Nomenclature": "TRUCK,WRECKER,LVSR"
+    },
+    {
+      "ID": "INV00424",
+      "Nomenclature": "UNIT MOVE WORK STAT"
+    },
+    {
+      "ID": "INV00425",
+      "Nomenclature": "UNMANNED AIRCRAFT"
+    },
+    {
+      "ID": "INV00426",
+      "Nomenclature": "UNMANNED AIRCRAFT S"
+    },
+    {
+      "ID": "INV00427",
+      "Nomenclature": "UNMANNED VEHICLE,GR"
+    },
+    {
+      "ID": "INV00428",
+      "Nomenclature": "UTILITY VEHICLE,OFF"
+    },
+    {
+      "ID": "INV00429",
+      "Nomenclature": "VEST,DIVER'S SUIT"
+    },
+    {
+      "ID": "INV00430",
+      "Nomenclature": "VIDEO CAMERA SYSTEM"
+    },
+    {
+      "ID": "INV00431",
+      "Nomenclature": "VIDEO INSPECTION KI"
+    },
+    {
+      "ID": "INV00432",
+      "Nomenclature": "VIDEO TERMINAL,MULT"
+    },
+    {
+      "ID": "INV00433",
+      "Nomenclature": "VIEWER KIT,NIGHT VI"
+    },
+    {
+      "ID": "INV00434",
+      "Nomenclature": "VIEWER,NIGHT VISION"
+    },
+    {
+      "ID": "INV00435",
+      "Nomenclature": "WATCH,WRIST"
+    },
+    {
+      "ID": "INV00436",
+      "Nomenclature": "WEIGHT SET,COMMERCI"
+    },
+    {
+      "ID": "INV00437",
+      "Nomenclature": "WELDING SHOP,MARINE"
+    },
+    {
+      "ID": "INV00438",
+      "Nomenclature": "WIRE DETECTION,COMM"
+    },
+    {
+      "ID": "INV00439",
+      "Nomenclature": "WORKSTATION,GEOSPAT"
+    },
+    {
+      "ID": "INV00440",
+      "Nomenclature": "WORKSTATION,PORTABL"
+    },
+    {
+      "ID": "INV00441",
+      "Nomenclature": "WRENCH,IMPACT,PNEUM"
+    },
+    {
+      "ID": "INV00442",
+      "Nomenclature": "WRENCH,TORQUE"
+    },
+    {
+      "ID": "INV00443",
+      "Nomenclature": "X-RAY APPARATUS,RAD"
+    }
+  ]

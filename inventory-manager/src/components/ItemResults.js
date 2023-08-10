@@ -1,30 +1,33 @@
-import { Container, Row, Col } from 'react-bootstrap';
+import "bootstrap/dist/css/bootstrap.min.css";
+import {  Row, Col } from 'react-bootstrap';
 import fullInventory from '../api/inventory.json';
-//import {useState} from "react";
 
-const ItemResults = (props) => {
-    //const [select,setSelect] = useState()
-    let arr = []
-    let results = []
-    Object.keys(fullInventory).forEach(function(key) {
-        arr.push(fullInventory[key]);
-    });
-    console.log(props.value);
-    results = arr.filter((data) => {return data.NIIN === props.value;})
-    console.log(results);
-    const buildTable = (item, index)=>{
-        <Row><Col>{item.TAMCN}</Col></Row>
-    }
-    return(
-        <>
-        <Container>
-            {results.forEach(buildTable)}
+//Pass the property(ies) from SelectItem to to ItemResults and return all results to the screen
+const ItemResults = (selectedItem) => {
 
-        </Container>
-        </>
-    )
+    let results = [];
+    //filter the full inventory list based on selected components
+    results = fullInventory.filter((data) => {return data.Nomenclature === selectedItem.value;})
+
+        return (
+                
+                <>
+                 {results.map(( listValue, index ) => {
+                    
+                    return(
+                    <Row key={index} className="show-grid">
+                        <Col xs={3}>{listValue.Nomenclature}</Col>
+                        <Col>{listValue.TAMCN}</Col>
+                        <Col>{listValue.AAC}</Col>
+                        <Col>{listValue.Account_Number}</Col>
+                        <Col>{listValue.NIIN}</Col>
+                        <Col>{listValue.Count_of_Serial_Number}</Col>
+                        <Col>{listValue.Sum_of_Quantity}</Col>
+                        <Col>{listValue.Sum_of_Unit_Price}</Col>
+                    </Row>
+                )})}
+                </>
+        );
 
 };
-        /*         <Col>{data.TAMCN}</Col><Col>{data.AAC}</Col><Col>{data.SUC}</Col><Col>{data.Account_Number}</Col><Col>{data.Nomenclature}</Col><Col>{data.NIIN}</Col><Col>{data.Count_of_Serial_Number}</Col><Col>{data.Sum_of_Quantity}</Col><Col>{data.Sum_of_Unit_Price}</Col>             */
-
 export default ItemResults;

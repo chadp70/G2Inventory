@@ -1,25 +1,37 @@
-//import { Container, Row, Col } from "react-bootstrap";
-import inventoryData from '../api/NIIN.json';
+import { Row,Col} from "react-bootstrap";
+import inventoryItem from '../api/inventoryItem.json';
 import {useState} from "react";
 import ItemResults from './ItemResults';
 const SelectItem = () => {
     const [select,setSelect] = useState()
-    let arr = []
-    //console.log(inventoryData)
-    Object.keys(inventoryData).forEach(function(key) {
-        arr.push(inventoryData[key]);
-      });
-    
+
     function handleChange(e) {
-       //console.log(e.target.value);
        setSelect(e.target.value);
     }
+
     return (
         <>
-        <select onChange={handleChange}>
-        {arr.map(data => (<option key={data.ID} value={data.NIIN}>{data.Nomenclature}</option>))}
-        </select>
+        <Row>&nbsp;</Row>
+        <Row>
+            <Col>
+                Select Inventory Item: <select onChange={handleChange}><option>SELECT AN ITEM</option>
+                    {inventoryItem.map(data => (<option key={data.ID} value={data.Nomenclature}>{data.Nomenclature}</option>))}
+                </select>
+            </Col>
+        </Row>
+        <Row>&nbsp;</Row>
+        <Row className="bg-secondary text-white">
+            <Col xs={3}>Nomenclature</Col>
+            <Col>TAMCN</Col>
+            <Col>AAC</Col>
+            <Col>Account_Number</Col>
+            <Col>NIIN</Col>
+            <Col>Count of Serial</Col>
+            <Col>Sum of Quantity</Col>
+            <Col>Sum of Unit Price</Col>
+        </Row>
         <ItemResults value={select}/>
+       
         </>
     );
 
