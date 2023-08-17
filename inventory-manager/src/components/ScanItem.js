@@ -1,39 +1,41 @@
-import {Button, Form, Row, Col} from 'react-bootstrap';
-import {useState, useEffect} from "react";
+import {Row, Col} from 'react-bootstrap';
+import {useState, useEffect, useRef} from "react";
 import "../css/ScanItem.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import ItemResults from './ItemResults';
 
 const ScanItem = () => {
-    
-    function handleChange(e) {
-        document.getElementById("btnScanItem").disabled = false;
-        setSelect(e.target.value);
-     }
+    const scannerValue = useRef();
+    scannerValue.current = "";
 
-     const allowScan = ()=>{
-        setHideText(false);
-        document.getElementById("btnScanItem").disabled = true;
-        document.getElementById("scanText").value="";
-        document.getElementById("scanText").focus();
-        
-        
-
-     }
-    const [select,setSelect] = useState()
-    const [hideText, setHideText] = useState();
+    const [select,setSelect] = useState();
     
-    useEffect(()=>{
-        setHideText(true);
-    },[])
+    useEffect(() => {
+      const handleKeydown = (e) => {
+        if(e.key !== "Shift"){
+          if(e.key !== "Enter"){
+            //console.log(e.key);
+            scannerValue.current += e.key;
+          }else{
+            setSelect(scannerValue.current);
+            console.log(scannerValue.current);
+            scannerValue.current = "";
+          }
+          
+        }
+        // Called when browser window is resized
+      };
+  
+      window.addEventListener("keydown", handleKeydown);
+      return () => {
+        window.removeEventListener("keydown", handleKeydown);
+      };
+    }, []);
 
   return (
     
-    <>
-    
-      <Button variant="primary" id='btnScanItem' onClick={()=>allowScan()}>Scan Item</Button>
-      <Form.Control type="text" id='scanText' className={hideText ? "hidden" : ""} onChange={handleChange} placeholder='Scan Item'/>
-      <Row>&nbsp;</Row>
+    <>   
+      <Row><h5>Scan Inventory Item:</h5></Row>
         <Row className="bg-secondary text-white">
             <Col xs={3}>Nomenclature</Col>
             <Col>TAMCN</Col>

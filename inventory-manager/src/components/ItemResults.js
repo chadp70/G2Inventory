@@ -7,7 +7,8 @@ const ItemResults = (selectedItem) => {
 
     let results = [];
     //filter the full inventory list based on selected components
-    results = fullInventory.filter((data) => {return data.ScannerID === selectedItem.value;})
+    results = fullInventory.filter((data) => {
+        return data.ScannerID === selectedItem.value;})
 
         return (
                 
