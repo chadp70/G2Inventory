@@ -9,7 +9,7 @@
     "Count_of_Serial_Number": "",
     "Sum_of_Quantity": "22",
     "Sum_of_Unit_Price": "$40,114.62",
-    "ScannerID": "NONE"
+    "ScannerID": "123456789"
   },
   {
     "TAMCN": "K00022B",
@@ -21,7 +21,7 @@
     "Count_of_Serial_Number": "",
     "Sum_of_Quantity": "3",
     "Sum_of_Unit_Price": "$639.23",
-    "ScannerID": "NONE"
+    "ScannerID": "987654321"
   },
   {
     "TAMCN": "A02107G",
