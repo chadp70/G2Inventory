@@ -1,9 +1,9 @@
 import "bootstrap/dist/css/bootstrap.min.css";
-import {  Row, Col, Form, InputGroup, Button, Card} from 'react-bootstrap';
+import {  Row, Col, Form, Button, Card} from 'react-bootstrap';
 import { useState } from 'react';
 
 
-function NewItemForm() {
+function NewItemForm(props) {
   const [validated, setValidated] = useState(false);
 
   const handleSubmit = (event) => {
@@ -19,7 +19,7 @@ function NewItemForm() {
   return (
     <>
     
-    <Card bg='light' >
+    {props.display && <Card bg='light'>
       <Card.Header as="h5">Add New Inventory Item </Card.Header>
       <Card.Body>
         
@@ -108,7 +108,7 @@ function NewItemForm() {
       <Button type="submit">Add Item to Inventory</Button>
     </Form>
       </Card.Body>
-    </Card>    
+    </Card>  }  
 
     </>
   );

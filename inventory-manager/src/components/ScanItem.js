@@ -3,14 +3,20 @@ import {useState, useEffect, useRef} from "react";
 import "../css/ScanItem.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import ItemResults from './ItemResults';
-
-const ScanItem = () => {
+import NewItemForm from './NewItemForm';
+const ScanItem = ({change}) => {
     const scannerValue = useRef(); //Scanner value object for reference
     scannerValue.current = "";
 
     const [scan,setScan] = useState();
+    const [newItem,setNewItem] = useState(false);
+    function handleChange(newValue) {
+      setNewItem(newValue);
+    }
+    
     
     useEffect(() => {
+
       const handleKeydown = (e) => {
         //Scanner must be set as keyboard emulator 
         //On scan, last event value passed is "Enter" key press
@@ -37,13 +43,17 @@ const ScanItem = () => {
       };
     }, []);
 
+  
+    
   return (
     
     <>   
       <Row><h5>Scan Inventory Item or enter item barcode here and press the {"<Enter>"} key: <input id='scannedItem' type="text" 
        /></h5></Row>
 
-        <ItemResults value={scan}/>
+        <ItemResults value={scan} change={handleChange}/>
+        <p>&nbsp;</p>
+        <NewItemForm display={newItem}/>
     </>
   );
 };
