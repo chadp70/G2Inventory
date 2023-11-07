@@ -2,10 +2,10 @@ const express = require('express');
 const router = express.Router();
 const schemas = require('../models/schemas')
 
-router.get('/items', (req, res) => {
+router.get('/items', async (req, res) => {
   const items = schemas.Items
 
-  const itemData = items.find({}).exec()
+  const itemData = await items.find({}).exec()
 
   if(itemData){
     res.end(JSON.stringify(itemData));
