@@ -4,7 +4,7 @@ function App() {
   
   const fetchData = async ()=>{
   
-  let res = await fetch('http://localhost:4000/items')
+  let res = await fetch('http://localhost:4000')
   let data = await res.json()
   setRepos(data)
   
