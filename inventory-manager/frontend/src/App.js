@@ -1,7 +1,5 @@
 
-import { Row, Col, Card, Button, Form } from 'react-bootstrap';
 import { useState, useEffect} from "react";
-import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
   const [repos, setRepos] = useState([])
@@ -45,30 +43,65 @@ function App() {
 
   return (
     <>
-      <Row>&nbsp;</Row>
-      <Row>
-        <Col>
+    
+  <div className="container-fluid">
+	<div className="row">
+		<div className="col-md-12">
+      
+			<div className="mt-4 p-5 bg-light text-dark rounded">
+				<h1>
+					Welcome to the G2 Inventory Management Application
+				</h1>
+				<p>
+					Use this tool to track the usage of all G2 assets.
+				</p>
+				<p>
+					<button className="btn btn-primary btn-large">Learn more</button>
+				</p>
+			</div>
+		</div>
+	</div>
+  <div className="row">
+  <div className="col-md-12">&nbsp;</div>
+  </div>
+	<div className="row">
+		<div className="col-md-2">
+			<div className="btn-group btn-group-vertical btn-group-lg" role="group">
+				 
+				<button className="btn btn-secondary" type="button">Left</button> 
+				<button className="btn btn-secondary" type="button">Center</button> 
+				<button className="btn btn-secondary" type="button">Right</button> 
+				<button className="btn btn-secondary" type="button">Justify</button>
+			</div>
+		</div>
+		<div className="col-md-4">
+			<h2>
+				Heading
+			</h2>
+			<p>
+				Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
+			</p>
+			<p>
+				<a className="btn" href="/">View details »</a>
+			</p>
+		</div>
+		<div className="col-md-6">
+			<div className="card">
+				<h5 className="card-header">
+					Card title
+				</h5>
+				<div className="card-body">
+					<p className="card-text">
           Select Inventory Item: <select id='selItems' onChange={(e) => handleSelectChange(e)}><option>SELECT AN ITEM</option></select>
-        </Col>
-      </Row>
-
-      <Row>&nbsp;</Row>
-
-      <Row>
-        <Col>
-          <Card style={{ width: '18rem' }}>
-            <Card.Img variant="top" src="images/placeholder.png" />
-            <Card.Body>
-              <Card.Title>Card Title</Card.Title>
-              <Card.Text>
-                Some quick example text to build on the card title and make up the
-                bulk of the card's content.
-              </Card.Text>
-              <Button variant="primary">Go somewhere</Button>
-            </Card.Body>
-          </Card>
-        </Col>
-      </Row>
+					</p>
+				</div>
+				<div className="card-footer">
+					Card footer
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
     </>
   )
 }

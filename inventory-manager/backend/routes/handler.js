@@ -13,8 +13,5 @@ router.get('/items', async (req, res) => {
     
 });
 
-router.post('/addTweet', (req, res) => {
-    res.end('NA');
-});
 
 module.exports = router;
