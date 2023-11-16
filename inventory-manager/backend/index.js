@@ -14,8 +14,7 @@ app.use(bodyParser.urlencoded({extended:false}));
 app.use(bodyParser.json());
 app.use('/', routesHandler);
 
-const dbOptions = {useNewUrlParser:true,useUnifiedTopology:true}
-mongoose.connect(process.env.DB_URI, dbOptions)
+mongoose.connect(process.env.DB_URI)
 .then(()=>console.log('DB Connected'))
 .catch(err => console.log(err))
 
