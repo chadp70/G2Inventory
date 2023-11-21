@@ -2,17 +2,31 @@ const express = require('express');
 const router = express.Router();
 const schemas = require('../models/schemas')
 
-router.get('/items', async (req, res) => {
+router.get('/items', getItem, (req, res) => {
+res.send(res.Item)
+})
+
+router.get('/items/:ScannerID', getItem, (req, res) => {
+  res.send(res.Item)
+})
+
+
+
+
+async function getItem(req, res, next){
   const items = schemas.Items
+  let Item
+  try{
+    Item = await items.find(req.params)
+      if(Item == null){
+          return res.status(404).json({ message: 'Cannot find Item' })
+      }
+  }catch(err){
+      return res.status(500).json({ message: err.message})
+  }  
 
-  //const itemData = await items.find({ ScannerID: '041167066201' }).limit(100).exec()
-  const itemData = await items.find({}).exec()
-
-  if(itemData){
-    res.end(JSON.stringify(itemData));
-  }
-    
-});
-
+  res.Item = Item
+  next()
+}
 
 module.exports = router;
