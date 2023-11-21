@@ -1,16 +1,8 @@
 import "bootstrap/dist/css/bootstrap.min.css";
 import {  Row, Col, Card } from 'react-bootstrap';
-import fullInventory from '../api/inventory.json';
+//import fullInventory from '../api/inventory.json';
 //Pass the property(ies) from SelectItem to to ItemResults and return all results to the screen
 const ItemResults = (props) => {
-
-    //let results = [];
-    //filter the full inventory list based on selected components
-    let results = fullInventory.filter((data) => {return data.ScannerID === props.value;})
-    if(results.length>0){
-        props.change(false);
-        return (
-            
             <>
             <Card bg='light'>
             <Card.Header as="h5">Results of Inventory Scan:</Card.Header>
@@ -25,7 +17,7 @@ const ItemResults = (props) => {
                 <Col xs={2}><strong>Sum of Quantity</strong></Col>
                 <Col xs={2}><strong>Sum of Unit Price</strong></Col>
             </Row>
-             {results.map(( listValue, index ) => {
+             {props.map(( listValue, index ) => {
                 
                 return(
                 
@@ -44,10 +36,6 @@ const ItemResults = (props) => {
             </Card.Body>
             </Card>
             </>
-    );
-    }else{
-        props.change(true);
-    }
 
 
 };

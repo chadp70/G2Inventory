@@ -6,7 +6,7 @@ function App() {
   const [dropDownSelected, setDropDownSelected] = useState('');
 
 
-  const fetchData = async () => {
+  const buildDropdown = async () => {
 
     let res = await fetch('http://127.0.0.1:4000/items')
     let data = await res.json()
@@ -32,14 +32,25 @@ function App() {
     }
   }
 
+  const getItem = async (val) => {
 
-  	useEffect(() => {
-    	fetchData()
-  	}, [])
+    let res = await fetch('http://127.0.0.1:4000/items/' + val)
+    let data = await res.json()
+	console.log(data);
+  }
+
+  useEffect(() => {
+	let ignore = false;
+	
+	if (!ignore)  buildDropdown()
+	return () => { ignore = true; }
+	},[]);
+
+
 
   useEffect(() => {
     console.log(dropDownSelected)
-	//fetchData(dropDownSelected)
+	getItem(dropDownSelected)
   }, [dropDownSelected])
 
   return (
