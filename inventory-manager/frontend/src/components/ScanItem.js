@@ -2,18 +2,10 @@ import { Row, Card, Col } from 'react-bootstrap';
 import { useState, useEffect, useRef } from "react";
 import "../css/ScanItem.css";
 import "bootstrap/dist/css/bootstrap.min.css";
-import NewItemForm from './NewItemForm';
 const ScanItem = ({ change }) => {
   const [scan, setScan] = useState('')
   const [selected, setSelected] = useState('')
   const scannerValue = useRef(''); //Scanner value object for reference
-  scannerValue.current = "";
-
-  const [newItem, setNewItem] = useState(false);
-  function handleChange(newValue) {
-    setNewItem(newValue);
-  }
-
 
   const getItem = async (val) => {
 
@@ -38,7 +30,7 @@ const ScanItem = ({ change }) => {
         } else {
           //Got to enter set the "scan" state
           setScan(scannerValue.current);
-          console.log(scannerValue.current)
+          console.log(scan)
           getItem(scannerValue.current)
           //reset the scannerValue object's "current" attribute to an empty string
           scannerValue.current = "";
