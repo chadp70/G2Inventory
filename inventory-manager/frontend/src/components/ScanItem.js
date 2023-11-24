@@ -3,12 +3,12 @@ import { useState, useEffect, useRef } from "react";
 import "../css/ScanItem.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 const ScanItem = ({ change }) => {
-  const [scan, setScan] = useState('')
+
   const [selected, setSelected] = useState('')
   const scannerValue = useRef(''); //Scanner value object for reference
 
   const getItem = async (val) => {
-
+    document.getElementsByClassName("clsHeader").InnerText = "Do you wish to check this item out?"
     let res = await fetch('http://127.0.0.1:4000/items/' + val)
     let data = await res.json()
     console.log(data);
@@ -29,8 +29,6 @@ const ScanItem = ({ change }) => {
 
         } else {
           //Got to enter set the "scan" state
-          setScan(scannerValue.current);
-          console.log(scan)
           getItem(scannerValue.current)
           //reset the scannerValue object's "current" attribute to an empty string
           scannerValue.current = "";
@@ -53,8 +51,11 @@ const ScanItem = ({ change }) => {
 
     <>
       <Row>
-        {selected != '' && <Card bg='light'>
-          <Card.Header as="h5">Results of Inventory Scan:</Card.Header>
+        <h5 className='clsHeader'>Scan an item to begin:</h5>
+      </Row>
+      <Row>
+        {selected !== '' && <Card bg='light'>
+
           <Card.Body>
             <Row>
               <Col xs={2}><strong>Item Name</strong></Col>
