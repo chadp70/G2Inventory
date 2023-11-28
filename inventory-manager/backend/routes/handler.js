@@ -11,19 +11,23 @@ router.get('/items/:ScannerID', getItem, (req, res) => {
 })
 
 //Creating one
-router.post('/', async (req, res) => {
-  const item = new item({
-      name: req.body.name,
-  })
-  try{
-      const newItem = await item.save()
-      res.status(201).json(newItem)
-  }catch(err){
-      res.status(400).json({ message: err.message })
+router.post("/", async (req, resp) => {
+  
+  try {
+      const item = schemas.Items(req.body);
+      let result = await item.save();
+      result = result.toObject();
+      if (result) {
+          resp.send(req.body);
+      } else {
+       
+      }
+      console.log(req.body)
+
+  } catch (e) {
+      resp.send(e);
   }
-
-})
-
+});
 
 
 async function getItem(req, res, next){
