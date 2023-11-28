@@ -10,21 +10,18 @@ router.get('/items/:ScannerID', getItem, (req, res) => {
   res.send(res.Item)
 })
 
-router.post("/items", async (req, resp) => {
-  try {
-    const items = schemas.Items
-      let result = await items.save();
-      result = result.toObject();
-      if (result) {
-          resp.send(req.body);
-          console.log(result);
-      } else {
-          console.log("User already register");
-      }
-
-  } catch (e) {
-      resp.send("Something Went Wrong");
+//Creating one
+router.post('/', async (req, res) => {
+  const item = new item({
+      name: req.body.name,
+  })
+  try{
+      const newItem = await item.save()
+      res.status(201).json(newItem)
+  }catch(err){
+      res.status(400).json({ message: err.message })
   }
+
 })
 
 

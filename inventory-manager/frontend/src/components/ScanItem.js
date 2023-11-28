@@ -45,7 +45,7 @@ const ScanItem = ({ change }) => {
     let Available = true
     let ckOut = ''
     let result = await fetch(
-    'http://localhost:4000/items', {
+    'http://localhost:4000/', {
         method: "post",
         body: JSON.stringify({ tamcn, aac, suc, acct, name, niin, newItemBarcode, Available, ckOut }),
         headers: {
