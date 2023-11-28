@@ -8,11 +8,9 @@ const itemSchema = new Schema({
     Account_Number: { type: String },
     Nomenclature: { type: String },
     NIIN: { type: String },
-    Count_of_Serial_Number: { type: String },
-    Sum_of_Quantity: { type: String },
-    Sum_of_Unit_Price: { type: String },
-    CheckedOut: { type: Boolean },
-    ScannerID: { type: String }
+    ScannerID: { type: String },
+    Available: {type: Boolean},
+    CheckedOutTo: { type: String }  
 })
 
 const Items = mongoose.model('Items', itemSchema, 'items')
