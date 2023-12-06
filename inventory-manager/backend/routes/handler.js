@@ -2,12 +2,16 @@ const express = require('express');
 const router = express.Router();
 const schemas = require('../models/schemas')
 
+const cors = require("cors");
+const app = express();
+app.use(cors());
+
 router.get('/items', getItem, (req, res) => {
 res.send(res.Item)
 })
 
-router.get('/items/:ScannerID', getItem, (req, res) => {
-  res.send(res.Item)
+router.get('/items/:ScannerID', getItem, (req, resp) => {
+  resp.send(resp.Item)
 })
 
 //Creating one
@@ -15,6 +19,7 @@ router.post("/", async (req, resp) => {
   
   try {
       const item = schemas.Items(req.body);
+      
       let result = await item.save();
       result = result.toObject();
       if (result) {
@@ -26,6 +31,23 @@ router.post("/", async (req, resp) => {
 
   } catch (e) {
       resp.send(e);
+  }
+});
+
+
+//Check out/in
+router.patch("/items/:ScannerID", async (req, resp) => {
+  const item = schemas.Items(req.body);
+  try {
+      let scannerId = req.params.ScannerID
+      let available = req.params.Available
+      await item.findOneAndUpdate( 
+        { ScannerID: scannerId },  
+        { name: {$set: !available} } 
+    ); 
+
+  } catch (e) {
+      resp.send(e.message);
   }
 });
 
