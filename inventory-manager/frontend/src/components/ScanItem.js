@@ -88,11 +88,8 @@ const ScanItem = ({ change }) => {
       if (result) {
           alert("Data Updated succesfully");
           scannerValue.current = ''
-          setNomenclature('');
-          setTAMCN('');
-          setAAC('');
-          setAAC('');
-          setAccount_Number('');
+          setAvailable(false)
+          setCheckedOutTo(result.CheckedOutTo)
       }
     }catch(e){
       alert(e.message);
