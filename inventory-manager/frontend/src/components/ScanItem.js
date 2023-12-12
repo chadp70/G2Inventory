@@ -122,8 +122,8 @@ const ScanItem = ({ change }) => {
   useEffect(() => {
 
     const handleKeydown = (e) => {
-      //Scanner must be set as keyboard emulator 
-      //On scan, last event value passed is "Enter" key press
+      //Scanner must be set as a keyboard emulator 
+      //On scan, the last event value passed to the app is the "Enter" key press
 
       if (e.key !== "Shift") {        //Ignore a "shift" key press as the correctly capitalized letter is sent anyway
         if (e.key !== "Enter") {
@@ -131,7 +131,7 @@ const ScanItem = ({ change }) => {
           scannerValue.current += e.key;
 
         } else {
-          //Got to enter set the "scan" state
+          //Go look for the scanned value in the database
           getItem(scannerValue.current)
           //reset the scannerValue object's "current" attribute to an empty string
           scannerValue.current = "";
@@ -141,7 +141,7 @@ const ScanItem = ({ change }) => {
       }
 
     };
-
+    //This is the event listener waiting for a keypress
     window.addEventListener("keydown", handleKeydown);
     return () => {
       window.removeEventListener("keydown", handleKeydown);
@@ -158,7 +158,7 @@ const ScanItem = ({ change }) => {
         <h5 className='clsHeader'>{headerText}</h5>
       </Row>
       <Row>
-        {showSelected &&
+        {showSelected &&    //if showSelected is true, this block of JSX will trigger and display on the screen (show selected is triggered in getItem() function)
           <>
             <Row>
               <Col xs={2}>&nbsp;</Col>
@@ -276,7 +276,7 @@ const ScanItem = ({ change }) => {
 
         </>}
 
-        {newChoice &&
+        {newChoice && ////if newChoice is true, this block of JSX will trigger and display on the screen (newChoice is triggered in getItem() function when no value is returned from the database search)
           <>
             <Card bg='light'>
 
