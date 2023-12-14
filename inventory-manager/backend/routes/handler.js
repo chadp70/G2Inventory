@@ -1,10 +1,9 @@
 const express = require('express');
-const router = express.Router();
 const schemas = require('../models/schemas')
 
 const cors = require("cors");
-const app = express();
-app.use(cors());
+const router = express();
+router.use(cors());
 
 
 
@@ -44,7 +43,9 @@ router.post("/", async (req, resp) => {
 //!!! THIS DOES NOT WORK !!! There is a CORS error (cross domain origin that needs to be addressed)
 router.patch("/items/:ScannerID", async (req, resp) => {
   const item = schemas.Items(req.body);
+  console.log(item)
   try {
+      
       let scannerId = req.params.ScannerID  //Get requested scanner id
       let available = req.params.Available // Get value of the available key
       await item.findOneAndUpdate( 
@@ -53,6 +54,7 @@ router.patch("/items/:ScannerID", async (req, resp) => {
     ); 
 
   } catch (e) {
+      
       resp.send(e.message);
   }
 });

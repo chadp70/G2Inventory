@@ -10,6 +10,7 @@ const ScanItem = ({ change }) => {
   const [addItem, setAddItem] = useState(false)
   const [ScannerID, setScannerID] = useState('')
 
+  const [ID, setID] = useState('')
   const [Nomenclature, setNomenclature] = useState('')
   const [TAMCN, setTAMCN] = useState('')
   const [AAC, setAAC] = useState('')
@@ -79,14 +80,14 @@ const ScanItem = ({ change }) => {
 
   const handleCheckItemInOut = async (e) => {
     e.preventDefault();
-    let ScannerID = selected.ScannerID
+    let id = selected._id
     let Available = selected.Available
-    let CheckedOutTo = selected.CheckedOutTo
+   // let CheckedOutTo = selected.CheckedOutTo
     try {
       let result = await fetch(
         'http://localhost:4000/', {
         method: "patch",
-        body: JSON.stringify({ ScannerID, Available, CheckedOutTo }),
+        body: JSON.stringify({ id, Available }),
         headers: {
           'Content-Type': 'application/json'
         }
@@ -170,32 +171,35 @@ const ScanItem = ({ change }) => {
                 <Table striped bordered>
                   <thead>
                     <tr>
+                      <th>ID</th>
                       <th>Barcode</th>
                       <th>Name</th>
                       <th>TAMCN</th>
-                      <th>AAC</th>
                     </tr>
                   </thead>
                   <tbody>
                     <tr>
+                      <td>{selected._id}</td>
                       <td>{selected.ScannerID}</td>
                       <td>{selected.Nomenclature}</td>
                       <td>{selected.TAMCN}</td>
-                      <td>{selected.AAC}</td>
+                      
                     </tr>
                   </tbody>
                   <thead>
                     <tr>
+                      <th>AAC</th>
                       <th>Account Number</th>
                       <th>NIIN</th>
-                      <td colSpan={2}>&nbsp;</td>
+                      <td>&nbsp;</td>
                     </tr>
                   </thead>
                   <tbody>
                     <tr>
+                      <td>{selected.AAC}</td>
                       <td>{selected.Account_Number}</td>
                       <td>{selected.NIIN}</td>
-                      <td colSpan={2}>&nbsp;</td>
+                      <td>&nbsp;</td>
                     </tr>
                     <tr>
                       <td colSpan={4}>
